@@ -1,124 +1,113 @@
-{% extends "base.html" %} {% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>apw — adrian price-whelan </title>
+	<meta name="description" content="">
+	<meta name="author" content="adrn">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+	<!--[if lt IE 9]>
+		<script src="https://adrian.pw/theme/html5.js"></script>
+		<![endif]-->
+	<link href="https://adrian.pw/theme/css/ipython.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/simplex/bootstrap.min.css" rel="stylesheet">
+	<link href="https://adrian.pw/theme/css/local.css" rel="stylesheet">
+	<link href="https://adrian.pw/theme/css/pygments.css" rel="stylesheet">
+	<link href="https://adrian.pw/theme/fonts/academicons-1.8.0/css/academicons.css" rel="stylesheet">
+</head>
+<body>
+<div class="container" style="max-width: 768px;">
+	<div class="page-header">
+		<h1><a href="https://adrian.pw/">adrian price-whelan</a>
+		</h1>
 
-<section id="bio">
-  I'm an Associate Research Scientist at the
-  <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute</a>'s
-  <a href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/"
-    >Center for Computational Astrophysics</a
-  >. My main research interest is the application of probabilistic data analysis techniques to solve fundamental
-  problems in astronomy. These days, I'm mostly using time domain surveys to discover new exoplanets, interpret the
-  underlying population of these planets, and learn more about the variability of stars. I am also interested in the
-  development of scientific software and open-source practices.
+		<ul class="menu list-inline">
+	        		<li><a href="https://adrian.pw/bio.html">bio</a></li>
+	        		<li><a href="http://adrian.pw/cv/pdf/cv.pdf">cv</a></li>
+	        		<li><a href="https://adrian.pw/research.html">research</a></li>
+	        		<li><a href="https://adrian.pw/code.html">code</a></li>
+	        		<li><a href="https://adrian.pw/viz.html">viz</a></li>
+	        		<li><a href="https://adrian.pw/teaching.html">teaching</a></li>
+	        		<li><a href="https://adrian.pw/press.html">press</a></li>
+	        		<li><a href="https://adrian.pw/blog/">blog</a></li>
+        </ul>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+<section id="content" class="body">
+    <p>I'm currently a postdoctoral fellow at the
+<a class="reference external" href="https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/">CCA</a>
+at the <a class="reference external" href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute</a> in NYC. [<a class="reference external" href="/bio.html">bio</a>]</p>
+<p>My main research centers on the structure and formation of the Milky Way.
+[<a class="reference external" href="/research.html">research</a>]</p>
+<p>You can read popular accounts of some of my recent work in the news.
+[<a class="reference external" href="/press.html">press</a>]</p>
+<p>I'm passionate about open source software and open science. [<a class="reference external" href="/code.html">code</a>]</p>
+<p>I've made a few data visualizations and demos that might be useful. [<a class="reference external" href="/viz.html">viz</a>]</p>
+<p>I very occasionally write a blog post or tutorial of general interest.
+[<a class="reference external" href="/blog">blog</a>]</p>
+<hr class="docutils" />
+<address>
+Office 505<br/>
+Center for Computational Astrophysics<br/>
+Flatiron Institute<br/>
+162 Fifth Avenue<br/>
+New York, NY 10010<br/>
+USA
+</address>
 </section>
+		</div>
+	</div>
+	<!-- <hr> -->
+</div> <!-- /container -->
 
-<section id="code">
-  <h2>Code</h2>
-  I write a lot of code for work and in my spare time. All my projects live in
-  <a href="https://github.com/dfm">public repositories on GitHub</a>. Here are some of my most popular research codes:
-  {% raw %}
-  <script id="code-template" type="x-tmpl-mustache">
-    {{#codes}}
-    <li>
-        <i><a href="{{homepageUrl}}">{{name}}</a></i> &mdash; {{description}}
-    </li>
-    {{/codes}}
-    {{^codes}}
-    Unable to load of software.
-    {{/codes}}
-  </script>
-  {% endraw %}
 
-  <ul id="codelist"></ul>
-</section>
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center center-block apw-bottom">
+			<p>
+				<a class="iconlinks" href="https://github.com/adrn"><i class="fa fa-github fa-3x"></i></a>
+				<a class="iconlinks" href="https://twitter.com/adrianprw"><i class="fa fa-twitter fa-3x"></i></a>
+				<a class="iconlinks" href="https://instagram.com/ampw"><i class="fa fa-instagram fa-3x"></i></a>
+				<a class="iconlinks" href="http://scholar.google.ca/citations?user=_wSmxLcAAAAJ&hl=en"><i class="ai ai-google-scholar ai-3x"></i></a>
+				<a class="iconlinks" href="https://orcid.org/0000-0003-0872-7098"><i class="ai ai-orcid ai-3x"></i></a>
+			</p>
+			<p>&copy;2014–2018 Adrian Price-Whelan</p>
+			<p>Contact me on <a href="https://twitter.com/adrianprw">Twitter</a> or adrianmpw@gmail.com</p>
+			<!-- <p>Powered by Pelican</p> -->
+		</div>
+	</div>
+</div>
 
-<section id="pubs">
-  <h2>Publications</h2>
-  My full list of publications is available
-  <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Foreman-Mackey&db_key=PRE"
-    >on ADS</a
-  >
-  but here are a few highlights: {% raw %}
-  <script id="pub-template" type="x-tmpl-mustache">
-    {{#pubs}}
-    <li>
-        {{authorsFormat}}, {{year}}, <a href="{{url}}"><i>{{title}}</i></a>.
-        {{#codeLink}}<br><small>[<a href="{{codeLink}}">code</a>]</small>{{/codeLink}}
-    </li>
-    {{/pubs}}
-    {{^pubs}}
-    Unable to load publication list.
-    {{/pubs}}
-  </script>
-  {% endraw %}
-
-  <ul id="publist"></ul>
-</section>
-
-<script src="https://unpkg.com/mustache@latest"></script>
-<script>
-  var codeMap = {
-    "10.1086/670067": "https://github.com/dfm/emcee",
-    "10.1088/0004-637X/795/1/64": "https://github.com/dfm/exopop",
-    "10.1088/0004-637X/806/2/215": "https://github.com/dfm/ketu",
-    "10.21105/joss.00024": "https://github.com/dfm/corner.py",
-    "10.3847/0004-6256/152/6/206": "https://github.com/dfm/peerless",
-    "10.3847/1538-3881/aa9332": "https://github.com/dfm/celerite",
-    "10.3847/2515-5172/aaaf6c": "https://github.com/dfm/celerite-grad",
-    "10.21105/joss.01864": "https://github.com/dfm/emcee"
-  };
-
-  function formatAuthors(authors) {
-    authors = authors.map(author => {
-      var tokens = author.split(", ");
-      if (tokens.length != 2) return author;
-      return tokens[1][0] + ". " + tokens[0];
-    });
-    if (authors.length == 1) {
-      return authors[0];
-    } else if (authors.length >= 5) {
-      return authors.slice(0, 4).join(", ") + ", et al.";
-    }
-    return authors.slice(0, authors.length - 1).join(", ") + ", and " + authors[authors.length - 1];
-  }
-
-  (() => {
-    var codeTemplate = document.getElementById("code-template").innerHTML;
-    fetch("https://raw.githubusercontent.com/dfm/cv/master/repos.json")
-      .then(response => response.json())
-      .then(data => {
-        data = data.data.user.pinnedItems.edges.map(value => value.node);
-        var rendered = Mustache.render(codeTemplate, { codes: data });
-        document.getElementById("codelist").innerHTML = rendered;
-      })
-      .catch(() => {
-        var rendered = Mustache.render(codeTemplate, { codes: [] });
-        document.getElementById("codelist").innerHTML = rendered;
-      });
-
-    var pubTemplate = document.getElementById("pub-template").innerHTML;
-    fetch("https://raw.githubusercontent.com/dfm/cv/master/pubs.json")
-      .then(response => response.json())
-      .then(data => {
-        // Only first author
-        data = data.filter(value => {
-          return value.authors[0].startsWith("Foreman-Mackey") && value.doctype == "article";
-        });
-
-        // Format authors
-        data = data.map(value => {
-          value.authorsFormat = formatAuthors(value.authors);
-          value.codeLink = codeMap[value.doi];
-          return value;
-        });
-
-        var rendered = Mustache.render(pubTemplate, { pubs: data });
-        document.getElementById("publist").innerHTML = rendered;
-      })
-      .catch(() => {
-        var rendered = Mustache.render(pubTemplate, { pubs: [] });
-        document.getElementById("publist").innerHTML = rendered;
-      });
-  })();
+<!-- JavaScript -->
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	$("div.collapseheader").click(function () {
+		$header = $(this).children("span").first();
+		$codearea = $(this).children(".input_area");
+		$codearea.slideToggle(500, function () {
+			$header.text(function () {
+				return $codearea.is(":visible") ? "Collapse Code" : "Expand Code";
+			});
+		});
+	});
+});
 </script>
 
-{% endblock %}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-11936482-16', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
