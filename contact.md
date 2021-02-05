@@ -3,19 +3,20 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [sfeng[at]hebtu.edu.cn](mailto:sfeng[at]hebtu.edu.cn)
 
 * Phone: [+91-123123](tel:+91-123123)
 
 ---
 
 ## Mailing Address
-
-> 221B, Baker Street
+> Science Building 2B601
 >
-> London
+> South Erhuan Road No. 20, Hebei Normal University
 >
-> United Kingdom
+> Shijiazhuang, Hebei
+>
+> China
 
 ---
 
