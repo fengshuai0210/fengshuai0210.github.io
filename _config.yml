@@ -1,6 +1,6 @@
 title: Shuai Feng
 url: "https://fengshuai0210.github.io"
-baseurl: "/sfeng"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/sfeng/"
+   link: "./"
  - name: "Research"
    link: "research"
  - name: "Contact"
