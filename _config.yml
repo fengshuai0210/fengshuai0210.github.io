@@ -18,9 +18,9 @@ sass:
 nav:
  - name: "Home"
    link: "./"
- - name: "About"
-   link: "about"
- - name: "Research"
-   link: "research"
+ #- name: "About"
+ #  link: "about"
+ #- name: "Research"
+ #  link: "research"
  - name: "Contact"
    link: "contact"
