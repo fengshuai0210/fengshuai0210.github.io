@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## About Me
-
 <img class="profile-picture" src="sherlock.jpg">
 
 Hi! My name is Shuai Feng (冯帅), an astronomer at [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
