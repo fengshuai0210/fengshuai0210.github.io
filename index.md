@@ -9,9 +9,11 @@ Hi! My name is Shuai Feng (冯帅), an astronomer at [Hebei Normal University](h
 ## Research
 
 My research is focus on the galaxy formation and evolution. 
-- Galaxy interaction, e.g. galaxy pair, small groups
+- Galaxy interaction, e.g. galaxy pair, galaxy group
 - Galaxy kinematics, e.g. morphology of kinematic field
-- Star formation, e.g. HII region, massive young stars
+- Star formation, e.g. HII region, young stars
+
+[My ADS]()
 
 ## Teaching
 - [Optics]()
