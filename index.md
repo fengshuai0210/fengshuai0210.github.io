@@ -13,7 +13,7 @@ My research is focus on the galaxy formation and evolution.
 - Galaxy kinematics, e.g. morphology of kinematic field
 - Star formation, e.g. HII region, young stars
 
-[My ADS]()
+[My ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
 
 ## Teaching
 - [Optics]()
