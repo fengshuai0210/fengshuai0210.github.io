@@ -5,17 +5,14 @@ is_contact: true
 
 * Email: [sfeng[at]hebtu.edu.cn](mailto:sfeng[at]hebtu.edu.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-123123](tel:+86-(0311)80787368)
 
 ---
 
 ## Mailing Address
 > Science Building 2B601
->
 > South Erhuan Road No. 20, Hebei Normal University
->
 > Shijiazhuang, Hebei
->
 > China
 
 ---
