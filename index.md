@@ -15,6 +15,15 @@ My research is focus on the galaxy formation and evolution.
 
 [My ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
 
+## Education
+
+* 2020, Ph.D of Astrophysics, Shanghai Astronomical Observatory, Chinese Academy of Sciences
+* 2011, B.S of Physics, Hebei Normal University
+
+## Research Experience
+
+* 2020 - Now, Lecture, Hebei Normal University
+
 ## Teaching
 - [Optics]()
 - [Extra-Galactic Astronomy]()
