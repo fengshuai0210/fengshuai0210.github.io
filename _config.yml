@@ -19,7 +19,7 @@ nav:
  - name: "Home"
    link: "./"
  - name: "CV"
-   link: "cv.pdf"
+   link: #"cv.pdf"
 #- name: "About"
 #  link: "about"
 #- name: "Research"
