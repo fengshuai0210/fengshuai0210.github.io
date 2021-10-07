@@ -11,4 +11,4 @@ is_about: true
 ## Research Experience
 
 * 2020 - Now, Lecture, Hebei Normal University
-* 2013-2014, Visiting Student, University of Science and Technology of China
+* 2013 - 2014, Visiting Student, University of Science and Technology of China
