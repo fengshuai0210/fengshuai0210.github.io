@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "Home"
    link: "./"
- - name: "CV"
-   link: "about"
+# - name: "CV"
+#   link: "about"
  - name: "Research"
    link: "research"
  - name: "Teaching"
