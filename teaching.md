@@ -18,4 +18,4 @@ is_teaching: true
 ## Graduated Course
 
 ### Astronomy
-- [Galaxies in the Universe](https://github.com/fengshuai0210/Course_Galaxies) (2022)
+- [Galactic Astronomy](https://github.com/fengshuai0210/Course_Galaxies) (2022)
