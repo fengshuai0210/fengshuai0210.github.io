@@ -8,9 +8,9 @@ Hi! My name is Shuai Feng (冯帅), an astronomer at [Hebei Normal University](h
 
 ## Education
 
-* 2020, Ph.D of Astrophysics, [Shanghai Astronomical Observatory](http://www.shao.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/)
-* 2013, Visiting Student, [Department of Astronomy](https://astro.ustc.edu.cn/), [University of Science and Technology of China](https://ustc.edu.cn/)
-* 2011, B.S of Physics, [College of Physics](), [Hebei Normal University](http://www.hebtu.edu.cn/)
+* 2020, Ph.D of Astrophysics, [Shanghai Astronomical Observatory, CAS](http://www.shao.ac.cn/)
+* 2013, Visiting Student, [University of Science and Technology of China](https://astro.ustc.edu.cn/)
+* 2011, B.S of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 
 ## Research Experience
 
