@@ -3,9 +3,9 @@ layout: default
 is_teaching: true
 ---
 
-# Teaching
+## ***教学相长也！***
 
-## Undergraduated
+## Undergraduated Course
 
 ### Physics
 - [General Physics Experiment I]() (2021)
@@ -15,7 +15,7 @@ is_teaching: true
 - [Observational Astronomy]() (2021, 2022)
 - [Data Analysis for Astronomy]() (2020, 2021)
 
-## Graduated
+## Graduated Course
 
 ### Astronomy
 - [Extra-Galactic Astronomy]() (2022)
