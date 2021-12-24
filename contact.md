@@ -19,6 +19,6 @@ Shijiazhuang, Hebei Province, China
 
 ## Social
 
-- [Facebook](#)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width=20px>[Facebook](#)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width=20px> [Twitter](#)
 - [Bilibili]()
