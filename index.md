@@ -4,6 +4,8 @@ layout: default
 
 <img class="profile-picture" src="sfeng.png">
 
+## **有朋自远方来，不亦乐乎**
+
 Hi! My name is Shuai Feng (冯帅), an astronomer at [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
 ## Education
