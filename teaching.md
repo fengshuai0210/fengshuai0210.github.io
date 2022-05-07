@@ -13,7 +13,7 @@ is_teaching: true
 
 ### Astronomy
 - [Observational Astronomy]() (2021, 2022)
-- [Data Analysis for Astronomy]() (2020, 2021)
+- [Data Analysis for Astronomy]() (2020, 2021, 2022)
 
 ## Graduated Course
 
