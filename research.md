@@ -3,7 +3,7 @@ layout: default
 is_research: true
 ---
 
-# ***路漫漫其修远兮，吾将上下而求索***
+## ***路漫漫其修远兮，吾将上下而求索***
 
 ## Research Interest
 
