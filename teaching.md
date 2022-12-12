@@ -3,7 +3,7 @@ layout: default
 is_teaching: true
 ---
 
-## ***教学相长也！***
+## Teaching
 
 ## Undergraduated Course
 
