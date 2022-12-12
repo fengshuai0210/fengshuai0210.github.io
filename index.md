@@ -6,7 +6,7 @@ layout: default
 
 ## **有朋自远方来，不亦乐乎**
 
-Hi! My name is Shuai Feng (冯帅), an astronomer at [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
+My name is Shuai Feng (冯帅). I'm currently a Lecture at the Department of Space Science and Astronomy in [Hebei Normal University](http://www.hebtu.edu.cn/), China. My primary research focuses on the galaxy evolution and the ecosystem of galaxies, including galaxy merging and interaction in galaxy pairs, kinematics of ionized gas unveiled by integral field spectroscopy, chemical evolution of ionized gas within galaxies. 
 
 ## Education
 
