@@ -7,7 +7,7 @@ is_research: true
 
 ## Research Interest
 
-My research is focus on the galaxy formation and evolution. 
+My research is focus on the galaxy evolution and the ecosystem of galaxies 
 - Galaxy interaction, e.g. galaxy pair, galaxy group
 - Galaxy kinematics, e.g. morphology of kinematic field
 - Star formation, e.g. HII region, young stars
