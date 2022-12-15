@@ -9,10 +9,9 @@ is_research: true
 
 ## Research Interest
 
-My research is focus on the galaxy evolution and the ecosystem of galaxies 
-- Galaxy interaction, e.g. galaxy pair, galaxy group
-- Galaxy kinematics, e.g. morphology of kinematic field
-- Star formation, e.g. HII region, young stars
+##### Galaxy formation and evolution
+- Peculiar properties of galaxies induced by the galaxy interaction through studying galaxy pairs based on the data of galaxy sky survey (e.g. [SDSS](http://www.sdss.org/), [LAMOST](https://www.lamost.org/public/?locale=en), [GAMA](http://www.gama-survey.org/))
+- Kinematics of ionized gas unveiled by the morphology of velocity field provided by the observation of integral field spectroscopy (e.g. [SDSS-IV MaNGA](https://www.sdss4.org/surveys/manga/))
 
 ## Publications
 
