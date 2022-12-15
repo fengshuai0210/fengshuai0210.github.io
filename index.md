@@ -2,11 +2,11 @@
 layout: default
 ---
 
+*有朋自远方来，不亦乐乎*
+
 <img class="profile-picture" src="sfeng.png">
 
 # About Me
-
-*有朋自远方来，不亦乐乎*
 
 My name is Shuai Feng (冯帅). I'm currently a Lecture at the Department of Space Science and Astronomy in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
