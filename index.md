@@ -26,8 +26,8 @@ My primary research focuses on the galaxy evolution and the ecosystem of galaxie
 
 # Contact
 
-* Email: [sfeng[at]hebtu.edu.cn](mailto:sfeng[at]hebtu.edu.cn)
-* Phone: [+86-(0311)80787368](tel:+86-(0311)80787368)
-* Address: Science Building 2-B601 \
+* **Email:** [sfeng[at]hebtu.edu.cn](mailto:sfeng[at]hebtu.edu.cn)
+* **Phone:** [+86-(0311)80787368](tel:+86-(0311)80787368)
+* **Address:** Science Building 2-B601 \
   South Erhuan Road No. 20, Hebei Normal University \
   Shijiazhuang, Hebei Province, China 
