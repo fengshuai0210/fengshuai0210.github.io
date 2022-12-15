@@ -9,7 +9,7 @@ is_research: true
 
 ## Research Interest
 
-##### Galaxy formation and evolution
+### Galaxy formation and evolution
 - Peculiar properties of galaxies induced by the galaxy interaction through studying galaxy pairs based on the data of galaxy sky survey (e.g. [SDSS](http://www.sdss.org/), [LAMOST](https://www.lamost.org/public/?locale=en), [GAMA](http://www.gama-survey.org/))
 - Kinematics of ionized gas unveiled by the morphology of velocity field provided by the observation of integral field spectroscopy (e.g. [SDSS-IV MaNGA](https://www.sdss4.org/surveys/manga/))
 
