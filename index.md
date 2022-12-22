@@ -20,7 +20,8 @@ My primary research focuses on the galaxy evolution and the ecosystem of galaxie
 
 ## Research Experience
 
-* 2020 - Now, Lecture, Hebei Normal University
+* 2020 - 2022, Lecture, Hebei Normal University
+* 2023 - Now , Associate Professor, Hebei Normal University
 
 **[My CV]()**
 
