@@ -5,8 +5,6 @@ is_research: true
 
 # Research
 
-***路漫漫其修远兮，吾将上下而求索***
-
 ## Research Interest
 
 ### Galaxy formation and evolution

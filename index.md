@@ -6,7 +6,7 @@ layout: default
 
 # About Me[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-9767-9237)
 
-My name is Shuai Feng (冯帅). I'm currently a Lecture at the Department of Space Science and Astronomy in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
+My name is Shuai Feng (冯帅). I'm currently a Lecture at the College of Physics in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
 My primary research focuses on the galaxy evolution and the ecosystem of galaxies, including galaxy merging and interaction in galaxy pairs, kinematics of ionized gas unveiled by integral field spectroscopy, chemical evolution of ionized gas within galaxies. 
 
@@ -18,8 +18,7 @@ My primary research focuses on the galaxy evolution and the ecosystem of galaxie
 
 ## Research Experience
 
-* 2020 - 2022, Lecture, Hebei Normal University
-* 2023 - Now , Associate Professor, Hebei Normal University
+* 2020 - Now, Lecture, Hebei Normal University
 
 **[My CV]()**
 
