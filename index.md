@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sfeng.png">
 
-# About Me
+# About Me[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-1334-8853)
 
 My name is Shuai Feng (冯帅). I'm currently a Lecture at the Department of Space Science and Astronomy in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
