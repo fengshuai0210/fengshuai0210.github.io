@@ -1,6 +1,5 @@
 ---
 layout: default
-is_teaching: true
 ---
 
 # Teaching Activities
