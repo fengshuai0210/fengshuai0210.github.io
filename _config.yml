@@ -1,7 +1,8 @@
 title: Shuai Feng
 institute: Hebei Normal University
 email: sfeng[at]hebtu.edu.cn
-description: <b>路漫漫其修远兮，吾将上下而求索</b> <p>——屈原</p>
+description: > # this means to ignore newlines until "baseurl:"
+  <b>路漫漫其修远兮，吾将上下而求索</b> <p>——屈原</p>
 url: "https://fengshuai0210.github.io"
 baseurl: "/"
 
