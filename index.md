@@ -23,10 +23,3 @@ My primary research focuses on the galaxy evolution and the ecosystem of galaxie
 * 2020 - Now, Lecturer, Hebei Normal University
 
 **[My CV]()**
-
-## Contact Me
-
-* **Email:** [sfeng[at]hebtu.edu.cn](mailto:sfeng[at]hebtu.edu.cn)
-* **Phone:** [+86-(0311)80787368](tel:+86-(0311)80787368)
-* **Address:** Science Building 2-B601, Hebei Normal University \
-  South Erhuan Road No. 20, Shijiazhuang, Hebei Province, China 
