@@ -21,3 +21,4 @@ is_teaching: true
 
 ### Astronomy
 - [Galaxies](https://github.com/fengshuai0210/Course_Galaxies) (2022)
+- [Galaxies](./teaching/galaxy_astronomy.md) (2022)
