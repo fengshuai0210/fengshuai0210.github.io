@@ -1,6 +1,8 @@
 title: Shuai Feng
 institute: Hebei Normal University
 email: sfeng[at]hebtu.edu.cn
+description: > # this means to ignore newlines until "baseurl:"
+  <b>Occam-Einstein Razor</b> <p>Physics should be as simple as possible, but not simpler.</p>
 url: "https://fengshuai0210.github.io"
 baseurl: "/"
 
@@ -9,9 +11,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: ""
-footer_text: "路漫漫其修远兮，吾将上下而求索"
+#footer: yes
+#footer_url: ""
+#footer_text: "路漫漫其修远兮，吾将上下而求索"
 
 facebook_id: fengshuai0210
 
