@@ -4,7 +4,7 @@ layout: default
 
 *有朋自远方来，不亦乐乎*
 
-<img class="profile-picture" src="sfeng.png">
+<img class="profile-picture" src="./image/sfeng.png">
 
 # About Me
 
