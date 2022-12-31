@@ -10,7 +10,7 @@ My name is Shuai Feng (冯帅). I'm currently a Lecturer at the College of Physi
 
 My primary research focuses on the galaxy evolution and the ecosystem of galaxies, including galaxy merging and interaction in galaxy pairs, kinematics of ionized gas unveiled by integral field spectroscopy, chemical evolution of ionized gas within galaxies. 
 
-[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" title="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-9767-9237) [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google scholar" title="google scholar" style="width:20px;height:20px;">](https://scholar.google.com/citations?user=2BSBFeQAAAAJ&hl=zh-CN)
+[<img src="/image/orcid.png" alt="orcid" title="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-9767-9237) [<img src="/image/Google_Scholar_logo.svg" alt="google scholar" title="google scholar" style="width:20px;height:20px;">](https://scholar.google.com/citations?user=2BSBFeQAAAAJ&hl=zh-CN)
 
 ## Education
 
