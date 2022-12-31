@@ -2,13 +2,11 @@
 layout: default
 ---
 
-*有朋自远方来，不亦乐乎*
-
 <img class="profile-picture" src="./image/sfeng.png">
 
-# About Me
+# About Me[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-9767-9237)
 
-My name is Shuai Feng (冯帅)[<img src="https://kiaagravity.github.io/assets/orcid.png" alt="orcid" style="width:20px;height:20px;">](https://orcid.org/0000-0002-9767-9237). I'm currently a Lecture at the Department of Space Science and Astronomy in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
+My name is Shuai Feng (冯帅). I'm currently a Lecture at the Department of Space Science and Astronomy in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
 My primary research focuses on the galaxy evolution and the ecosystem of galaxies, including galaxy merging and interaction in galaxy pairs, kinematics of ionized gas unveiled by integral field spectroscopy, chemical evolution of ionized gas within galaxies. 
 
