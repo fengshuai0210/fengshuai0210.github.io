@@ -19,3 +19,9 @@ SEMESTER | COURSE | ROLE
 2021 Fall | **Data Analysis for Astronomy**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 2020 Spring | **General Physics Expriment I**<br>**普通物理实验（一）** | **co-Lecturer** <small><br><i>with</i> Dr. Jing He
 2020 Spring | **[Observational Astronomy]()**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
+
+----
+
+## Teaching Reward
+* 河北师范大学2021-2022学年本科教学质量优秀教师
+* 河北师范大学2020-2021学年专业综合实习优秀指导教师
