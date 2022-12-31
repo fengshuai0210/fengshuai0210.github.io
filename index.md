@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-My name is Shuai Feng (冯帅). I'm currently a Lecturer at the College of Physics in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
+My name is Shuai Feng (冯帅). I'm currently an associate professor at the College of Physics in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
 My primary research focuses on the galaxy evolution and the ecosystem of galaxies, including galaxy merging and interaction in galaxy pairs, kinematics of ionized gas unveiled by integral field spectroscopy, chemical evolution of ionized gas within galaxies. 
 
@@ -20,6 +20,7 @@ My primary research focuses on the galaxy evolution and the ecosystem of galaxie
 
 ## Research Experience
 
-* 2020 - Now, Lecturer, Hebei Normal University
+* 2023 - Now , Associate Professor, Hebei Normal University
+* 2020 - 2022, Lecturer, Hebei Normal University
 
 **[My CV]()**
