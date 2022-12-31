@@ -5,8 +5,6 @@ is_teaching: true
 
 ## Teaching
 
-*教学相长也*
-
 ## Undergraduated Course
 
 ### Physics
