@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-## Research Interest
+## Research Highlight
 
 ### Galaxy formation and evolution
 - Peculiar properties of galaxies induced by the galaxy interaction through studying galaxy pairs based on the data of galaxy sky survey (e.g. [SDSS](http://www.sdss.org/), [LAMOST](https://www.lamost.org/public/?locale=en), [GAMA](http://www.gama-survey.org/))
