@@ -7,7 +7,7 @@ layout: default
 ## Research Highlight
 
 ###  Galaxy Interaction
-- Search the isolated compact galaxy system, such as galaxy pairs ([Feng et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract)) and galaxy triplets ([Feng et al. 2016](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract)) based on the joint data of galaxy sky survey (e.g. [SDSS](http://www.sdss.org/), [LAMOST](https://www.lamost.org/public/?locale=en), [GAMA](http://www.gama-survey.org/)).
+- Search the isolated compact galaxy system, such as galaxy pairs ([Feng et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract)) and galaxy triplets ([Feng et al. 2016](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract)) based on the joint data of several galaxy sky surveys (e.g. [SDSS](http://www.sdss.org/), [LAMOST](https://www.lamost.org/public/?locale=en), [GAMA](http://www.gama-survey.org/)).
 - Calculate the bivariate luminosity function of galaxy pairs, which provides the complete discription of luminosity of galaxy pairs in the low-z universe and statistical constrains for the merging timescale and starburst timescale ([Feng et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract)).
 - Detect the correlation between star formation enhancement and disturbed velocity maps of ionized gas in galaxy pairs ([Feng et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..20F/abstract)), indicating that the kinematic asymmetry (the degree of disturbance in velocity maps) is a good indicator of galaxy merging phase ([Yu et al. ](https://ui.adsabs.harvard.edu/abs/2022ApJ...934..114Y/abstract)).
 
