@@ -5,6 +5,7 @@ layout: default
 # Events
 *Since Sep 01, 2020*
 
+----
 ## 2022
 
 Dec 22, 2022\
@@ -34,6 +35,7 @@ Jan 21, 2022\
 Jan 15, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, National Astronomical Observatories, Beijing, China
 
+----
 ## 2021
 
 Dec 15, 2021\
@@ -72,6 +74,7 @@ Feb 06, 2022\
 Feb 01, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars** by Yu et al., [arXiv](https://arxiv.org/abs/2102.00731)
 
+----
 ## 2020
 Dec 05, 2020\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk at **Symposium on Star Formation and Nuclear Activity in Galaxies**, Nanjing University, Suzhou, China
