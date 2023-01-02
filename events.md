@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Events
-*Since Aug 2020*
+*Since Aug 01, 2020*
 
 ## 2022
 
