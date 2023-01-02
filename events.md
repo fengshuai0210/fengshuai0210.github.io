@@ -8,7 +8,7 @@ layout: default
 ## 2022
 
 Dec 22, 2022\
-<img src="/image/events-icon.png" style="width:30px;height:30px;"> Associated Professor at College of Physics, Hebei Normal University
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Associated Professor at College of Physics, Hebei Normal University
 
 Oct 11, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk(online) at **ACAMAR 8: Australia-China Workshop on Astrophysics**
@@ -71,4 +71,4 @@ Nov 22, 2020\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Sun Yat-Sen University, Zhuhai, China
 
 Sep 01, 2020\
-<img src="/image/events-icon.png" style="width:30px;height:30px;"> Lecturer at College of Physics, Hebei Normal University
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Lecturer at College of Physics, Hebei Normal University
