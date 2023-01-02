@@ -12,13 +12,13 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 
 ## Research Interest
 
-### Galaxy Formation and Evolution
+**Galaxy Formation and Evolution**
 
 * Galaxy merge and interaction
 * Kinematics of ionized gas
 * Gas-phase metallicity and chemical evolution
 
-### Observation by integral field spectroscopy (IFS)
+**Observation by integral field spectroscopy (IFS)**
 
 ## Education
 
