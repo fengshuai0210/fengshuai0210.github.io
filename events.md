@@ -22,6 +22,9 @@ Jul 13, 2022\
 Jun 13, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **On the HI Content of MaNGA Major Merger Pairs** by Yu et al., [arXiv](https://arxiv.org/abs/2206.06330)
 
+May 12, 2022\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
+
 Jan 21, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk (online) at **8th Interstellar Physics and Chemistry Symposium**, Sun Yat-Sen University, Zhuhai, China
 
@@ -47,6 +50,9 @@ Sep 23, 2021\
 
 Aug 11, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk (online) at **The SDSS Collaboration Meeting 2021**, Johns Hopkins University
+
+May 14, 2021\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Xin-Hui Ren, College of Physics, Hebei Normal University
 
 May 15, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhejiang University, Hangzhou, China
