@@ -6,5 +6,5 @@ layout: default
 
 ## 2022
 
-<small>Sep 7, 2022</small>\
-<img src="/image/orcid.png" alt="orcid" title="orcid" style="width:40px;height:40px;"> **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?**, Ju et al.
+Sep 7, 2022\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?** by Ju et al., [arXiv](https://arxiv.org/abs/2209.03298)
