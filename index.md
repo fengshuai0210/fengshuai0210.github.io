@@ -35,7 +35,3 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 
 ----
 # News
-
-<small>Dec 22, 2022</small>
-
-    Passed Associate Professor Title Review
