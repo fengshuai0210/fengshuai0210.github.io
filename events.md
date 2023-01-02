@@ -39,17 +39,26 @@ Nov 25, 2021\
 Nov 12, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **CAHA/PPAK Integral-field Spectroscopic Observations of M81 -- I. Circumnuclear ionized gas** by Li et al., [arXiv](https://arxiv.org/abs/2111.06683)
 
+Sep 23, 2021\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **An IFU View of the Active Galactic Nuclei in MaNGA Galaxy Pairs** by Jin et al., [arXiv](https://arxiv.org/abs/2109.11084)
+
 Aug 11, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk (online) at **The SDSS Collaboration Meeting 2021**, Johns Hopkins University
 
 May 15, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhejiang University, Hangzhou, China
 
+Apr 24, 2021\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **TSDSS-IV MaNGA: Enhanced Star Formation in Galactic-scale Outflows** by Bao et al., [arXiv](https://arxiv.org/abs/2104.11886)
+
 Apr 12, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk at **Workshop on Galactic Evolution and the Large Field of View Survey**, National Astronomical Observatories, Yixing, China
 
 Feb 06, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, National Astronomical Observatories, Beijing, China
+
+Feb 01, 2021\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars** by Yu et al., [arXiv](https://arxiv.org/abs/2102.00731)
 
 ## 2020
 Dec 05, 2020\
