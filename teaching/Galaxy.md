@@ -10,11 +10,12 @@ layout: default
 
 ## 参考教材
 
-* Galaxies in the Universe: An Introduction, Linda S. Sparke & John S. Gallagher, III
-    * 中译本：宇宙中的星系, 邹振隆 译, 中国科学技术出版社
-* Galactic Astronomy, James Binney & Michael Merrifield
-    * 中译本：星系天文学, 赵刚 译, 中国科学技术出版社
-* Extragalactic Astronomy and Cosmology: An Introduction, Peter Schneider
+* **Galaxies in the Universe: An Introduction**, *Linda S. Sparke & John S. Gallagher, III*
+    * 中译本：**宇宙中的星系**, *邹振隆 译*, 中国科学技术出版社
+* **Galactic Astronomy**, *James Binney & Michael Merrifield*
+    * 中译本：**星系天文学**, *赵刚 译*, 中国科学技术出版社
+* **Galaxy Formation and Evolution**, *Houjun Mo, Frank van den Bosch, Simon White*
+* **Extragalactic Astronomy and Cosmology: An Introduction**, *Peter Schneider*
 
 ## 课程安排
 
