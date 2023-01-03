@@ -7,6 +7,10 @@ layout: default
 
 ![](../image/obsastro.png)
 
-Date | Content | Reference
------|---------|----------
-     | UV and IR Observation | 
+## 主要内容
+
+时间 | 内容 | 参考阅读
+----|----|----
+     | 紫外-红外观测 | 
+     | 高能观测 |
+     | 射电观测 |
