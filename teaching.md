@@ -4,10 +4,10 @@ layout: default
 
 # Teaching Activities
 
-## 2022 Fall Semester
+## 2023 Spring Semester
 
-| **Optics**<br>**光学** |  周一1-2节 & 周五3-4节<br>汇华学院2-411 | **Lecturer**
-| **Data Analysis for Astronomy**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-103 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
+| **[Galactic Astronomy](/teaching/Galaxy)**<br>**星系天文学** |  周二3-5节<br>公教楼E-307 | **Lecturer**
+| **[Observational Astronomy](/teaching/ObsAstro.md)**<br>**实测天体物理** |  周五3-5节<br>公教楼D-110 | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
 
 ## Teaching History
 
