@@ -5,7 +5,7 @@ layout: default
 # Observational Astronomy（实测天体物理）
 ## Multi-messenger Astronomy Part
 
-![](../image/Xinglong.jfif)
+![](../image/obsastro.png)
 
 Date | Content | Reference
 -----|---------|----------
