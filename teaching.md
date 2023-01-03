@@ -18,11 +18,11 @@ SEMESTER | COURSE | ROLE
 2022 Fall | **Optics**<br>**光学** | **Lecturer** 
 2022 Fall | **Data Analysis for Astronomy**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 2022 Spring | **Galactic Astronomy**<br>**星系天文学** |  **Lecturer**
-2022 Spring | **[Observational Astronomy]()**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
+2022 Spring | **Observational Astronomy**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
 2021 Fall | **Optics**<br>**光学** | **Lecturer** 
 2021 Fall | **Data Analysis for Astronomy**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 2020 Spring | **General Physics Expriment I**<br>**普通物理实验（一）** | **co-Lecturer** <small><br><i>with</i> Dr. Jing He
-2020 Spring | **[Observational Astronomy]()**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
+2020 Spring | **Observational Astronomy**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
 
 ----
 
