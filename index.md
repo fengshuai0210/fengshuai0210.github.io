@@ -18,7 +18,7 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 * Kinematics of ionized gas
 * Gas-phase metallicity and chemical evolution
 
-**Observation by integral field spectroscopy (IFS)**
+**Integral Field Spectroscopy (IFS) Observation**
 
 ## Education
 
