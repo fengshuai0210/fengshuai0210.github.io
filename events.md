@@ -9,15 +9,13 @@ layout: default
 
 ## 2023
 
-
+Jan 01, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
 
 ## 2022
 
 Dec 22, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Associated Professor** at College of Physics, Hebei Normal University
-
-Oct 24, 2022\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor** at College of Physics, Hebei Normal University
 
 Oct 11, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> contributed talk(online) at **ACAMAR 8: Australia-China Workshop on Astrophysics**

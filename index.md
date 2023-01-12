@@ -35,3 +35,9 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 
 ----
 # News
+
+Jan 01, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
+
+Dec 22, 2022\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Associated Professor** at College of Physics, Hebei Normal University
