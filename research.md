@@ -15,7 +15,7 @@ layout: default
 - Make a census on the kinematic asymmetry of ionized gas in the local universe based on the data of [SDSS-IV MaNGA](https://www.sdss4.org/surveys/manga/) survey, and unveil that the regular galaxies dominate the population with high kinematic asymmetry([Feng et al. 2022](https://ui.adsabs.harvard.edu/abs/2022arXiv220706050F/abstract)).
 
 ### Simulation of IFS Datacube
-- Develop `gehong` package to simulate the datacube observed by the integral field spectrometer on board the Chinese Space Station telescope (CSST-IFS).
+- Develop [gehong]() package to simulate the datacube observed by the integral field spectrometer on board the Chinese Space Station telescope (CSST-IFS).
 
 ## Publications
 
