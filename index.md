@@ -36,6 +36,9 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
+Feb 10, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **2023 Annual Meeting of Sitian Project**, National Astronomical Observatories Xinglong Station, Xinglong, China
+
 Jan 01, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
 
