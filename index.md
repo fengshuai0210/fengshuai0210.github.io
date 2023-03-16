@@ -36,6 +36,9 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
+Mar 16, 2023\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **A Chandra X-ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei** by He et al., [arXiv](https://arxiv.org/abs/2303.08388)
+
 Feb 10, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **2023 Annual Meeting of Sitian Project**, National Astronomical Observatories Xinglong Station, Xinglong, China
 
