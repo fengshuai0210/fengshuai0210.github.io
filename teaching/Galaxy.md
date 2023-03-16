@@ -22,7 +22,7 @@ layout: default
 时间 | 内容 | 参考阅读
 ----|----|----
      | 引言 | 
-     | 恒星 | *星团*：[Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835)。 *初始质量函数*：[Hopkins (2018)](https://arxiv.org/abs/1807.09949)。
+     | 恒星 | *星团*：[Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835) <br> *初始质量函数*：[Hopkins (2018)](https://arxiv.org/abs/1807.09949)
      | 星际介质 |
      | 银河系（一）|
      | 银河系（二）|
