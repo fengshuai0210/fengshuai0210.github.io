@@ -41,6 +41,9 @@ Jun 13, 2022\
 May 19, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Instructor for Undergraduate Professional Practice**, Hebei Normal University
 
+May 15, 2022\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Advanced Worker of School of Physics**, Hebei Normal University
+
 May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
 
