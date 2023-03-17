@@ -35,6 +35,9 @@ Jul 13, 2022\
 Jun 13, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **On the HI Content of MaNGA Major Merger Pairs** by Yu et al., [arXiv](https://arxiv.org/abs/2206.06330)
 
+May 19, 2022\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Instructor for Undergraduate Professional Practice**, Hebei Normal University
+
 May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
 
