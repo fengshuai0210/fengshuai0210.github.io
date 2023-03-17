@@ -5,7 +5,7 @@ layout: default
 # Events
 *Since Sep 01, 2020*
 
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication** <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk** <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**   <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
 
