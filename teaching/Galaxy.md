@@ -23,7 +23,7 @@ layout: default
 ----|----|----
      | 引言 | 
      | 恒星 | [Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835); [Hopkins (2018)](https://arxiv.org/abs/1807.09949)
-     | 星际介质 | [Saintonge & Catinella (2022)](https://arxiv.org/abs/2202.00690); []
+     | 星际介质 | [Galliano et al. (2017)](https://arxiv.org/abs/1711.07434); [Saintonge & Catinella (2022)](https://arxiv.org/abs/2202.00690); 
      | 银河系（一）|
      | 银河系（二）|
      | 旋涡星系 |
