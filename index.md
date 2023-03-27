@@ -37,7 +37,7 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 # News
 
 Mar 26, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk *"The Suppression of Star Formation in Galaxy Pairs"* at **Star Formation and Nuclear Activity in Galaxies**, Nanjing, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk *"The Suppression of Star Formation in Galaxy Pairs"* at **Seminar on Star Formation and Nuclear Activity in Galaxies**, Nanjing, China
 
 Mar 16, 2023\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **A Chandra X-ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei** by He et al., [arXiv](https://arxiv.org/abs/2303.08388)
