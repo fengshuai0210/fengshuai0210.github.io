@@ -33,7 +33,7 @@ layout: default
 5.9  | 活动星系核 | [Hickox & Alexander (2018)](https://arxiv.org/abs/1806.04680)
 5.16 | 星系群与星系团 |
 5.23 | 星系的统计规律 |
-5.30 | 宇宙大尺度结构与高红移宇宙 |
+5.30 | 宇宙大尺度结构与高红移宇宙 | [Förster Schreiber & Wuyts (2010)](https://arxiv.org/abs/2010.10171)
 6.6  | 宇宙学原理与结构的形成 |
-6.13 | 暗物质晕 |
+6.13 | 暗物质晕 | [Wechsler & Tinker (2018)](https://arxiv.org/abs/1804.03097)
 6.20 | 恒星形成与反馈 |
