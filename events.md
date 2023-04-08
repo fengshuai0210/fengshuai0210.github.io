@@ -11,6 +11,9 @@ layout: default
 
 ## 2023
 
+Apr 08, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
+
 Mar 26, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk *"The Suppression of Star Formation in Galaxy Pairs"* at **Seminar on Star Formation and Nuclear Activity in Galaxies**, Nanjing, China
 
