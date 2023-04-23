@@ -12,19 +12,19 @@ layout: default
 ## 2023
 
 Apr 20, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> *Astroinformatics and China-VO 2022*, Guilin, Guangxi
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
 
 Apr 08, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
 
 Mar 26, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk **The Suppression of Star Formation in Galaxy Pairs** at *Star Formation and Nuclear Activity in Galaxies*, Nanjing, Jiangsu
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Star Formation and Nuclear Activity in Galaxies 2022**, Nanjing, Jiangsu
 
 Mar 16, 2023\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **A Chandra X-ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei** by He et al., [arXiv](https://arxiv.org/abs/2303.08388)
 
 Feb 10, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> *2023 Annual Meeting of Sitian Project*, Xinglong, Hebei
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> *2023 Annual Meeting of Sitian Project*, Xinglong, Hebei
 
 Jan 01, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
@@ -35,7 +35,7 @@ Dec 22, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Associated Professor** at College of Physics, Hebei Normal University
 
 Oct 11, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk(online) at *ACAMAR 8: Australia-China Workshop on Astrophysics*
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk(online) at **ACAMAR 8: Australia-China Workshop on Astrophysics**
 
 Sep 7, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?** by Ju et al., [arXiv](https://arxiv.org/abs/2209.03298)
@@ -59,7 +59,7 @@ May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
 
 Jan 21, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk **Gas-Phase Metallicity along the Merger Sequence** at *8th Interstellar Physics and Chemistry Symposium*, Sun Yat-Sen University, Zhuhai, Guangdong
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **8th Interstellar Physics and Chemistry Symposium**, Zhuhai, Guangdong
 
 Jan 15, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, Beijing
@@ -83,13 +83,13 @@ Sep 23, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **An IFU View of the Active Galactic Nuclei in MaNGA Galaxy Pairs** by Jin et al., [arXiv](https://arxiv.org/abs/2109.11084)
 
 Aug 11, 2021\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **The SDSS Collaboration Meeting 2021**, Johns Hopkins University
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **The SDSS Collaboration Meeting 2021**, Baltimore, USA
 
 May 14, 2021\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Xin-Hui Ren, College of Physics, Hebei Normal University
 
 May 15, 2021\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhejiang University, Hangzhou, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhejiang University, Hangzhou, Zhejiang
 
 Apr 24, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **SDSS-IV MaNGA: Enhanced Star Formation in Galactic-scale Outflows** by Bao et al., [arXiv](https://arxiv.org/abs/2104.11886)
