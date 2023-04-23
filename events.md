@@ -59,10 +59,10 @@ May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
 
 Jan 21, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk **Gas-Phase Metallicity along the Merger Sequence** at *8th Interstellar Physics and Chemistry Symposium*, Sun Yat-Sen University, Zhuhai, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk **Gas-Phase Metallicity along the Merger Sequence** at *8th Interstellar Physics and Chemistry Symposium*, Sun Yat-Sen University, Zhuhai, Guangdong
 
 Jan 15, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, National Astronomical Observatories, Beijing, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, Beijing
 
 ----
 ## 2021
@@ -95,10 +95,10 @@ Apr 24, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **SDSS-IV MaNGA: Enhanced Star Formation in Galactic-scale Outflows** by Bao et al., [arXiv](https://arxiv.org/abs/2104.11886)
 
 Apr 12, 2021\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Workshop on Galactic Evolution and the Large Field of View Survey**, National Astronomical Observatories, Yixing, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galactic Evolution and the Large Field of View Survey 2021**, Yixing, Jiangsu
 
 Feb 06, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at *2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope*, National Astronomical Observatories, Beijing, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at *2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope*, Beijing
 
 Feb 01, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars** by Yu et al., [arXiv](https://arxiv.org/abs/2102.00731)
@@ -106,10 +106,10 @@ Feb 01, 2021\
 ----
 ## 2020
 Dec 05, 2020\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at *Star Formation and Nuclear Activity in Galaxies 2020*, Nanjing University, Suzhou, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at *Star Formation and Nuclear Activity in Galaxies 2020*, Nanjing University, Suzhou, Jiangsu
 
 Nov 22, 2020\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at *Guoshoujing Conference 2020*, Zhuhai, China
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2020 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhuhai, Guangdong
 
 Sep 01, 2020\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Lecturer** at College of Physics, Hebei Normal University
