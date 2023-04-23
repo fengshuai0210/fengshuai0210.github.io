@@ -5,26 +5,26 @@ layout: default
 # Events
 *Since Sep 01, 2020*
 
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> **Talk**   <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.jpeg" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
 
 ## 2023
 
 Apr 20, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
+<img src="/image/meeting-icon.jpeg" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
 
 Apr 08, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
 
 Mar 26, 2023\
-<img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> Contributed talk *"The Suppression of Star Formation in Galaxy Pairs"* at **Seminar on Star Formation and Nuclear Activity in Galaxies**, Nanjing, China
+<img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> Contributed talk *"The Suppression of Star Formation in Galaxy Pairs"* at **Seminar on Star Formation and Nuclear Activity in Galaxies**, Nanjing, Jiangsu
 
 Mar 16, 2023\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **A Chandra X-ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei** by He et al., [arXiv](https://arxiv.org/abs/2303.08388)
 
 Feb 10, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **2023 Annual Meeting of Sitian Project**, National Astronomical Observatories Xinglong Station, Xinglong, China
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **2023 Annual Meeting of Sitian Project**, National Astronomical Observatories Xinglong Station, Xinglong, Hebei
 
 Jan 01, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
