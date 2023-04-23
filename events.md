@@ -5,14 +5,14 @@ layout: default
 # Events
 *Since Sep 01, 2020*
 
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.jpeg" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
 
 ## 2023
 
 Apr 20, 2023\
-<img src="/image/meeting-icon.jpeg" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
 
 Apr 08, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
@@ -92,7 +92,7 @@ May 15, 2021\
 <img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> Contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhejiang University, Hangzhou, China
 
 Apr 24, 2021\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **TSDSS-IV MaNGA: Enhanced Star Formation in Galactic-scale Outflows** by Bao et al., [arXiv](https://arxiv.org/abs/2104.11886)
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **SDSS-IV MaNGA: Enhanced Star Formation in Galactic-scale Outflows** by Bao et al., [arXiv](https://arxiv.org/abs/2104.11886)
 
 Apr 12, 2021\
 <img src="/image/talk-icon.jpeg" style="width:30px;height:30px;"> Contributed talk at **Workshop on Galactic Evolution and the Large Field of View Survey**, National Astronomical Observatories, Yixing, China
