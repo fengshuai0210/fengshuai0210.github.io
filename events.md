@@ -20,6 +20,9 @@ Apr 20, 2023\
 Apr 08, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
 
+Apr 08, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **70th Anniversary Meeting of Beijing Astronomical Society**
+
 Mar 26, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Star Formation and Nuclear Activity in Galaxies 2022**, Nanjing, Jiangsu
 
