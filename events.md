@@ -12,7 +12,7 @@ layout: default
 ## 2023
 
 Apr 26, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Zhangheng Conferenc**, Wuhan, Hubei
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Zhangheng Conference 2023**, Wuhan, Hubei
 
 Apr 20, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
@@ -27,11 +27,12 @@ Mar 16, 2023\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **A Chandra X-ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei** by He et al., [arXiv](https://arxiv.org/abs/2303.08388)
 
 Feb 10, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> *2023 Annual Meeting of Sitian Project*, Xinglong, Hebei
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> *Annual Meeting of Sitian Project 2023*, Xinglong, Hebei
 
 Jan 01, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
 
+----
 ## 2022
 
 Dec 22, 2022\
@@ -65,7 +66,7 @@ Jan 21, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **8th Interstellar Physics and Chemistry Symposium**, Zhuhai, Guangdong
 
 Jan 15, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, Beijing
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope 2021**, Beijing
 
 ----
 ## 2021
@@ -92,7 +93,7 @@ May 14, 2021\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Xin-Hui Ren, College of Physics, Hebei Normal University
 
 May 15, 2021\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2021 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhejiang University, Hangzhou, Zhejiang
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2021**, Hangzhou, Zhejiang
 
 Apr 24, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **SDSS-IV MaNGA: Enhanced Star Formation in Galactic-scale Outflows** by Bao et al., [arXiv](https://arxiv.org/abs/2104.11886)
@@ -109,10 +110,10 @@ Feb 01, 2021\
 ----
 ## 2020
 Dec 05, 2020\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at *Star Formation and Nuclear Activity in Galaxies 2020*, Nanjing University, Suzhou, Jiangsu
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at *Star Formation and Nuclear Activity in Galaxies 2020*, Suzhou, Jiangsu
 
 Nov 22, 2020\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2020 Guoshoujing Conference (Frontiers of Galaxies and Cosmology Conference )**, Zhuhai, Guangdong
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2020**, Zhuhai, Guangdong
 
 Sep 01, 2020\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Lecturer** at College of Physics, Hebei Normal University

@@ -37,7 +37,7 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 # News
 
 Apr 26, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Zhangheng Conferenc**, Wuhan, Hubei
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Zhangheng Conference 2023**, Wuhan, Hubei
 
 Apr 20, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
