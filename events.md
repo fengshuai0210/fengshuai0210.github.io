@@ -11,6 +11,9 @@ layout: default
 
 ## 2023
 
+May 08, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
+
 Apr 26, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Zhangheng Conference 2023**, Wuhan, Hubei
 
