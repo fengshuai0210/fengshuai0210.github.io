@@ -13,7 +13,9 @@ layout: default
 
 章节 | 内容 
 ----|----
-1   | [紫外观测](./ObsAstro/UV_Astro.md) 
-2   | [红外观测](./ObsAstro/IR_Astro.md)
-3   | [高能观测](./ObsAstro/HEA_Astro.md)
-4   | [射电观测](./ObsAstro/Radio_Astro.md) 
+1   | 紫外观测
+2   | 红外观测
+3   | 高能观测
+4   | 射电观测
+
+[课程网址](./ObsAstro/index.html)
