@@ -4,6 +4,11 @@ layout: default
 
 # Teaching Activities
 
+## 2023 Fall Semester
+
+| **Optics**<br>**光学** |  周<br>汇华学院 | **Lecturer**
+| **Data Analysis for Astronomy**<br>**天文数据处理方法** |  周<br>公教楼 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
+
 ## 2023 Spring Semester
 
 | **[Galactic Astronomy](/teaching/Galaxy)**<br>**星系天文学** |  周二3-5节<br>公教楼E-307 | **Lecturer**
