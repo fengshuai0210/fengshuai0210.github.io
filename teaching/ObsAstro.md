@@ -17,5 +17,3 @@ layout: default
 2   | 红外观测
 3   | 高能观测
 4   | 射电观测
-
-[课程网址](./ObsAstro/index.html)
