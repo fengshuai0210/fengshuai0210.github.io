@@ -19,21 +19,20 @@ layout: default
 
 ## 课程安排
 
-时间 | 内容 | 参考阅读
+章节 | 内容 | 参考阅读
 ----|----|----
-2.28 | 引言 | 
-3.14 | 恒星 | [Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835); [Hopkins (2018)](https://arxiv.org/abs/1807.09949)
-3.21 | 星际介质 | [Galliano et al. (2017)](https://arxiv.org/abs/1711.07434); [Saintonge & Catinella (2022)](https://arxiv.org/abs/2202.00690); 
-3.28 | 银河系（一）| [Brown et al. (2021)](https://arxiv.org/abs/2102.11712); [Helmi et al. (2020)](https://arxiv.org/abs/2002.04340)
-4.4  | 银河系（二）| [Barbuy et al. (2018)](https://arxiv.org/abs/1805.01142); [Bland-Hawthorn et al. (2016)](https://arxiv.org/abs/1602.07702)
-4.11 | 旋涡星系 | [Sellwood & Masters (2022)](https://arxiv.org/abs/2110.05615)
-4.18 | 椭圆星系 | [Cappellari et al. (2016)](https://arxiv.org/abs/1602.04267); 
-4.25 | 矮星系与不规则星系 | [Simon et al. (2019)](https://arxiv.org/abs/1901.05465)
-5.2* | 星系动力学与星系并合 | 
-5.9  | 活动星系核 | [Kormendy & Ho (2013)](https://arxiv.org/abs/1304.7762); [Hickox & Alexander (2018)](https://arxiv.org/abs/1806.04680)
-5.16 | 星系群与星系团 |
-5.23 | 星系的统计规律 | [Blanton & Moustakas (2009)](https://arxiv.org/abs/0908.3017)
-5.30 | 宇宙大尺度结构与高红移宇宙 | [Robertson (2022)](https://arxiv.org/abs/2110.13160)
-6.6  | 宇宙学原理与结构的形成 | [Bullock & Boylan-Kolchin (2017)](https://arxiv.org/abs/1707.04256)
-6.13 | 暗物质晕 | [Wechsler & Tinker (2018)](https://arxiv.org/abs/1804.03097)
-6.20 | 恒星形成与反馈 |
+1  | 引言 | 
+2  | 恒星 | [Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835); [Hopkins (2018)](https://arxiv.org/abs/1807.09949)
+3  | 星际介质 | [Galliano et al. (2017)](https://arxiv.org/abs/1711.07434); [Saintonge & Catinella (2022)](https://arxiv.org/abs/2202.00690); 
+4  | 银河系（一）| [Brown et al. (2021)](https://arxiv.org/abs/2102.11712); [Helmi et al. (2020)](https://arxiv.org/abs/2002.04340)
+5  | 银河系（二）| [Barbuy et al. (2018)](https://arxiv.org/abs/1805.01142); [Bland-Hawthorn et al. (2016)](https://arxiv.org/abs/1602.07702)
+6  | 旋涡星系 | [Sellwood & Masters (2022)](https://arxiv.org/abs/2110.05615)
+6  | 椭圆星系 | [Renzini et al. (2006)](https://arxiv.org/abs/astro-ph/0603479); [Cappellari et al. (2016)](https://arxiv.org/abs/1602.04267)
+7  | 不规则星系 | [Simon et al. (2019)](https://arxiv.org/abs/1901.05465); [Lutz et al. (2014)](https://arxiv.org/abs/1403.3334); [Simon et al. (2019)](https://arxiv.org/abs/1901.05465)
+8  | 活动星系核 | [Kormendy & Ho (2013)](https://arxiv.org/abs/1304.7762); [Netzer et al. (2015)](https://arxiv.org/abs/1505.00811); [Hickox & Alexander (2018)](https://arxiv.org/abs/1806.04680)
+9  | 星系的环境 | [Kravtsov & Borgani et al. (2012)](https://arxiv.org/abs/1205.5556); 
+10 | 高红移宇宙 | [Forster-Schreiber & Wuyts et al. (2010)](https://arxiv.org/abs/2010.10171); [Shapley et al. (2011)](https://arxiv.org/abs/1107.5060); [Madau & Dickinson](https://arxiv.org/abs/1403.0007)
+11 | 星系的统计规律 | [Blanton & Moustakas (2009)](https://arxiv.org/abs/0908.3017)
+12 | 宇宙学原理与大尺度结构的形成 | [Bullock & Boylan-Kolchin (2017)](https://arxiv.org/abs/1707.04256); [Robertson (2022)](https://arxiv.org/abs/2110.13160)
+13 | 暗物质晕 | [Wechsler & Tinker (2018)](https://arxiv.org/abs/1804.03097)
+14 | 恒星形成与反馈 | [Fabian (2012)](https://arxiv.org/abs/1204.4114); [Tumlison et al. (2017)](https://arxiv.org/abs/1709.09180)
