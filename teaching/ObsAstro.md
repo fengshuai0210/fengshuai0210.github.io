@@ -15,6 +15,7 @@ layout: default
     * 中译本：**观测天体物理学**, *伍可 孙维新 胡景耀 译*, 中国科学技术出版社（2015）
 * **Multimessenger Astronomy**, *John Etienne Beckman*, Springer (2021)
 * **Infrared Astronomy -- Seeing the Heat**, *David L. Clements*, CRC Press (2014)
+* **Exploring the X-ray Universe**(2rd Edition), *Frederick D. Seward, Philip A. Charles*, Cambridge (2010)
 * **An Introduction to Radio Astronomy**（4th Edition）, *Bernard F. Burke, Francis Graham-Smith, Peter N. Wilkinson*, Cambridge (2019)
 
 ## 主要内容
