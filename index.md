@@ -36,13 +36,13 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
-May 20, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2023**, Huangshan, Anhui
+Jun 24, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 LAMOST Symposium**, Beijing
+
+Jun 21, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Conference of Education Research and Application Center, NADC**, Wuhan, Hubei
 
 May 08, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
-
-Apr 26, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Zhangheng Conference 2023**, Wuhan, Hubei
 
 **[Previous Events](./events)**
