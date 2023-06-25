@@ -36,13 +36,13 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
+Jun 28, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Cluster Group Seminar of Shanghai Astronomical Observatory**, Shanghai
+
 Jun 24, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 LAMOST Symposium**, Beijing
 
 Jun 21, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Conference of Education Research and Application Center, NADC**, Wuhan, Hubei
-
-Jun 14, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by Shao-Ze Geng
 
 **[Previous Events](./events)**

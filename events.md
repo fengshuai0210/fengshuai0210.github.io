@@ -11,6 +11,9 @@ layout: default
 
 ## 2023
 
+Jun 28, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> Invited talk at **Cluster Group Seminar of Shanghai Astronomical Observatory**, Shanghai
+
 Jun 24, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 LAMOST Symposium**, Beijing
 
