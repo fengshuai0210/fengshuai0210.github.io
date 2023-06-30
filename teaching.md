@@ -6,13 +6,13 @@ layout: default
 
 ## 2023 Fall Semester
 
-| **[Optics](/teaching/Optics.md)**<br>**光学** |  周**<br>汇华学院** | **Lecturer**
-| **[Data Analysis for Astronomy](/teaching/AstroData.md)**<br>**天文数据处理方法** |  周**<br>公教楼** | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
+| **[Optics](/teaching/Optics2023.md)**<br>**光学** |  周**<br>汇华学院** | **Lecturer**
+| **[Data Analysis for Astronomy](/teaching/AstroData2023.md)**<br>**天文数据处理方法** |  周**<br>公教楼** | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 
 ## 2023 Spring Semester
 
-| **[Galactic Astronomy](/teaching/Galaxy)**<br>**星系天文学** |  周二3-5节<br>公教楼E-307 | **Lecturer**
-| **[Observational Astronomy](/teaching/ObsAstro.md)**<br>**实测天体物理** |  周五3-5节<br>公教楼D-110 | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
+| **[Galactic Astronomy](/teaching/Galaxy2023.md)**<br>**星系天文学** |  周二3-5节<br>公教楼E-307 | **Lecturer**
+| **[Observational Astronomy](/teaching/ObsAstro2023.md)**<br>**实测天体物理** |  周五3-5节<br>公教楼D-110 | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
 
 ## Teaching History
 
