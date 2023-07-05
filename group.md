@@ -15,9 +15,13 @@ layout: default
 
 ### Shao-Ze Geng (耿少泽)
 2022 - 
+### Hui-Jing Yang（杨慧景）
+2022 - 
 ### Shu-Hao Chen (陈书豪)
 2022 -
 ### Yao-Tian Duan (段耀天)
+2022 - 
+### Zi-Qi Jin（金子琦）
 2022 - 
 
 # Former Members
