@@ -4,16 +4,20 @@ layout: default
 
 # Research Group
 
-## Current Members
+# Current Members
 
-### Master
+## Master
 
-* Cai-Lu Shi (石彩璐)，2023 - 
+### Cai-Lu Shi (石彩璐)
+2023 - 
 
-### Undergrade
+## Undergrade
 
-* Shao-Ze Geng (耿少泽)，2022 - 
-* Shu-Hao Chen (陈书豪)，2022 -
-* Yao-Tian Duan (段耀天)，2022 - 
+### Shao-Ze Geng (耿少泽)
+2022 - 
+### Shu-Hao Chen (陈书豪)
+2022 -
+### Yao-Tian Duan (段耀天)
+2022 - 
 
-## Former Members
+# Former Members
