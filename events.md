@@ -5,7 +5,7 @@ layout: default
 # Events
 *Since Sep 01, 2020*
 
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Prize/Funding** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
 
@@ -21,7 +21,7 @@ Jun 21, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Conference of Education Research and Application Center, NADC**, Wuhan, Hubei
 
 Jun 14, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by Shao-Ze Geng
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by Shao-Ze Geng
 
 May 08, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
@@ -33,7 +33,7 @@ Apr 20, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
 
 Apr 08, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
 
 Apr 08, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **70th Anniversary Meeting of Beijing Astronomical Society**
@@ -63,7 +63,7 @@ Sep 7, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?** by Ju et al., [arXiv](https://arxiv.org/abs/2209.03298)
 
 Aug 26, 2022\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Teachers of Undergraduate Teaching Quality**, Hebei Normal University
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Teachers of Undergraduate Teaching Quality**, Hebei Normal University
 
 Jul 13, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties** by Feng et al., [arXiv](https://arxiv.org/abs/2207.06050)
@@ -72,10 +72,10 @@ Jun 13, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **On the HI Content of MaNGA Major Merger Pairs** by Yu et al., [arXiv](https://arxiv.org/abs/2206.06330)
 
 May 19, 2022\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Outstanding Instructor for Undergraduate Professional Practice**, Hebei Normal University
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Instructor for Undergraduate Professional Practice**, Hebei Normal University
 
 May 15, 2022\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Advanced Worker of School of Physics**, Hebei Normal University
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Advanced Worker of School of Physics**, Hebei Normal University
 
 May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
