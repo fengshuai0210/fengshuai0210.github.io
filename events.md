@@ -11,6 +11,9 @@ layout: default
 
 ## 2023
 
+Jul 14, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Member of the LAMOST User Committee**
+
 Jun 28, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation Mini Workshop at Shanghai Astronimical Observatory**, Shanghai
 
