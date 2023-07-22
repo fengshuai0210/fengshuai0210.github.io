@@ -11,6 +11,9 @@ layout: default
 
 ## 2023
 
+Jun 20, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
+
 Jul 14, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Member of the LAMOST User Committee**
 

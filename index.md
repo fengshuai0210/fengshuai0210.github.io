@@ -16,7 +16,6 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 
 * Galaxy merge and interaction
 * Kinematics of ionized gas
-* Gas-phase metallicity and chemical evolution
 
 **Integral Field Spectroscopy (IFS) Observation**
 
@@ -36,13 +35,13 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
-Jun 28, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation Mini Workshop at Shanghai Astronimical Observatory**, Shanghai
+Jul 25, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Interstellar physics and Chemistry**, Shijiazhuang, Hebei
 
-Jun 24, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 LAMOST Symposium**, Beijing
+Jul 20, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
 
-Jun 21, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Conference of Education Research and Application Center, NADC**, Wuhan, Hubei
+Jul 14, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Member of the LAMOST User Committee**
 
 **[Previous Events](./events)**
