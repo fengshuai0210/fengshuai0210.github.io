@@ -30,6 +30,17 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 * 2023 - Now, Associate Professor, Hebei Normal University
 * 2020 - 2022, Lecturer, Hebei Normal University
 
+## Professional Membership
+
+* 2022 - Now, Chinese Astronomical Society
+* 2023 - Now, LAMOST User Committee
+
+## Collaboration
+
+* 2020 - Now, Chinese Space Survey Telescope (CSST)
+* 2015 - Now, LAMOST Spectral Survey
+* 2015 - 2020, SDSS-IV MaNGA
+
 **[My CV]()**
 
 ----
