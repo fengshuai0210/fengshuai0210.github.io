@@ -14,6 +14,11 @@ layout: default
 Jul 25, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Interstellar physics and Chemistry**, Shijiazhuang, Hebei
 
+Jul 24, 2023\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **2022 May Fourth Youth Medal of Shanghai Science and Technology System**, together with the Research and Development Team of the Scientific Data System for the Multi-Channel Imager of China Space Station Telescope
+
+the Sky Survey Telescope of the China Space Station Project 
+
 Jul 20, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
 
