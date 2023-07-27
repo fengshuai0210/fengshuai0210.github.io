@@ -11,6 +11,18 @@ layout: default
 
 ## 2023
 
+Oct 09, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, Hangzhou, Zhejiang
+
+Sep 02, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at South-Western Institute For Astronomy Research, Yunnan University
+
+Sep 02, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Symposium on Active Galactic Nuclei Feedback**, Wuhu, Anhui
+
+Aug 30, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Annual Meeting of the Chinese Astronomical Society**, Weihai, Shandong
+
 Aug 17, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Chinese Physical Society Fall Meeting 2023**, Yinchuan, Ningxia
 
@@ -21,7 +33,7 @@ Jul 24, 2023\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **2022 May Fourth Youth Medal of Shanghai Science and Technology System**, together with the Research and Development Team of the Scientific Data System for the Multi-Channel Imager of China Space Station Telescope
 
 Jul 20, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
 
 Jul 14, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Member of the LAMOST User Committee**
@@ -48,10 +60,10 @@ Apr 20, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Astroinformatics and China-VO 2022**, Guilin, Guangxi
 
 Apr 08, 2023\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award of Beijing Astronomical Society**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Youth Award**, Beijing Astronomical Society
 
 Apr 08, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **70th Anniversary Meeting of Beijing Astronomical Society**
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **70th Anniversary Meeting of Beijing Astronomical Society**, Beijing
 
 Mar 26, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Star Formation and Nuclear Activity in Galaxies 2022**, Nanjing, Jiangsu
