@@ -31,6 +31,12 @@ layout: default
 2. Shi-Yin Shen, Maria Argudo-Fernandez, Li Chen, Xiao-Yan, Chen, **Shuai Feng**, Jin-Liang Hou, Peng Jiang, Yi-Peng Jing, Xu Kong, A-Li Luo, Zhi-Jian Luo, Zheng-Yi Shao, Ting-Gui Wang, Wen-Ting Wang, Yue-Fei Wang, Hong Wu, Xue-Bing Wu, Hai-Feng Yang, Ming Yang, Fang-Ting Yuan, Hai-Long Yuan, Hao-Tong Zhang, Jian-Nan Zhang, Yong Zhang, [A sample of galaxy pairs identified from the LAMOST spectral survey and the Sloan Digital Sky Survey](https://ui.adsabs.harvard.edu/abs/2016RAA....16...43S/abstract), 2016, *RAA*, 16, 43
 1. Maria Argudo-Fernandez, Fang-Ting Yuan, Shi-Yin Shen, Jun Yin, Rui-Xiang Chang, **Shuai Feng**, [Isolated Galaxies versus Interacting Pairs with MaNGA](https://ui.adsabs.harvard.edu/abs/2015Galax...3..156A/abstract), 2015, *Galaxies*, 3, 156
 
+### Conference Proceeding
+
+3. Qing-Zheng Yu, Tao-Tao Fang, **Shuai Feng**, Bo Zhang, C. Kevin Xu, Yun-Ting Wang, Lei Hao, [On the H I Content of MaNGA Major Merger Pairs](https://ui.adsabs.harvard.edu/abs/2023IAUS..373..186Y/abstract), 2023, *Proceedings of the International Astronomical Union*, 373, 186
+2. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, [Kinematic asymmetry of galaxy pairs](https://ui.adsabs.harvard.edu/abs/2020IAUS..353..262F/abstract), 2020, *Proceedings of the International Astronomical Union*, 353, 262
+1. Jun Yin, Meng-Ting Ju, Lei Hao, Shi-Yin Shen, Shuai Feng, [The hosts of blue compact dwarf galaxies in MaNGA](https://ui.adsabs.harvard.edu/abs/2019IAUS..344..422Y/abstract), 2019, *Proceedings of the International Astronomical Union*, 344, 422
+
 # Talk
 
 ## Seminar Talk
