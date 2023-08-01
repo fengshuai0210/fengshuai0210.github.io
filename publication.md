@@ -35,7 +35,9 @@ layout: default
 
 ### 2023
 
-31. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, SHAO Galaxy Formation Workshop, 2023.06, Shanghai
+33. *Explore the Gas Cycling in Velocity Map Morphology of Ionized Gas*, 2023 Interstellar physics and Chemistry, 2023.07, Shijiazhuang
+32. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, SHAO Galaxy Formation Workshop, 2023.06, Shanghai
+31. *Simulating the Scientific Image of Intergral Field Spectrograph in CSST*, CSST Workshop on Scientific Data Processing Systems and Science Teams, 2023.05, Quanzhou
 30. *The Suppression of Star Formation in Galaxy Pairs*, 2022 Star Formation and Nuclear Activity in Galaxies, 2023.03, Nanjing
 
 ### 2022
@@ -54,7 +56,7 @@ layout: default
 ### 2020
 
 22. *The Morphology of Hα Velocity Maps in MaNGA*, 2020 Star Formation and Nuclear Activity in Galaxies, 2020.11, Suzhou
-21. *Kinematic Asymmetry of Ionized Gas in MaNGA Galaxies*, 2020 Guoshoujing Conference, 2020.11, Zhuhai
+21. *Kinematic Asymmetry of Ionized Gas in MaNGA Galaxies*, 2020 Guoshoujing Conference, 2020.11, Zhuhai, Guangdong
 20. *Dependence of Kinematic Asymmetry of Ionized Gas*, 2020 SDSS IV Month of Online MaNGA, 2020.11, Online
 19. *Kinematic Asymmetry of Ionized Gas in MaNGA Galaxies*, 2020 Annual Meeting of the Chinese Astronomical Society, 2020.10, Beijing(Online)
 
