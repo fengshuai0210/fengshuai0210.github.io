@@ -31,6 +31,14 @@ layout: default
 2. Shi-Yin Shen, Maria Argudo-Fernandez, Li Chen, Xiao-Yan, Chen, **Shuai Feng**, Jin-Liang Hou, Peng Jiang, Yi-Peng Jing, Xu Kong, A-Li Luo, Zhi-Jian Luo, Zheng-Yi Shao, Ting-Gui Wang, Wen-Ting Wang, Yue-Fei Wang, Hong Wu, Xue-Bing Wu, Hai-Feng Yang, Ming Yang, Fang-Ting Yuan, Hai-Long Yuan, Hao-Tong Zhang, Jian-Nan Zhang, Yong Zhang, [A sample of galaxy pairs identified from the LAMOST spectral survey and the Sloan Digital Sky Survey](https://ui.adsabs.harvard.edu/abs/2016RAA....16...43S/abstract), 2016, *RAA*, 16, 43
 1. Maria Argudo-Fernandez, Fang-Ting Yuan, Shi-Yin Shen, Jun Yin, Rui-Xiang Chang, **Shuai Feng**, [Isolated Galaxies versus Interacting Pairs with MaNGA](https://ui.adsabs.harvard.edu/abs/2015Galax...3..156A/abstract), 2015, *Galaxies*, 3, 156
 
+# Talk
+
+## Seminar Talk
+
+### 2023
+
+* *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, South-Western Institute For Astronomy Research, Yunnan University, 2023.09
+
 ## Conference Talk
 
 ### 2023
