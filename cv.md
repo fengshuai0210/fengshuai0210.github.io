@@ -12,7 +12,7 @@ layout: default
 
 ## Research Experience
 
-* 2023.12 - Now\ \ \ \ , Associate Professor, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
+* 2023.12 - Present, Associate Professor, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 * 2020.09 - 2022.12, Lecturer, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 
 ## Honors and Awards
