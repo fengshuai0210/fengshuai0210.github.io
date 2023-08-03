@@ -17,6 +17,7 @@ layout: default
 
 ## Honors and Awards
 
+* 2023, Outstanding Youth Award of Beijing Astronomical Society
 * 2019, National Scholarship for Graduate Student
 
 ## Professional Membership
