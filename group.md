@@ -8,9 +8,12 @@ Our research group focus on the study of galaxy formation and evolution.
 
 # Current Members
 
-## Master
+## Graduate
 
 ### Cai-Lu Shi (石彩璐)
+
+<img class="profile-picture" src="./image/sfeng.png">
+
 * Duration: 2023 - 
 * Research project: Galaxy Pairs in MaNGA
 
