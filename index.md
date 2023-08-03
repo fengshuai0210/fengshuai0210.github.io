@@ -10,7 +10,7 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 
 [<img src="/image/orcid.png" alt="orcid" title="orcid" style="width:30px;height:30px;">](https://orcid.org/0000-0002-9767-9237) [<img src="/image/Google_Scholar_logo.svg" alt="google scholar" title="google scholar" style="width:30px;height:30px;">](https://scholar.google.com/citations?user=2BSBFeQAAAAJ&hl=zh-CN) [<img src="/image/GitHub-Mark.png" alt="GitHub" title="GitHub" style="width:30px;height:30px;">](https://github.com/fengshuai0210) [<img src="/image/hebtu_logo.gif" alt="Hebtu" title="Personal Page @ Hebei Normal University (学校个人页面)" style="width:30px;height:30px;">](https://phys.hebtu.edu.cn/a/szll/qyjg/index.html)
 
-[<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffengshuai0210.github.io&count_bg=%23C83D90&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" style="width:120px;height:30px;">](https://hits.seeyoufarm.com)
+[<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ffengshuai0210.github.io&count_bg=%23C83D90&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" style="width:120px;height:27px;">](https://hits.seeyoufarm.com)
 
 ## Research Interest
 
