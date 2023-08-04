@@ -16,13 +16,6 @@ My primary research interest is the observational study of galaxy formation and 
 
 My recent works focus on gas cycling within galaxies in the local universe. With the help of velcoty field revealed by the intergral field spectroscopy and chemical evolution model, I also aspire to deepen our understanding of cosmic ecosystem. 
 
-**Galaxy Formation and Evolution**
-
-* Galaxy merge and interaction
-* Kinematics of ionized gas
-
-**Integral Field Spectroscopy (IFS) Observation**
-
 ## Education
 
 * 2020, Ph.D of Astrophysics, [Shanghai Astronomical Observatory, CAS](http://www.shao.ac.cn/)
@@ -46,8 +39,6 @@ My recent works focus on gas cycling within galaxies in the local universe. With
 * 2015 - 2020, SDSS-IV MaNGA
 
 **[My CV]()**
-
-
 
 ----
 # News
