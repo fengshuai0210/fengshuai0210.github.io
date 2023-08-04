@@ -19,7 +19,7 @@ layout: default
 
 ## Publications
 
-<img src="/image/ads_logo.svg" alt="orcid" title="orcid" style="width:20px;height:20px;">[Full Publication List in ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
+<img src="../image/ads_logo.svg" alt="orcid" title="orcid" style="width:20px;height:20px;">[Full Publication List in ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
 
 ### Selected Papers
 

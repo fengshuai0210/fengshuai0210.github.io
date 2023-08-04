@@ -4,7 +4,7 @@ layout: default
 
 # Optics（光学）
 
-![](../image/optics.jpg)
+![](/image/optics.jpg)
 
 *2023-2024年秋季学期*
 
