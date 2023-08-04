@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+# Curriculum Vitae
 
 ## Education
 
