@@ -8,13 +8,13 @@ layout: default
 
 My name is Shuai Feng (冯帅). I'm currently an associate professor at the College of Physics in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
 
-My primary research interest is the observational study of galaxy formation and evolution. Most of my works take advantage of today’s multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the evolution sequence of merging galaxies. My recent works focus on gas cycling within galaxies in the local universe. With the help of velcoty field revealed by the intergral field spectroscopy and chemical evolution model, I also aspire to deepen our understanding of cosmic ecosystem. 
-
-
-
 [<img src="/image/orcid.png" alt="orcid" title="orcid" style="width:30px;height:30px;">](https://orcid.org/0000-0002-9767-9237) [<img src="/image/Google_Scholar_logo.svg" alt="google scholar" title="google scholar" style="width:30px;height:30px;">](https://scholar.google.com/citations?user=2BSBFeQAAAAJ&hl=zh-CN) [<img src="/image/GitHub-Mark.png" alt="GitHub" title="GitHub" style="width:30px;height:30px;">](https://github.com/fengshuai0210) [<img src="/image/hebtu_logo.gif" alt="Hebtu" title="Personal Page @ Hebei Normal University (学校个人页面)" style="width:30px;height:30px;">](https://phys.hebtu.edu.cn/a/szll/qyjg/index.html)
 
 ## Research Interest
+
+My primary research interest is the observational study of galaxy formation and evolution. Most of my works take advantage of today’s multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the evolution sequence of merging galaxies. 
+
+My recent works focus on gas cycling within galaxies in the local universe. With the help of velcoty field revealed by the intergral field spectroscopy and chemical evolution model, I also aspire to deepen our understanding of cosmic ecosystem. 
 
 **Galaxy Formation and Evolution**
 
