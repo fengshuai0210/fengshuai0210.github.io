@@ -12,9 +12,10 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 
 ## Research Interest
 
-My primary research interest is the observational study of galaxy formation and evolution. Most of my works take advantage of today’s multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the evolution sequence of merging galaxies. 
-
-My recent works focus on gas cycling within galaxies in the local universe. With the help of velcoty field revealed by the intergral field spectroscopy and chemical evolution model, I also aspire to deepen our understanding of cosmic ecosystem. 
+* Galaxy Formation and Evolution
+    * Galaxy Merge and Interaction
+    * Gas Cycling of Galaxies
+* Integral Field Spectroscopy (IFS) Observation
 
 ## Education
 
