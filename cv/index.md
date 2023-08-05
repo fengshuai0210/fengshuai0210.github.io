@@ -4,7 +4,9 @@ layout: default
 
 Before joining to HEBNU, I obtain the Ph.D of Astrophysics at [Shanghai Astronomical Observatory, CAS](http://www.shao.ac.cn/) in 2020. 
 
-My primary research interest is the observational study of galaxy formation and evolution. Most of my works take advantage of today’s multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the evolution sequence of merging galaxies. My recent works focus on gas cycling within galaxies in the local universe. With the help of velcoty field revealed by the intergral field spectroscopy and chemical evolution model, I also aspire to deepen our understanding of cosmic ecosystem. 
+My primary research interest is the observational study of galaxy formation and evolution. Most of my works take advantage of today’s multi-band imaging data, spectroscopic surveys, and hydrodynamic simulations to probe the evolution sequence of merging galaxies.
+
+ My recent works focus on gas cycling within galaxies in the local universe. With the help of velcoty field revealed by the intergral field spectroscopy and chemical evolution model, I also aspire to deepen our understanding of cosmic ecosystem. 
 
 # Curriculum Vitae
 
@@ -18,6 +20,10 @@ My primary research interest is the observational study of galaxy formation and 
 
 * 2023.12 - Present, Associate Professor, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 * 2020.09 - 2022.12, Lecturer, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
+
+## Fundings
+
+* National Natural Science Foundation of China (No. 12103017), ¥30K, 2022 - 2024
 
 ## Honors and Awards
 
