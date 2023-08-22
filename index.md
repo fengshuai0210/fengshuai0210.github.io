@@ -44,13 +44,13 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
+Aug 30, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Annual Meeting of the Chinese Astronomical Society**, Weihai, Shandong
+
+Aug 17, 2023\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Chinese Physical Society Fall Meeting 2023**, Yinchuan, Ningxia
+
 Jul 25, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Interstellar physics and Chemistry**, Shijiazhuang, Hebei
-
-Jul 20, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
-
-Jul 14, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> **Member of the LAMOST User Committee**
 
 **[Previous Events](./events)**
