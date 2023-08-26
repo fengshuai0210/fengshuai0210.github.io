@@ -6,7 +6,7 @@ layout: default
 
 ## 2023 Fall Semester
 
-| **[Optics](/teaching/Optics2023/index.md)**<br>**光学** |  周**<br>汇华学院** | **Lecturer**
+| **[Optics](/teaching/Optics2023/index.md)**<br>**光学** |  周一1-2节/周二3-4节<br>汇华学院2教-302 | **Lecturer**
 | **[Data Analysis for Astronomy](/teaching/ObsAstro2023/index.md)**<br>**天文数据处理方法** |  周**<br>公教楼** | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 
 ## 2023 Spring Semester
