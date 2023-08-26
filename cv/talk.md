@@ -8,12 +8,13 @@ layout: default
 
 ### 2023
 
-* *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, South-Western Institute For Astronomy Research, Yunnan University, 2023.09
+1. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, South-Western Institute For Astronomy Research, Yunnan University, 2023.09
 
 ## Conference Talk
 
 ### 2023
 
+34. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, 2023 Annual Meeting of the Chinese Astronomical Society, 2023.08, Weihai
 33. *Explore the Gas Cycling in Velocity Map Morphology of Ionized Gas*, 2023 Interstellar physics and Chemistry, 2023.07, Shijiazhuang
 32. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, SHAO Galaxy Formation Workshop, 2023.06, Shanghai
 31. *Simulating the Scientific Image of Intergral Field Spectrograph in CSST*, CSST Workshop on Scientific Data Processing Systems and Science Teams, 2023.05, Quanzhou
