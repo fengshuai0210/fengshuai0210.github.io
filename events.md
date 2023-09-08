@@ -14,7 +14,7 @@ layout: default
 Oct 09, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, Hangzhou, Zhejiang
 
-Sep 02, 2023\
+Sep 18, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at South-Western Institute For Astronomy Research, Yunnan University
 
 Sep 02, 2023\
