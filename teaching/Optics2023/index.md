@@ -32,3 +32,5 @@ layout: default
 
 * [光学，南开大学常胜江教授@Bilibili](https://www.bilibili.com/video/BV15W41137qR)
 * [光学，南京大学丁剑平教授@Bilibili](https://www.bilibili.com/video/BV19p411f75x)
+* [光学，山东大学蔡履中教授@Bilibili](https://www.bilibili.com/video/BV1y441167SH)
+* [光学，北京大学钟锡华教授@Bilibili](https://www.bilibili.com/video/BV1Sy4y1n7z5)
