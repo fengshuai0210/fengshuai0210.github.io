@@ -27,3 +27,8 @@ layout: default
 6   | 光的偏振 |
 7   | 光的吸收、散射和色散 |
 8   | 光的量子性 |
+
+## 线上资源
+
+* [光学，南开大学常胜江教授@Bilibili](https://www.bilibili.com/video/BV15W41137qR)
+* [光学，南京大学丁剑平教授@Bilibili](https://www.bilibili.com/video/BV19p411f75x)
