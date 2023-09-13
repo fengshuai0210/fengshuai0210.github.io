@@ -17,6 +17,9 @@ Oct 09, 2023\
 Sep 18, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at South-Western Institute For Astronomy Research, Yunnan University
 
+Sep 10, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Cai-Lu Shi**!
+
 Sep 02, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Active Galactic Nuclei Feedback**, Wuhu, Anhui
 
@@ -48,7 +51,7 @@ Jun 21, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Conference of Education Research and Application Center, NADC**, Wuhan, Hubei
 
 Jun 14, 2023\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by Shao-Ze Geng
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by undergraduate student menber Shao-Ze Geng
 
 May 08, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
