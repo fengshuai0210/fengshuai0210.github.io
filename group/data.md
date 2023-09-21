@@ -13,3 +13,5 @@ layout: default
 * **[Chang2015星表](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/219/8)** 基于SDSS和WISE数据，提供了超过100万个星系的恒星质量、恒星形成率以及尘埃性质（[Chang et al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJS..219....8C/abstract)）。
 ### 星系形态
 * **[Simard2011星表](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/196/11)** 基于SDSS DR7的测光数据，提供了超过110个星系的形态参数测量，包括单Sersic模型和核球+盘模型（[Simard et al. 2011](https://ui.adsabs.harvard.edu/abs/2011ApJS..196...11S/abstract)）
+### 星系环境
+* **[YangGroup星表](https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/196/11)** 基于SDSS DR7的光谱数据，提供了约60万个星系所处星系团环境的星系，包括宿主暗晕质量和成员星系数（[Yang et al. 2007](https://ui.adsabs.harvard.edu/abs/2007ApJ...671..153Y/abstract)）。
