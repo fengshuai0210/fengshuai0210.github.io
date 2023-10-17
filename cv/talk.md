@@ -14,6 +14,7 @@ layout: default
 
 ### 2023
 
+35. *Explore the Signature of Non-Rotational Motion in the Morphology of Velocity Fields*, Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback, 2023.10, Hangzhou
 34. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, 2023 Annual Meeting of the Chinese Astronomical Society, 2023.08, Weihai
 33. *Explore the Gas Cycling in Velocity Map Morphology of Ionized Gas*, 2023 Interstellar physics and Chemistry, 2023.07, Shijiazhuang
 32. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, SHAO Galaxy Formation Workshop, 2023.06, Shanghai

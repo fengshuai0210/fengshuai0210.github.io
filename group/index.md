@@ -15,7 +15,7 @@ Our research group focus on the study of galaxy formation and evolution.
 <img class="profile-picture" src="">
 
 * Duration: 2023 - 
-* Research project: Galaxy Pairs in MaNGA
+* Research project: Galaxy Pairs in MaNGA IFS Survey
 
 ## Undergrade
 

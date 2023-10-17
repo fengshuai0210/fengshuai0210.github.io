@@ -44,12 +44,11 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
+Oct 09, 2023\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, Hangzhou, Zhejiang
+
 Sep 18, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at South-Western Institute For Astronomy Research, Yunnan University
 
-Sep 02, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Active Galactic Nuclei Feedback**, Wuhu, Anhui
-
-Aug 30, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Annual Meeting of the Chinese Astronomical Society**, Weihai, Shandong
-**[Previous Events](./events)**
+Sep 10, 2023\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Cai-Lu Shi**!
