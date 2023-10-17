@@ -52,3 +52,5 @@ Sep 18, 2023\
 
 Sep 10, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Cai-Lu Shi**!
+
+**[Previous Events](./events)**
