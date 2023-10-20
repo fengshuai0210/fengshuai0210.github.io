@@ -12,6 +12,7 @@ layout: default
 
 * **天文数据处理方法**, *丁月蓉*, 南京大学出版社
 * **Handbook of CCD Astronomy**, *Steve B. Howell*, Cambridge
+* **Modern Statistical Methods for Astronomy With R Applications**, *Eric D. Feigelson & G. Jogesh Babu*, Cambridge
 
 ## 主要内容
 
