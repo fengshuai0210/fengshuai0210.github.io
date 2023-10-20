@@ -11,7 +11,7 @@ layout: default
 ## 参考教材
 
 * **天文数据处理方法**, *丁月蓉*, 南京大学出版社
-* ****
+* **Handbook of CCD Astronomy**, *Steve B. Howell*, Cambridge
 
 ## 主要内容
 
