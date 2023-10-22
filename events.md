@@ -15,7 +15,7 @@ Oct 09, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, Hangzhou, Zhejiang
 
 Sep 18, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at South-Western Institute For Astronomy Research, Yunnan University
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **South-Western Institute For Astronomy Research, Yunnan University**
 
 Sep 10, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Cai-Lu Shi**!
@@ -24,7 +24,7 @@ Sep 02, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Active Galactic Nuclei Feedback**, Wuhu, Anhui
 
 Aug 30, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2023 Annual Meeting of the Chinese Astronomical Society**, Weihai, Shandong
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> *Contributed talk* at **2023 Annual Meeting of the Chinese Astronomical Society**, Weihai, Shandong
 
 Aug 17, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Chinese Physical Society Fall Meeting 2023**, Yinchuan, Ningxia
@@ -75,7 +75,7 @@ Mar 16, 2023\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **A Chandra X-ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei** by He et al., [arXiv](https://arxiv.org/abs/2303.08388)
 
 Feb 10, 2023\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> *Annual Meeting of Sitian Project 2023*, Xinglong, Hebei
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Annual Meeting of Sitian Project 2023**, Xinglong, Hebei
 
 Jan 01, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
@@ -87,7 +87,7 @@ Dec 22, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Associated Professor** at College of Physics, Hebei Normal University
 
 Oct 11, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk(online) at **ACAMAR 8: Australia-China Workshop on Astrophysics**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **ACAMAR 8: Australia-China Workshop on Astrophysics**
 
 Sep 7, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?** by Ju et al., [arXiv](https://arxiv.org/abs/2209.03298)
@@ -111,7 +111,7 @@ May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University
 
 Jan 21, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **8th Interstellar Physics and Chemistry Symposium**, Zhuhai, Guangdong
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **8th Interstellar Physics and Chemistry Symposium**, Zhuhai, Guangdong
 
 Jan 15, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope 2021**, Beijing
@@ -150,7 +150,7 @@ Apr 12, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galactic Evolution and the Large Field of View Survey 2021**, Yixing, Jiangsu
 
 Feb 06, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at *2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope*, Beijing
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, Beijing
 
 Feb 01, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars** by Yu et al., [arXiv](https://arxiv.org/abs/2102.00731)
@@ -158,7 +158,7 @@ Feb 01, 2021\
 ----
 ## 2020
 Dec 05, 2020\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at *Star Formation and Nuclear Activity in Galaxies 2020*, Suzhou, Jiangsu
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Star Formation and Nuclear Activity in Galaxies 2020**, Suzhou, Jiangsu
 
 Nov 22, 2020\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2020**, Zhuhai, Guangdong
