@@ -10,7 +10,8 @@ layout: default
 ----
 ## 2024
 
-
+Feb 28, 2024\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Lead Teachers of **38th On-post Teaching Practice** at Chengde
 
 ## 2023
 
