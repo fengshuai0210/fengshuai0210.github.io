@@ -15,7 +15,10 @@ layout: default
 1. **Shuai Feng**, Zheng-Yi Shao, Shi-Yin Shen, Maria Argudo-Fernandez, Hong Wu, Man-I Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *RAA*, 16, 5
 
 ### Collabarator Paper
-
+19. Zhen-Yan Huo, Zhi-Cun Liu, Wen-Yuan Cui, Chao Liu, Jia-Ming Liu, Ming-Xu Sun, **Shuai Feng**, Lin-Lin Li, [Identification of A-type supergiants from LAMOST DR5](), 2024, *MNRAS*, accepted
+18. Meng-Ting Ju, Jun Yin, Lei Hao, Chen-Xu Liu, Chao-Wei Tsai, Jun-Feng Wang, Zheng-Yi Shao, **Shuai Feng**, Yu Rong, [The Clumpy Structure of Five Star-bursting Dwarf Galaxies in the MaNGA Survey](https://ui.adsabs.harvard.edu/abs/2024RAA....24b5008J/abstract), 2024, *RAA*, 24, 2
+17. Zhen-Yan Huo, Zhi-Cun Liu, Wen-Yuan Cui, Chao Liu, Jia-Ming Liu, Ming-Xu Sun, **Shuai Feng**, Lin-Lin Li, [The measurement of masses of OB-type stars from LAMOST DR5](https://ui.adsabs.harvard.edu/abs/2024ApJS..271...15H/abstract), 2024, *ApJS*, 271, 15
+16. Jie Ju, Wen-Yuan Cui, Zhen-Yan Huo, Chao Liu, Xiang-Xiang Xue, Jia-Ming Liu, **Shuai Feng**, Ming-Xu Sun, Lin-Lin Li, [Identification of Blue Horizontal-Branch Stars From LAMOST DR5](https://ui.adsabs.harvard.edu/abs/2024ApJS..270...11J/abstract), 2024, *ApJS*, 270, 11
 15. Lin He, Mei-Cun Hou, Zhi-Yuan Li, **Shuai Feng**, Xin Liu, [A Chandra X-Ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2023ApJ...949...49H/abstract), 2023, *ApJ*, 949, 49
 14. Meng-Ting Ju, Jun Yin, Rong-Rong Liu, Lei Hao, Zheng-Yi Shao, **Shuai Feng**, Rogerio Riffel, Chen-Xu Liu, David V. Stark, Shi-Yin Shen, Eduardo Telles, Jose G Fernandez-Trincado, Jun-Feng Wang, Hai-Guang Xu, Dmitry Bizyaev, Yu Rong, [MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?](https://ui.adsabs.harvard.edu/abs/2022ApJ...938...96J/abstract), 2022, *ApJ*, 936, 67
 13. Qing-Zheng Yu, Tao-Tao Fang, **Shuai Feng**, Bo Zhang, C. Kevin Xu, Yun-Ting Wang, Lei Hao, [On the HI Content of MaNGA Major Merger Pairs](https://ui.adsabs.harvard.edu/abs/2022ApJ...934..114Y/abstract), 2022, *ApJ*, 934, 114
