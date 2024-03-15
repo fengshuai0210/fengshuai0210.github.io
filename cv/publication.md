@@ -8,7 +8,7 @@ layout: default
 
 ### First/Corresponding Author Paper
 
-5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2022arXiv220706050F/abstract), 2023, *ApJ*, 262, 6
+5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2022arXiv220706050F/abstract), 2024, *ApJ*, 262, 6
 4. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022arXiv220706050F/abstract), 2022, *ApJS*, 262, 6
 3. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Rogemar A. Riffel, Kaike Pan, [SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..20F/abstract), 2020, *ApJL*, 892, 20
 2. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, A-Li Luo, Jian-Nan Zhang, Meng-Xin Wang, Xia Wang, Yin-Bi Li, [Bivariate Luminosity Function of Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract), 2019, *ApJ*, 880, 114
@@ -16,8 +16,8 @@ layout: default
 
 ### Collabarator Paper
 
-15. Lin He, Mei-Cun Hou, Zhi-Yuan Li, Shuai Feng, Xin Liu, [A Chandra X-Ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2023ApJ...949...49H/abstract), 2023, *ApJ*, 949, 49
-14. Meng-Ting Ju, Jun Yin, Rong-Rong Liu, Lei Hao, Zheng-Yi Shao, Shuai Feng, Rogerio Riffel, Chen-Xu Liu, David V. Stark, Shi-Yin Shen, Eduardo Telles, Jose G Fernandez-Trincado, Jun-Feng Wang, Hai-Guang Xu, Dmitry Bizyaev, Yu Rong, [MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?](https://ui.adsabs.harvard.edu/abs/2022ApJ...938...96J/abstract), 2022, *ApJ*, 936, 67
+15. Lin He, Mei-Cun Hou, Zhi-Yuan Li, **Shuai Feng**, Xin Liu, [A Chandra X-Ray Survey of Optically Selected Close Galaxy Pairs: Unexpectedly Low Occupation of Active Galactic Nuclei](https://ui.adsabs.harvard.edu/abs/2023ApJ...949...49H/abstract), 2023, *ApJ*, 949, 49
+14. Meng-Ting Ju, Jun Yin, Rong-Rong Liu, Lei Hao, Zheng-Yi Shao, **Shuai Feng**, Rogerio Riffel, Chen-Xu Liu, David V. Stark, Shi-Yin Shen, Eduardo Telles, Jose G Fernandez-Trincado, Jun-Feng Wang, Hai-Guang Xu, Dmitry Bizyaev, Yu Rong, [MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?](https://ui.adsabs.harvard.edu/abs/2022ApJ...938...96J/abstract), 2022, *ApJ*, 936, 67
 13. Qing-Zheng Yu, Tao-Tao Fang, **Shuai Feng**, Bo Zhang, C. Kevin Xu, Yun-Ting Wang, Lei Hao, [On the HI Content of MaNGA Major Merger Pairs](https://ui.adsabs.harvard.edu/abs/2022ApJ...934..114Y/abstract), 2022, *ApJ*, 934, 114
 12. Abdurro’uf, K. Accetta, C. Aerts, V. S. Aguirre, R. Ahumada et al. (including **Shuai Feng**), [The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar, and APOGEE-2 Data](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract), 2022, *ApJS*, 259, 35
 11. Zong-Nan Li, Zhi-Yuan, Li, Ruben Garcia-Benito, **Shuai Feng**, [CAHA/PPAK Integral-field Spectroscopic Observations of M81. I. Circumnuclear Ionized Gas](https://ui.adsabs.harvard.edu/abs/2022ApJ...928..111L/abstract), 2022, *ApJ*,928, 111
