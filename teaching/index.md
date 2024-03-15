@@ -4,15 +4,15 @@ layout: default
 
 # Teaching Activities
 
+## 2024 Spring Semester
+
+| **[On-post Teaching Practice](/teaching/Optics2023)**<br>**顶岗实习** | 承德县、宽城县 | **Lead Teacher**
+
 ## 2023 Fall Semester
 
 | **[Optics](/teaching/Optics2023)**<br>**光学** |  周一1-2节/周二3-4节<br>汇华学院2教-302 | **Lecturer**
 | **[Data Analysis for Astronomy](/teaching/AstroData2023)**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-304 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 
-## 2023 Spring Semester
-
-| **[Galactic Astronomy](/teaching/Galaxy2023)**<br>**星系天文学** |  周二3-5节<br>公教楼E-307 | **Lecturer**
-| **[Observational Astronomy](/teaching/ObsAstro2023)**<br>**实测天体物理** |  周五3-5节<br>公教楼D-110 | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
 
 ## Teaching History
 
