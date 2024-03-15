@@ -8,8 +8,20 @@ layout: default
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
+## 2024
+
+
 
 ## 2023
+
+Nov 28, 2023\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Identification of Blue Horizontal-Branch Stars From LAMOST DR5** by Ju et al., [arXiv](https://arxiv.org/abs/2311.16430)
+
+Nov 28, 2023\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The measurement of masses of OB-type stars from LAMOST DR5** by Huo et al., [arXiv](https://arxiv.org/abs/2311.16436)
+
+Nov 27, 2023\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Clumpy Structure Of Five Star-bursting Dwarf Galaxies In The MaNGA Survey** by Ju et al., [arXiv](https://arxiv.org/abs/2311.15690)
 
 Oct 09, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, Hangzhou, Zhejiang
