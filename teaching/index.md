@@ -6,7 +6,7 @@ layout: default
 
 ## 2024 Spring Semester
 
-| **[On-post Teaching Practice](/teaching/Optics2023)**<br>**顶岗实习** | 承德县、宽城县 | **Lead Teacher**
+| **[On-post Teaching Practice](/teaching/TeachPractice2024/)**<br>**顶岗实习** | 承德县、宽城县 | **Lead Teacher**
 
 ## 2023 Fall Semester
 
