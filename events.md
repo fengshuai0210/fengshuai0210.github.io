@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2024
 
+Mar 18, 2024\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Suppression of Star Formation in Galaxy Pairs** by Feng et al., [arXiv](https://arxiv.org/abs/2403.09957)
+
 Feb 28, 2024\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Lead Teachers of **38th On-post Teaching Practice** at Chengde
 

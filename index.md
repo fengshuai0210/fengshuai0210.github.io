@@ -44,7 +44,13 @@ My name is Shuai Feng (冯帅). I'm currently an associate professor at the Coll
 ----
 # News
 
+Mar 18, 2024\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Suppression of Star Formation in Galaxy Pairs** by Feng et al., [arXiv](https://arxiv.org/abs/2403.09957)
+
 Feb 28, 2024\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Lead Teachers of **38th On-post Teaching Practice** at Chengde
+
+Nov 28, 2023\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Identification of Blue Horizontal-Branch Stars From LAMOST DR5** by Ju et al., [arXiv](https://arxiv.org/abs/2311.16430)
 
 **[Previous Events](./events)**
