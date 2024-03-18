@@ -39,4 +39,4 @@ layout: default
 
 3. Qing-Zheng Yu, Tao-Tao Fang, **Shuai Feng**, Bo Zhang, C. Kevin Xu, Yun-Ting Wang, Lei Hao, [On the H I Content of MaNGA Major Merger Pairs](https://ui.adsabs.harvard.edu/abs/2023IAUS..373..186Y/abstract), 2023, *Proceedings of the International Astronomical Union*, 373, 186
 2. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, [Kinematic asymmetry of galaxy pairs](https://ui.adsabs.harvard.edu/abs/2020IAUS..353..262F/abstract), 2020, *Proceedings of the International Astronomical Union*, 353, 262
-1. Jun Yin, Meng-Ting Ju, Lei Hao, Shi-Yin Shen, Shuai Feng, [The hosts of blue compact dwarf galaxies in MaNGA](https://ui.adsabs.harvard.edu/abs/2019IAUS..344..422Y/abstract), 2019, *Proceedings of the International Astronomical Union*, 344, 422
+1. Jun Yin, Meng-Ting Ju, Lei Hao, Shi-Yin Shen, **Shuai Feng**, [The hosts of blue compact dwarf galaxies in MaNGA](https://ui.adsabs.harvard.edu/abs/2019IAUS..344..422Y/abstract), 2019, *Proceedings of the International Astronomical Union*, 344, 422
