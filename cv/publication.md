@@ -15,6 +15,7 @@ layout: default
 1. **Shuai Feng**, Zheng-Yi Shao, Shi-Yin Shen, Maria Argudo-Fernandez, Hong Wu, Man-I Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *RAA*, 16, 5
 
 ### Collabarator Paper
+20. Cai-Na Hao, Xiao-Yang Xia, Yong Shi, Rui Guo, Yan-Mei Chen, Shuai Feng, Jun-Qiang Ge, Qiu-Sheng Gu, [Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?](), 2024, *ApJ*, accepted
 19. Zhen-Yan Huo, Zhi-Cun Liu, Wen-Yuan Cui, Chao Liu, Jia-Ming Liu, Ming-Xu Sun, **Shuai Feng**, Lin-Lin Li, [Identification of A-type supergiants from LAMOST DR5](), 2024, *MNRAS*, accepted
 18. Meng-Ting Ju, Jun Yin, Lei Hao, Chen-Xu Liu, Chao-Wei Tsai, Jun-Feng Wang, Zheng-Yi Shao, **Shuai Feng**, Yu Rong, [The Clumpy Structure of Five Star-bursting Dwarf Galaxies in the MaNGA Survey](https://ui.adsabs.harvard.edu/abs/2024RAA....24b5008J/abstract), 2024, *RAA*, 24, 2
 17. Zhen-Yan Huo, Zhi-Cun Liu, Wen-Yuan Cui, Chao Liu, Jia-Ming Liu, Ming-Xu Sun, **Shuai Feng**, Lin-Lin Li, [The measurement of masses of OB-type stars from LAMOST DR5](https://ui.adsabs.harvard.edu/abs/2024ApJS..271...15H/abstract), 2024, *ApJS*, 271, 15
