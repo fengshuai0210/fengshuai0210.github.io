@@ -11,7 +11,7 @@ layout: default
 ## 2024
 
 Apr 04, 2024\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?** by Hao et al., [arXiv](https://arxiv.org/abs/2403.09957)
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?** by Hao et al., [arXiv](https://arxiv.org/abs/2404.03850)
 
 Mar 18, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Suppression of Star Formation in Galaxy Pairs** by Feng et al., [arXiv](https://arxiv.org/abs/2403.09957)
