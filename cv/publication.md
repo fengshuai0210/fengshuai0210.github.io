@@ -8,14 +8,14 @@ layout: default
 
 ### First/Corresponding Author Paper
 
-5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://arxiv.org/abs/2403.09957), 2024, *ApJ*, 965, 60
-4. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022arXiv220706050F/abstract), 2022, *ApJS*, 262, 6
+5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024arXiv240309957F/abstract), 2024, *ApJ*, 965, 60
+4. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....6F/abstract), 2022, *ApJS*, 262, 6
 3. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Rogemar A. Riffel, Kaike Pan, [SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..20F/abstract), 2020, *ApJL*, 892, 20
 2. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, A-Li Luo, Jian-Nan Zhang, Meng-Xin Wang, Xia Wang, Yin-Bi Li, [Bivariate Luminosity Function of Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract), 2019, *ApJ*, 880, 114
 1. **Shuai Feng**, Zheng-Yi Shao, Shi-Yin Shen, Maria Argudo-Fernandez, Hong Wu, Man-I Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *RAA*, 16, 5
 
 ### Collabarator Paper
-20. Cai-Na Hao, Xiao-Yang Xia, Yong Shi, Rui Guo, Yan-Mei Chen, Shuai Feng, Jun-Qiang Ge, Qiu-Sheng Gu, [Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?](), 2024, *ApJ*, accepted
+20. Cai-Na Hao, Xiao-Yang Xia, Yong Shi, Rui Guo, Yan-Mei Chen, Shuai Feng, Jun-Qiang Ge, Qiu-Sheng Gu, [Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?](https://ui.adsabs.harvard.edu/abs/2024arXiv240403850H/abstract), 2024, *ApJ*, accepted
 19. Zhen-Yan Huo, Zhi-Cun Liu, Wen-Yuan Cui, Chao Liu, Jia-Ming Liu, Ming-Xu Sun, **Shuai Feng**, Lin-Lin Li, [Identification of A-type supergiants from LAMOST DR5](), 2024, *MNRAS*, accepted
 18. Meng-Ting Ju, Jun Yin, Lei Hao, Chen-Xu Liu, Chao-Wei Tsai, Jun-Feng Wang, Zheng-Yi Shao, **Shuai Feng**, Yu Rong, [The Clumpy Structure of Five Star-bursting Dwarf Galaxies in the MaNGA Survey](https://ui.adsabs.harvard.edu/abs/2024RAA....24b5008J/abstract), 2024, *RAA*, 24, 2
 17. Zhen-Yan Huo, Zhi-Cun Liu, Wen-Yuan Cui, Chao Liu, Jia-Ming Liu, Ming-Xu Sun, **Shuai Feng**, Lin-Lin Li, [The measurement of masses of OB-type stars from LAMOST DR5](https://ui.adsabs.harvard.edu/abs/2024ApJS..271...15H/abstract), 2024, *ApJS*, 271, 15
