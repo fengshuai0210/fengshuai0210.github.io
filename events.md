@@ -10,7 +10,10 @@ layout: default
 ----
 ## 2024
 
-Apr 04, 2024\
+May 01, 2024\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **CO Observations of Early-mid Stage Major-mergers in MaNGA Survey** by Yu et al., [arXiv](https://arxiv.org/abs/2404.18999)
+
+Apr 08, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?** by Hao et al., [arXiv](https://arxiv.org/abs/2404.03850)
 
 Mar 18, 2024\

@@ -6,7 +6,7 @@ layout: default
 
 ![](/image/optics.jpg)
 
-*2023-2024年秋季学期*
+*2024-2025年秋季学期*
 
 ## 参考教材
 
