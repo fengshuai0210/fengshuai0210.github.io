@@ -11,7 +11,7 @@ layout: default
 ## 2024
 
 May 13, 2024\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Cai-Lu Shi won the **Best Poster Award at the 2024 Guo Shoujing Conference**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Cai-Lu Shi** won the **Best Poster Award at the 2024 Guo Shoujing Conference**
 
 May 01, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **CO Observations of Early-mid Stage Major-mergers in MaNGA Survey** by Yu et al., [arXiv](https://arxiv.org/abs/2404.18999)
