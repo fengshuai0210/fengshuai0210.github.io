@@ -4,9 +4,13 @@ layout: default
 
 # On-post Teaching Practice (顶岗实习)
 
-![](/image/On-Post-Teaching-Practice.jpg)
+![](./image/On-Post-Teaching-Practice.jpg)
 
 *2023-2024年春季学期*
+
+河北师范大学的顶岗实习旨在提升师范生的实践能力和教学经验，通常安排在大三，持续一个学期。实习地点主要是河北省内的中小学，尤其是偏远和农村地区。学生在实习期间进行课堂教学、班级管理和教研活动，并接受学校和指导教师的监督与评估，以便更好地适应未来的教师职业。
+
+[河北师范大学顶岗支教指导中心](http://dgsxb.hebtu.edu.cn/)
 
 ## 实习学校
 
