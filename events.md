@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2024
 
+Jun 14, 2024\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Education and Sports Bureau of Chengde County**, Chengde, Hebei
+
 May 26, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Identification of A-type supergiants from LAMOST DR5** by Huo et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1244H/abstract)
 
