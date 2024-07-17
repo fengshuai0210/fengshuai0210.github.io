@@ -4,7 +4,7 @@ layout: default
 
 # On-post Teaching Practice (顶岗实习)
 
-![](./image/On-Post-Teaching-Practice.jpg)
+![](./image/On-Post-Teaching-Practice.png)
 
 *2023-2024年春季学期*
 
