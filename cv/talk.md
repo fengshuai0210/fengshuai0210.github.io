@@ -14,7 +14,7 @@ layout: default
 
 ### 2024
 
-36. 
+36. *Construction of Galaxy Merging Sequence based on Galaxy Morphology*, **Workshop on AI applications in astronomy**, 2024.07, Dali
 
 ### 2023
 
