@@ -10,6 +10,8 @@ layout: default
 
 1. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, **South-Western Institute For Astronomy Research, Yunnan University**, 2023.09
 
+----
+
 ## Conference Talk
 
 ### 2024
