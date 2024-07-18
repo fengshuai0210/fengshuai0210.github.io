@@ -12,6 +12,10 @@ layout: default
 
 ## Conference Talk
 
+### 2024
+
+36. 
+
 ### 2023
 
 35. *Explore the Signature of Non-Rotational Motion in the Morphology of Velocity Fields*, **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, 2023.10, Hangzhou
@@ -24,8 +28,8 @@ layout: default
 ### 2022
 
 29. *The Morphology of Hα Velocity Field in MaNGA*, **ACAMAR 8: Australia-China Workshop on Astrophysics**, 2022.10, Online
-28. *Gas-Phase Metallicity along the Merger Sequence*, **8th Interstellar Physics and Chemistry Symposium**, 2022.01, Zhuhai(Online)
-27. *Simulating the Scientific Image of Intergral Field Spectrograph in CSST*, **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, 2022.01, Beijing(Online)
+28. *Gas-Phase Metallicity along the Merger Sequence*, **8th Interstellar Physics and Chemistry Symposium**, 2022.01, Online
+27. *Simulating the Scientific Image of Intergral Field Spectrograph in CSST*, **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, 2022.01, Online
 
 ### 2021
 
@@ -76,3 +80,11 @@ layout: default
 ### 2014
 
 1. *The Long-slit Observation of Galaxy Triplet J0848+1644*, **2014 Annual Meeting of the Chinese Astronomical Society**, 2014.10, Xi'an
+
+----
+
+## Popular Science Talk
+
+### 2024
+
+1. *Astronomy Development and Astronomy Education in China*, **Education and Sports Bureau of Chengde County, Hebei**, 2024.06
