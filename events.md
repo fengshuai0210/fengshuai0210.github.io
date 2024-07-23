@@ -10,7 +10,7 @@ layout: default
 ----
 ## 2024
 
-May 13, 2024\
+Jul 21, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Third Prize in Chinese undergraduate Astronomical Innovation Contest 2024**
 
 Jun 14, 2024\
