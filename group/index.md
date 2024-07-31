@@ -27,4 +27,8 @@ Our research group focus on the study of galaxy formation and evolution.
 * Duration: 2022 - 
 * Research project: Morphologies of Galaxy Pairs in Legacy Survey
 
+### Shu-Hao Chen (陈书豪)
+* Duration: 2022 - 
+* Research project: Morphologies of Galaxy Pairs in Legacy Survey
+
 # Former Members

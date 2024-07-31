@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2024
 
+Jul 27, 2024\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Application of AI in Astronomy**, Dali, Yunnan
+
 Jul 21, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Third Prize in Chinese undergraduate Astronomical Innovation Contest 2024**
 
