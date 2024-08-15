@@ -6,11 +6,15 @@ layout: default
 
 ## 2024 Fall Semester
 
+COURSE | LOCATION | ROLE 
+-------|----------|------
 | **[Optics](/teaching/Optics2024)**<br>**光学** |  周一1-2节/周二3-4节<br>汇华学院2教-302 | **Lecturer**
 | **[Data Analysis for Astronomy](/teaching/AstroData2024)**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-304 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 
 ## 2024 Spring Semester
 
+COURSE | LOCATION | ROLE 
+-------|----------|------
 | **[On-post Teaching Practice](/teaching/TeachPractice2024/)**<br>**顶岗实习** | 承德县、宽城县 | **Lead Teacher**
 
 ## Teaching History
