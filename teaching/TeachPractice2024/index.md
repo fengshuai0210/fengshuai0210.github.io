@@ -18,6 +18,11 @@ layout: default
 
 ### 承德市承德县
 
+<script type="text/javascript">
+	var map = new BMap.Map("allmap");
+	map.centerAndZoom("承德县",15);
+</script>
+
 ##### 承德县第二中学
 
 ![](./image/chengde_erzhong.jpg)
