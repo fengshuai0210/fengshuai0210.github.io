@@ -8,7 +8,7 @@ layout: default
 
 COURSE | LOCATION | ROLE 
 -------|----------|------
-**[Optics](/teaching/Optics2024)**<br>**光学** |  周一1-2节/周二3-4节<br>汇华学院2教-302 | **Lecturer**
+**[Optics](/teaching/Optics2024)**<br>**光学** |  周三3-4节/周五1-2节<br>汇华学院2教-411 | **Lecturer**
 **[Data Analysis for Astronomy](/teaching/AstroData2024)**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-304 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 
 ## 2024 Spring Semester
