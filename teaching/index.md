@@ -8,8 +8,8 @@ layout: default
 
 COURSE | LOCATION | ROLE 
 -------|----------|------
-**[Optics](/teaching/Optics2024)**<br>**光学** |  周三3-4节/周五1-2节<br>汇华学院2教-411 | **Lecturer**
-**[Data Analysis for Astronomy](/teaching/AstroData2024)**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-304 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
+**[Optics](/teaching/Optics2024/)**<br>**光学** |  周三3-4节/周五1-2节<br>汇华学院2教-411 | **Lecturer**
+**[Data Analysis for Astronomy](/teaching/AstroData2024/)**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-304 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 
 ## 2024 Spring Semester
 
@@ -21,13 +21,13 @@ COURSE | LOCATION | ROLE
 
 SEMESTER | COURSE | ROLE 
 ---------|--------|------
-2024 Fall | **[Optics](/teaching/Optics2024/index.md)**<br>**光学** | **Lecturer** 
-2024 Fall | **[Data Analysis for Astronomy](/teaching/ObsAstro2024/index.md)**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
+2024 Fall | **[Optics](/teaching/Optics2024/)**<br>**光学** | **Lecturer** 
+2024 Fall | **[Data Analysis for Astronomy](/teaching/ObsAstro2024/)**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 2024 Spring | **[On-post Teaching Practice](/teaching/TeachPractice2024/)**<br>**顶岗实习** | **Lead Teacher**
-2023 Fall | **[Optics](/teaching/Optics2023/index.md)**<br>**光学** | **Lecturer** 
-2023 Fall | **[Data Analysis for Astronomy](/teaching/ObsAstro2023/index.md)**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
-2023 Spring | **[Galactic Astronomy](/teaching/Galaxy2023/index.md)**<br>**星系天文学** |  **Lecturer**
-2023 Spring | **[Observational Astronomy](/teaching/ObsAstro2023/index.md)**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
+2023 Fall | **[Optics](/teaching/Optics2023/)**<br>**光学** | **Lecturer** 
+2023 Fall | **[Data Analysis for Astronomy](/teaching/ObsAstro2023/)**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
+2023 Spring | **[Galactic Astronomy](/teaching/Galaxy2023/)**<br>**星系天文学** |  **Lecturer**
+2023 Spring | **[Observational Astronomy](/teaching/ObsAstro2023/)**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li
 2022 Fall | **[Optics](/teaching/Optics2022/index.md)**<br>**光学** | **Lecturer** 
 2022 Fall | **Data Analysis for Astronomy**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 2022 Spring | **Galactic Astronomy**<br>**星系天文学** |  **Lecturer**
