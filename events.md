@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2024
 
+Aug 20, 2024\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Double-peaked Narrow Emission-Line Galaxies in SDSS-IV MaNGA** by Qiu et al., [arXiv](https://arxiv.org/abs/2408.09750)
+
 Jul 27, 2024\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Application of AI in Astronomy**, Dali, Yunnan
 
