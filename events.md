@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2024
 
+Sep 04, 2024\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MSA-3D: Metallicity Gradients in Galaxies at z∼1 with JWST/NIRSpec Slit-stepping Spectroscopy** by Ju et al., [arXiv](https://arxiv.org/abs/2409.01616)
+
 Aug 20, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Double-peaked Narrow Emission-Line Galaxies in SDSS-IV MaNGA** by Qiu et al., [arXiv](https://arxiv.org/abs/2408.09750)
 
