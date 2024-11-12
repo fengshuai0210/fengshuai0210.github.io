@@ -10,6 +10,15 @@ layout: default
 ----
 ## 2024
 
+Oct 30, 2024\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2024 Annual Meeting of the Chinese Astronomical Society**, Hangzhou, Zhejiang
+
+Oct 10, 2024\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Seminar**, Hangzhou, Zhejiang
+
+Sep 14, 2024\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Excellent Prize of Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
+
 Sep 04, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MSA-3D: Metallicity Gradients in Galaxies at z∼1 with JWST/NIRSpec Slit-stepping Spectroscopy** by Ju et al., [arXiv](https://arxiv.org/abs/2409.01616)
 

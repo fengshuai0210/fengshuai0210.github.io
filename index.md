@@ -41,13 +41,13 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
-Sep 04, 2024\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MSA-3D: Metallicity Gradients in Galaxies at z∼1 with JWST/NIRSpec Slit-stepping Spectroscopy** by Ju et al., [arXiv](https://arxiv.org/abs/2409.01616)
+Oct 30, 2024\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2024 Annual Meeting of the Chinese Astronomical Society**, Hangzhou, Zhejiang
 
-Aug 20, 2024\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Double-peaked Narrow Emission-Line Galaxies in SDSS-IV MaNGA** by Qiu et al., [arXiv](https://arxiv.org/abs/2408.09750)
+Oct 10, 2024\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Seminar**, Hangzhou, Zhejiang
 
-Jul 21, 2024\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Third Prize in Chinese undergraduate Astronomical Innovation Contest 2024**
+Sep 14, 2024\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Excellent Prize of Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
 
 **[Previous Events](./events)**
