@@ -41,13 +41,13 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
+Nov 17, 2024\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> *Contributed talk* at **Symposium on Galaxy Evolution and Cosmology with the China Space Station Telescope**, Suzhou, Jiangsu
+
 Oct 30, 2024\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2024 Annual Meeting of the Chinese Astronomical Society**, Hangzhou, Zhejiang
 
 Oct 10, 2024\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Seminar**, Hangzhou, Zhejiang
-
-Sep 14, 2024\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Excellent Prize of Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Symposium**, Yinchuan, Ningxia
 
 **[Previous Events](./events)**
