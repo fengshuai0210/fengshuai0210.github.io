@@ -38,6 +38,8 @@ Galaxy Formation and Evolution, including
 * Graduate Student: Cai-Lu Shi
 * Undergraduate Student: Shao-Ze Geng, Shu-Hao Chen, Yao-Tian Duan
 
+*[Join Our Group]()*
+
 ----
 ## News
 
