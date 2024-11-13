@@ -10,11 +10,14 @@ layout: default
 ----
 ## 2024
 
+Nov 17, 2024\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> *Contributed talk* at **Symposium on Galaxy Evolution and Cosmology with the China Space Station Telescope**, Suzhou, Jiangsu
+
 Oct 30, 2024\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2024 Annual Meeting of the Chinese Astronomical Society**, Hangzhou, Zhejiang
 
 Oct 10, 2024\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Seminar**, Hangzhou, Zhejiang
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Symposium**, Yinchuan, Ningxia
 
 Sep 14, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Excellent Prize of Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
@@ -26,7 +29,7 @@ Aug 20, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Double-peaked Narrow Emission-Line Galaxies in SDSS-IV MaNGA** by Qiu et al., [arXiv](https://arxiv.org/abs/2408.09750)
 
 Jul 27, 2024\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Application of AI in Astronomy**, Dali, Yunnan
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Application of AI in Astronomy**, Dali, Yunnan
 
 Jul 21, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shao-Ze Geng won **Third Prize in Chinese undergraduate Astronomical Innovation Contest 2024**
