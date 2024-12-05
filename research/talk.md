@@ -16,6 +16,7 @@ layout: default
 
 ### 2024
 
+37. *Exploring the Impact of Gas Inflows and Outflows on Galaxy Scaling Relations through the Morphology of Velocity Fields*, **Symposium on Galaxy Evolution and Cosmology with the China Space Station Telescope**, 2024.11, Suzhou
 36. *Construction of Galaxy Merging Sequence based on Galaxy Morphology*, **Workshop on AI applications in astronomy**, 2024.07, Dali
 
 ### 2023
