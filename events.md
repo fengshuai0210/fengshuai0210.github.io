@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2024
 
+Dec 11, 2024\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The first exploration of the correlations between WISE 12μm and CO emission in early-type galaxies** by Gao et al., [arXiv](https://arxiv.org/abs/2412.07176)
+
 Nov 17, 2024\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> *Contributed talk* at **Symposium on Galaxy Evolution and Cosmology with the China Space Station Telescope**, Suzhou, Jiangsu
 
