@@ -15,6 +15,8 @@ layout: default
 1. **Shuai Feng**, Zheng-Yi Shao, Shi-Yin Shen, Maria Argudo-Fernandez, Hong Wu, Man-I Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *RAA*, 16, 5
 
 ### Collabarator Paper
+24. 
+23. Yang Gao, Enci Wang, Qing-Hua Tan, Timothy A. Davis, Fu-Heng Liang, Xue-Jian Jiang, Ning Gai, Qian Jiao, DongDong Shi, Shuai Feng, Yanke Tang, Shijie Li, Yi-Fan Wang, [The first exploration of the correlations between \textit{WISE} 12 \micron\ and CO emission in early-type galaxies](https://arxiv.org/abs/2412.07176), 2024, *ApJ*, accepted
 22. Jia-Jie Qiu, Shi-Yin Shen, **Shuai Feng**, Rui-Xiang Chang, Qian-Wen Zhao, Qi Zeng, [Double-peaked Narrow Emission-Line Galaxies in SDSS-IV MaNGA](https://arxiv.org/abs/2408.09750), 2024, *ApJS*, accepted
 21. Qing-Zheng Yu, Tao-Tao Fang, Cong Kevin Xu, **Shuai Feng**, Si-Yi Feng, Yu Gao, Xue-Jian Jiang, Ute Lisenfeld, [CO Observations of Early-mid Stage Major-mergers in MaNGA Survey](https://ui.adsabs.harvard.edu/abs/2024ApJS..273....2Y/abstract), 2024, *ApJS*, 273, 2
 20. Cai-Na Hao, Xiao-Yang Xia, Yong Shi, Rui Guo, Yan-Mei Chen, **Shuai Feng**, Jun-Qiang Ge, Qiu-Sheng Gu, [Are High Σ_1 Massive Blue Spiral Galaxies Rejuvenated Systems?](https://ui.adsabs.harvard.edu/abs/2024ApJ...968....3H/abstract), 2024, *ApJ*, 968, 3
