@@ -4,18 +4,20 @@ layout: default
 
 # Teaching Activities
 
+
+## 2025 Spring Semester
+
+COURSE | LOCATION | ROLE 
+-------|----------|------
+**[Galactic Astronomy](/teaching/Galaxy2025/)**<br>**星系天文学** | 周???-?节<br>公教楼?-??? | **Lecturer**
+**[Observational Astronomy](/teaching/ObsAstro2025/)**<br>**实测天体物理** | 周???-?节<br>公教楼?-??? | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li & Dr. Jia-Wei Luo
+
 ## 2024 Fall Semester
 
 COURSE | LOCATION | ROLE 
 -------|----------|------
 **[Optics](/teaching/Optics2024/)**<br>**光学** |  周三3-4节/周五1-2节<br>汇华学院2教-411 | **Lecturer**
 **[Data Analysis for Astronomy](/teaching/AstroData2024/)**<br>**天文数据处理方法** |  周五6-8节<br>公教楼D-304 | **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
-
-## 2024 Spring Semester
-
-COURSE | LOCATION | ROLE 
--------|----------|------
-**[On-post Teaching Practice](/teaching/TeachPractice2024/)**<br>**顶岗实习** | 承德县、宽城县 | **Lead Teacher**
 
 ## Teaching History
 
