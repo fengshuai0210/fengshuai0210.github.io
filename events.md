@@ -5,10 +5,13 @@ layout: default
 # Events
 *Since Sep 01, 2020*
 
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
 ## 2024
+
+Dec 30, 2024\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Cai-Lu Shi won **The Graduate Student Innovation Project of Hebei Normal University in 2025**
 
 Dec 11, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The first exploration of the correlations between WISE 12μm and CO emission in early-type galaxies** by Gao et al., [arXiv](https://arxiv.org/abs/2412.07176)

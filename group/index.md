@@ -6,9 +6,9 @@ layout: default
 
 Our research group focus on the study of galaxy formation and evolution.
 
-# Current Members
+# Current Members / 团队成员
 
-## Graduate
+## Graduate / 硕士研究生
 
 ### Cai-Lu Shi (石彩璐)
 
@@ -17,18 +17,21 @@ Our research group focus on the study of galaxy formation and evolution.
 * Duration: 2023 - 
 * Research project: Galaxy Pairs in MaNGA IFS Survey
 
-## Undergrade
+## Undergrade / 本科生
 
 ### Shao-Ze Geng (耿少泽)
-* Duration: 2022 - 
+* Duration: 2023 - 
 * Research project: Morphologies of Galaxy Pairs in Legacy Survey
 
 ### Yao-Tian Duan (段耀天)
-* Duration: 2022 - 
+* Duration: 2023 - 
 * Research project: Morphologies of Galaxy Pairs in Legacy Survey
 
 ### Shu-Hao Chen (陈书豪)
-* Duration: 2022 - 
+* Duration: 2023 - 
 * Research project: Morphologies of Galaxy Pairs in Legacy Survey
 
-# Former Members
+### Gui-Tao Xu (许桂涛)
+* Duration: 2024 - 
+* Research project: Interaction of multiple galaxies.
+
