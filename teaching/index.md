@@ -9,8 +9,8 @@ layout: default
 
 COURSE | LOCATION | ROLE 
 -------|----------|------
-**[Galactic Astronomy](/teaching/Galaxy2025/)**<br>**星系天文学** | 周???-?节<br>公教楼?-??? | **Lecturer**
-**[Observational Astronomy](/teaching/ObsAstro2025/)**<br>**实测天体物理** | 周???-?节<br>公教楼?-??? | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li & Dr. Jia-Wei Luo
+**[Galactic Astronomy](/teaching/Galaxy2025/)**<br>**星系天文学** | 周五6-8节<br>理科群2-C320 | **Lecturer**
+**[Observational Astronomy](/teaching/ObsAstro2025/)**<br>**实测天体物理** | 周五3-5节<br>公教楼D-108 | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li & Dr. Jia-Wei Luo
 
 ## 2024 Fall Semester
 
