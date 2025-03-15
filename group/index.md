@@ -34,3 +34,9 @@ Our research group focus on the study of galaxy formation and evolution.
 #### Gui-Tao Xu (许桂涛)
 * Duration: 2024 - 
 * Research project: Interaction of Multiple Galaxies
+
+#### Yi-Jin Niu (牛艺瑾)
+* Duration: 2025 - 
+* Research project: Interaction of Multiple Galaxies
+
+## Previous Members / 毕业成员
