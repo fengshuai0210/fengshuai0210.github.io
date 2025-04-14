@@ -8,10 +8,24 @@ layout: default
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
+## 2025
+
+Apr 01, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Yao-Tian Duan** has been admitted to the master's program at the **Dalian University of Technology**
+
+May 31, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Shao-Ze Geng** has been admitted to the master's program at the **National Astronomical Observatories, Chinese Academy of Sciences**
+
+May 10, 2024\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Yi-Jin Niu**!
+
 ## 2024
 
 Dec 30, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Cai-Lu Shi won **The Graduate Student Innovation Project of Hebei Normal University in 2025**
+
+Dec 18, 2024\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Gui-Tao Xu**!
 
 Dec 11, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The first exploration of the correlations between WISE 12μm and CO emission in early-type galaxies** by Gao et al., [arXiv](https://arxiv.org/abs/2412.07176)
