@@ -43,13 +43,13 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
-Dec 30, 2024\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Cai-Lu Shi won **The Graduate Student Innovation Project of Hebei Normal University in 2025**
+Apr 17, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **National Astronomical Observatories, Chinese Academy of Sciences**
 
-Dec 11, 2024\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The first exploration of the correlations between WISE 12μm and CO emission in early-type galaxies** by Gao et al., [arXiv](https://arxiv.org/abs/2412.07176)
+Apr 01, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Yao-Tian Duan** has been admitted to the master's program at the **Dalian University of Technology**
 
-Nov 17, 2024\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> *Contributed talk* at **Symposium on Galaxy Evolution and Cosmology with the China Space Station Telescope**, Suzhou, Jiangsu
+May 31, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Shao-Ze Geng** has been admitted to the master's program at the **National Astronomical Observatories, Chinese Academy of Sciences**
 
 **[Previous Events](./events)**

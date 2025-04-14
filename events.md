@@ -10,13 +10,16 @@ layout: default
 ----
 ## 2025
 
+Apr 17, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **National Astronomical Observatories, Chinese Academy of Sciences**
+
 Apr 01, 2025\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Yao-Tian Duan** has been admitted to the master's program at the **Dalian University of Technology**
 
 May 31, 2025\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Shao-Ze Geng** has been admitted to the master's program at the **National Astronomical Observatories, Chinese Academy of Sciences**
 
-May 10, 2024\
+May 10, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Yi-Jin Niu**!
 
 ## 2024
