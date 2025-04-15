@@ -6,7 +6,12 @@ layout: default
 
 Our research group focus on the study of galaxy formation and evolution.
 
-## Current Members / 团队成员
+# Current Members / 团队成员
+
+Name <br> 姓名 | Grade <br> 年级 | Research Project <br> 研究项目
+-----------|--------|------
+Cai-Lu Shi <br> 石彩璐 | Graduate <br> 硕士研究生| Galaxy interaction in mixed galaxy pairs using integral field spectroscopy
+
 
 ### Graduate / 硕士研究生
 
@@ -39,4 +44,4 @@ Our research group focus on the study of galaxy formation and evolution.
 * Duration: 2025 - 
 * Research project: Post-merger Galaxies
 
-## Previous Members / 毕业成员
+# Previous Members / 毕业成员
