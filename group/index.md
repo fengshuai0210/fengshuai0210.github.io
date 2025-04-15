@@ -4,11 +4,8 @@ layout: default
 
 # Research Group
 
-Our research group focuses on galaxy formation and evolution, especially the physical processes related to galaxy interactions and mergers.
-我们课题组主要研究星系的形成与演化，特别关注星系相互作用与并合过程中的物理机制。
-
-We utilize large-scale survey data, spectral synthesis models, and mock IFS observations to understand galaxy kinematics, morphology, and star formation histories.
-我们结合大规模巡天数据、光谱合成模型与虚拟观测技术，探索星系的运动学、形态结构与恒星形成历史。
+Our research group focuses on galaxy formation and evolution, especially the physical processes related to galaxy interactions and mergers. We utilize large-scale survey data, spectral synthesis models, and mock IFS observations to understand galaxy kinematics, morphology, and star formation histories.
+我们课题组主要研究星系的形成与演化，特别关注星系相互作用与并合过程中的物理机制。我们结合大规模巡天数据、光谱合成模型与虚拟观测技术，探索星系的运动学、形态结构与恒星形成历史。
 
 # Join Us / 加入我们
 
