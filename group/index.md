@@ -37,6 +37,6 @@ Our research group focus on the study of galaxy formation and evolution.
 
 #### Yi-Jin Niu (牛艺瑾)
 * Duration: 2025 - 
-* Research project: Interaction of Multiple Galaxies
+* Research project: Post-merger Galaxies
 
 ## Previous Members / 毕业成员
