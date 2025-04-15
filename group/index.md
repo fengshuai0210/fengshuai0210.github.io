@@ -10,6 +10,13 @@ Our research group focuses on galaxy formation and evolution, especially the phy
 We utilize large-scale survey data, spectral synthesis models, and mock IFS observations to understand galaxy kinematics, morphology, and star formation histories.
 我们结合大规模巡天数据、光谱合成模型与虚拟观测技术，探索星系的运动学、形态结构与恒星形成历史。
 
+# Join Us / 加入我们
+
+We welcome highly motivated undergraduate and graduate students to join our group. If you're interested in galaxy evolution, observational astronomy, or data analysis, feel free to reach out.
+
+欢迎对星系演化、观测天文学或数据分析感兴趣的同学加入我们团队。请通过电子邮件联系冯帅老师。
+
+
 # Current Members / 团队成员
 
 Name <br> 姓名 | Grade <br> 年级 | Research Project <br> 研究项目
