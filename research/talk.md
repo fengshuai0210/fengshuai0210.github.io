@@ -6,6 +6,9 @@ layout: default
 
 ## Seminar Talk
 
+### 2025
+1. *From MaNGA to CSST: Morphology of Galaxy Gas Velocity Fields and Simulation of IFS Datacubes*, **National Astronomical Observatories, Chinese Academy of Sciences**, 2025.04
+
 ### 2023
 
 1. *Asymmetric Features in Velocity Map Morphology of Ionized Gas*, **South-Western Institute For Astronomy Research, Yunnan University**, 2023.09
