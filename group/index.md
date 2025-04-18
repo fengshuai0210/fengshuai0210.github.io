@@ -18,8 +18,9 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 Name <br> 姓名 | Grade <br> 年级 | Research Project <br> 研究项目
 -----------|--------|------
-Cai-Lu Shi <br> 石彩璐 | MSc 2023 <br> 2023级硕士 | Galaxy Pairs in MaNGA IFS Survey
-Shao-Ze Geng <br> 耿少泽 | BSc 2021 <br> 2021级本科 | Morphology of Galaxy Pairs in Legacy Survey
+Cai-Lu Shi <br> 石彩璐 | MSc 2023 <br> 2023级硕士 | S+E Galaxy Pairs in MaNGA Survey
+Bing-Xi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Galaxy Pairs
+Shao-Ze Geng <br> 耿少泽 | BSc 2021 <br> 2021级本科 | Morphological Asymmetry of Galaxy Pairs in Legacy Survey
 Yao-Tian Duan <br> 段耀天 | BSc 2021 <br> 2021级本科 | Metallicity of Galaxy Pairs in Legacy Survey
 Shu-Hao Chen <br> 陈书豪 | BSc 2021 <br> 2021级本科 | Morphology of Galaxy Pairs in Legacy Survey
 Gui-Tao Xu <br> 许桂涛 | BSc 2022 <br> 2022级本科 | Interaction of Multiple Galaxies
