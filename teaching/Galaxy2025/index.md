@@ -4,7 +4,7 @@ layout: default
 
 # Galactic Astronomy（星系天文学）
 
-![](../image/interacting_galaxy.jpg)
+![](../image/Galaxy.jpg)
 
 *2024-2025年春季学期*
 
