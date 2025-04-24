@@ -29,13 +29,13 @@ layout: default
 3.28 | 旋涡星系 | [Sellwood & Masters (2022)](https://arxiv.org/abs/2110.05615)
 4.4  | *清明节假期* |
 4.11 | 椭圆星系 | [Cappellari et al. (2016)](https://arxiv.org/abs/1602.04267); 
-4.18 | 矮星系与不规则星系 | [Simon et al. (2019)](https://arxiv.org/abs/1901.05465)
-4.25 | 星系动力学 |
-5.2  | *劳动节假期* |
-5.9  | 活动星系核 | [Kormendy & Ho (2013)](https://arxiv.org/abs/1304.7762); [Hickox & Alexander (2018)](https://arxiv.org/abs/1806.04680)
-5.16 | 星系群与星系团 |
-5.23 | 星系的统计规律 | [Blanton & Moustakas (2009)](https://arxiv.org/abs/0908.3017)
-5.30 | 宇宙大尺度结构 | [Robertson (2022)](https://arxiv.org/abs/2110.13160)
-6.6  | 高红移星系与早期宇宙 | [Bullock & Boylan-Kolchin (2017)](https://arxiv.org/abs/1707.04256)
-6.13 | 星系形成与演化（一） | [Wechsler & Tinker (2018)](https://arxiv.org/abs/1804.03097)
-6.20 | 星系形成与演化（二） | 
+4.18 | *校运动会* | [Cappellari et al. (2016)](https://arxiv.org/abs/1602.04267); 
+4.25 | 矮星系与不规则星系 | [Simon et al. (2019)](https://arxiv.org/abs/1901.05465)
+5.2  | *劳动节假期* | 
+5.9  | 星系动力学 |
+5.16 | 活动星系核 | [Kormendy & Ho (2013)](https://arxiv.org/abs/1304.7762); [Hickox & Alexander (2018)](https://arxiv.org/abs/1806.04680)
+5.23 | 星系群与星系团 |
+5.30 | 星系的统计规律 | [Blanton & Moustakas (2009)](https://arxiv.org/abs/0908.3017)
+6.6  | 宇宙大尺度结构 | [Robertson (2022)](https://arxiv.org/abs/2110.13160)
+6.13 | 高红移星系与早期宇宙 | [Bullock & Boylan-Kolchin (2017)](https://arxiv.org/abs/1707.04256)
+6.23 | 星系形成与演化 | [Wechsler & Tinker (2018)](https://arxiv.org/abs/1804.03097)
