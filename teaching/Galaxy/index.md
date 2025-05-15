@@ -21,24 +21,24 @@ layout: default
 
 时间 | 内容 
 ----|----
-2.21 | 绪论 | 
-2.28 | 恒星 | [Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835); [Hopkins (2018)](https://arxiv.org/abs/1807.09949)
-3.7  | 星际介质 | [Galliano et al. (2017)](https://arxiv.org/abs/1711.07434); [Saintonge & Catinella (2022)](https://arxiv.org/abs/2202.00690); 
-3.14 | 银河系（一）| [Brown et al. (2021)](https://arxiv.org/abs/2102.11712); [Helmi et al. (2020)](https://arxiv.org/abs/2002.04340)
-3.21 | 银河系（二）| [Barbuy et al. (2018)](https://arxiv.org/abs/1805.01142); [Bland-Hawthorn et al. (2016)](https://arxiv.org/abs/1602.07702)
-3.28 | 旋涡星系 | [Sellwood & Masters (2022)](https://arxiv.org/abs/2110.05615)
-4.4  | *清明节假期* |
-4.11 | 椭圆星系 | [Cappellari et al. (2016)](https://arxiv.org/abs/1602.04267); 
-4.18 | *校运动会* | [Cappellari et al. (2016)](https://arxiv.org/abs/1602.04267); 
-4.25 | 矮星系与不规则星系 | [Simon et al. (2019)](https://arxiv.org/abs/1901.05465)
-5.2  | *劳动节假期* | 
-5.9  | 星系动力学 |
-5.16 | 活动星系核 | [Kormendy & Ho (2013)](https://arxiv.org/abs/1304.7762); [Hickox & Alexander (2018)](https://arxiv.org/abs/1806.04680)
-5.23 | 星系群与星系团 |
-5.30 | 星系的统计规律 | [Blanton & Moustakas (2009)](https://arxiv.org/abs/0908.3017)
-6.6  | 宇宙大尺度结构 | [Robertson (2022)](https://arxiv.org/abs/2110.13160)
-6.13 | 高红移星系与早期宇宙 | [Bullock & Boylan-Kolchin (2017)](https://arxiv.org/abs/1707.04256)
-6.23 | 星系形成与演化 | [Wechsler & Tinker (2018)](https://arxiv.org/abs/1804.03097)
+2.21 | 绪论
+2.28 | 恒星
+3.7  | 星际介质
+3.14 | 银河系（一）
+3.21 | 银河系（二）
+3.28 | 旋涡星系
+4.4  | *清明节假期*
+4.11 | 椭圆星系
+4.18 | *校运动会*
+4.25 | 矮星系与不规则星系
+5.2  | *劳动节假期*
+5.9  | 星系动力学
+5.16 | 活动星系核
+5.23 | 星系群与星系团
+5.30 | 星系的统计规律
+6.6  | 宇宙大尺度结构
+6.13 | 高红移星系与早期宇宙
+6.23 | 星系形成与演化
 
 ----
 
@@ -86,16 +86,18 @@ layout: default
 * [Conselice, 2014, *The Evolution of Galaxy Structure Over Cosmic Time*, Annual Review of Astronomy and Astrophysics, 52, 291–337](https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..645R/abstract)
 
 ### 星系群与星系团
-* [Refregier, 2003, *Weak Gravitational Lensing by Large-Scale Structure*, Annual Review of Astronomy and Astrophysics, 41, 645–668](https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..645R/abstract)
 * [Allen, Evrard, Mantz, 2011, *Cosmological Parameters from Observations of Galaxy Clusters*, Annual Review of Astronomy and Astrophysics, 49, 409–470](https://ui.adsabs.harvard.edu/abs/2011ARA%26A..49..409A/abstract)
 * [Kravtsov & Borgani, 2012, *Formation of Galaxy Clusters*, Annual Review of Astronomy and Astrophysics, 50, 353–409](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..353K/abstract)
-* [Wechsler & Tinker, 2018, *The Connection Between Galaxies and Their Dark Matter Halos*, Annual Review of Astronomy and Astrophysics, 56, 435–487](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..435W/abstract)
-* [Mandelbaum, 2018, *Weak Lensing for Precision Cosmology*, Annual Review of Astronomy and Astrophysics, 56, 393–433](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..393M/abstract)
 
 ### 星系的统计规律
 * [Kennicutt & Evans, 2012, *Star Formation in the Milky Way and Nearby Galaxies*, Annual Review of Astronomy and Astrophysics, 50, 531–608](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..531K/abstract)
 * [Conroy, 2013, *Modeling the Panchromatic Spectral Energy Distributions of Galaxies*, Annual Review of Astronomy and Astrophysics, 51, 393–455](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..393C/abstract)
 * [Blanton & Moustakas, 2009, *Physical Properties and Environments of Nearby Galaxies*, Annual Review of Astronomy and Astrophysics, 47, 159–210](https://ui.adsabs.harvard.edu/abs/2009ARA%26A..47..159B/abstract)
+
+### 宇宙大尺度结构
+* [Wechsler & Tinker, 2018, *The Connection Between Galaxies and Their Dark Matter Halos*, Annual Review of Astronomy and Astrophysics, 56, 435–487](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..435W/abstract)
+* [Mandelbaum, 2018, *Weak Lensing for Precision Cosmology*, Annual Review of Astronomy and Astrophysics, 56, 393–433](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..393M/abstract)
+* [Refregier, 2003, *Weak Gravitational Lensing by Large-Scale Structure*, Annual Review of Astronomy and Astrophysics, 41, 645–668](https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..645R/abstract)
 
 ### 高红移星系和早期宇宙
 * [Solomon & Vanden Bout, 2005, *Molecular Gas at High Redshift*, Annual Review of Astronomy and Astrophysics, 43, 677–725](https://ui.adsabs.harvard.edu/abs/2005ARA%26A..43..677S/abstract)
