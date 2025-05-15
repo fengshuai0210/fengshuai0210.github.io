@@ -48,24 +48,17 @@ layout: default
 
 * [Hennebelle & Grudic, 2024, *The Physical Origin of the Stellar Initial Mass Function*, Annual Review of Astronomy and Astrophysics, 62, 63–111](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62...63H/abstract)
 * [Eldridge & Stanway, 2022, *New Insights into the Evolution of Massive Stars and Their Effects on Our Understanding of Early Galaxies*, Annual Review of Astronomy and Astrophysics, 60, 455–494](https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..455E/abstract)
-* [Portegies Zwart, McMillan, Gieles, 2010, *Young Massive Star Clusters*, Annual Review of Astronomy and Astrophysics, 48, 431–493](https://ui.adsabs.harvard.edu/abs/2010ARA%26A..48..431P/abstract)
+* [Portegies Zwart, McMillan, & Gieles, 2010, *Young Massive Star Clusters*, Annual Review of Astronomy and Astrophysics, 48, 431–493](https://ui.adsabs.harvard.edu/abs/2010ARA%26A..48..431P/abstract)
 
 ### 星际介质
-* [Motte, Bontemps, Louvet, 2018, ARA&A, *High-Mass Star and Massive Cluster Formation in the Milky Way*, 56, 41](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56...41M/abstract)
-* [Heyer, & Dame, 2015, ARA&A, *Molecular Clouds in the Milky Way*, 53, 583](https://ui.adsabs.harvard.edu/abs/2015ARA%26A..53..583H/abstract)
-* [Bolatto et al. (2013)]()
-
 * [Draine, 2003, *Interstellar Dust Grains*, Annual Review of Astronomy and Astrophysics, 41, 241–289. ](https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..241D/abstract)
 * [Bolatto, Wolfire, Leroy, 2013, *The CO-to-H2 Conversion Factor*, Annual Review of Astronomy and Astrophysics, 51, 207–268](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..207B/abstract)
 
 ### 银河系
-* [McClure-Griffiths, Stanimirovic, Rybarczyk, 2023, *Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies*，Annual Review of Astronomy and Astrophysics, 61, 19–63](https://ui.adsabs.harvard.edu/#abs/2023ARA%26A..61...19M/abstract)
-* [Helmi, 2020, ARA&A, *Streams, Substructures, and the Early History of the Milky Way*, Annual Review of Astronomy and Astrophysics, 58, 205–256](https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..205H/abstract)
-* [Rix & Bovy, 2013, A&ARv, *The Milky Way's stellar disk. Mapping and modeling the Galactic disk*, Annual Review of Astronomy and Astrophysics, 21, 61](https://ui.adsabs.harvard.edu/#abs/2013A%26ARv..21...61R/abstract)
-* [Ivezic, Z., Beers, T. C., & Juric, M. 2012, ARA&A, Galactic Stellar Populations in the Era of the Sloan Digital Sky Survey and Other Large Surveys, Annual Review of Astronomy and Astrophysics, 50, 251](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..251I/exportcitation)
-
-* [Heyer & Dame (2015)]()
-
+* [McClure-Griffiths, Stanimirovic, & Rybarczyk, 2023, *Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies*，Annual Review of Astronomy and Astrophysics, 61, 19–63](https://ui.adsabs.harvard.edu/#abs/2023ARA%26A..61...19M/abstract)
+* [Helmi, 2020, *Streams, Substructures, and the Early History of the Milky Way*, Annual Review of Astronomy and Astrophysics, 58, 205–256](https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..205H/abstract)
+* [Ivezic, Beers, & Juric, 2012, *Galactic Stellar Populations in the Era of the Sloan Digital Sky Survey and Other Large Surveys*, Annual Review of Astronomy and Astrophysics, 50, 251](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..251I/exportcitation)
+* [Heyer & Dame, 2015, *Molecular Clouds in the Milky Way*, Annual Review of Astronomy and Astrophysics, 53, 583–629](https://ui.adsabs.harvard.edu/abs/2015ARA%26A..53..583H/abstract)
 * [Bland-Hawthorn & Gerhard, 2016, *The Galaxy in Context: Structural, Kinematic, and Integrated Properties*, Annual Review of Astronomy and Astrophysics, 54, 529–596](https://ui.adsabs.harvard.edu/abs/2016ARA%26A..54..529B/abstract)
 
 ### 旋涡星系
@@ -81,7 +74,7 @@ layout: default
 ### 矮星系与不规则星系
 * [Tolstoy, Hill, Tosi, 2009, *Star-Formation Histories, Abundances, and Kinematics of Dwarf Galaxies in the Local Group*, Annual Review of Astronomy and Astrophysics, 47, 371–425](https://ui.adsabs.harvard.edu/abs/2009ARA%26A..47..371T/abstract)
 * [Simon, 2019, *The Faintest Dwarf Galaxies*, Annual Review of Astronomy and Astrophysics, 57, 375–415](https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57..375S/abstract)
-* [Hunter, Elmegreen, Madden, 2024, *The Interstellar Medium in Dwarf Irregular Galaxies*, Annual Review of Astronomy and Astrophysics, 62, 113–155](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62..113H/abstract)
+* [Hunter, Elmegreen & Madden, 2024, *The Interstellar Medium in Dwarf Irregular Galaxies*, Annual Review of Astronomy and Astrophysics, 62, 113–155](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62..113H/abstract)
 
 ### 活动星系核
 * [Ho, 2008, *Nuclear activity in nearby galaxies*, Annual Review of Astronomy and Astrophysics, 46, 475–539](https://ui.adsabs.harvard.edu/abs/2008ARA%26A..46..475H/abstract)
@@ -94,16 +87,23 @@ layout: default
 
 ### 星系群与星系团
 * [Refregier, 2003, *Weak Gravitational Lensing by Large-Scale Structure*, Annual Review of Astronomy and Astrophysics, 41, 645–668](https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..645R/abstract)
+* [Allen, Evrard, Mantz, 2011, *Cosmological Parameters from Observations of Galaxy Clusters*, Annual Review of Astronomy and Astrophysics, 49, 409–470](https://ui.adsabs.harvard.edu/abs/2011ARA%26A..49..409A/abstract)
+* [Kravtsov & Borgani, 2012, *Formation of Galaxy Clusters*, Annual Review of Astronomy and Astrophysics, 50, 353–409](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..353K/abstract)
+* [Wechsler & Tinker, 2018, *The Connection Between Galaxies and Their Dark Matter Halos*, Annual Review of Astronomy and Astrophysics, 56, 435–487](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..435W/abstract)
+* [Mandelbaum, 2018, *Weak Lensing for Precision Cosmology*, Annual Review of Astronomy and Astrophysics, 56, 393–433](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56..393M/abstract)
 
 ### 星系的统计规律
 * [Kennicutt & Evans, 2012, *Star Formation in the Milky Way and Nearby Galaxies*, Annual Review of Astronomy and Astrophysics, 50, 531–608](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..531K/abstract)
 * [Conroy, 2013, *Modeling the Panchromatic Spectral Energy Distributions of Galaxies*, Annual Review of Astronomy and Astrophysics, 51, 393–455](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..393C/abstract)
-* []()
+* [Blanton & Moustakas, 2009, *Physical Properties and Environments of Nearby Galaxies*, Annual Review of Astronomy and Astrophysics, 47, 159–210](https://ui.adsabs.harvard.edu/abs/2009ARA%26A..47..159B/abstract)
 
 ### 高红移星系和早期宇宙
-* [Carilli & Walter, 2013, *Cool Gas in High-Redshift Galaxies*, Annual Review of Astronomy and Astrophysics, 51, 105–161](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..105C/abstract)
 * [Solomon & Vanden Bout, 2005, *Molecular Gas at High Redshift*, Annual Review of Astronomy and Astrophysics, 43, 677–725](https://ui.adsabs.harvard.edu/abs/2005ARA%26A..43..677S/abstract)
+* [Carilli & Walter, 2013, *Cool Gas in High-Redshift Galaxies*, Annual Review of Astronomy and Astrophysics, 51, 105–161](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..105C/abstract)
+* [Stark, 2016, *Galaxies in the First Billion Years After the Big Bang*, Annual Review of Astronomy and Astrophysics, 54, 761–803](https://ui.adsabs.harvard.edu/abs/2016ARA%26A..54..761S/abstract)
+* [Robertson, 2022, *Galaxy Formation and Reionization: Key Unknowns and Expected Breakthroughs by the James Webb Space Telescope*, Annual Review of Astronomy and Astrophysics, 60, 121–158](https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..121R/abstract)
 
 ### 星系形成与演化
 * [Somerville & Dave, 2015, *Physical Models of Galaxy Formation in a Cosmological Framework*, Annual Review of Astronomy and Astrophysics, 53, 51–113](https://ui.adsabs.harvard.edu/abs/2015ARA%26A..53...51S/abstract)
 * [Bullock & Boylan-Kolchin, 2017, *Small-Scale Challenges to the LCDM Paradigm*, Annual Review of Astronomy and Astrophysics, 55, 343–387](https://ui.adsabs.harvard.edu/abs/2017ARA%26A..55..343B/abstract)
+* [Tumlinson, Peeples, Werk, 2017, *The Circumgalactic Medium*, Annual Review of Astronomy and Astrophysics, 55, 389–432](https://ui.adsabs.harvard.edu/abs/2017ARA%26A..55..389T/abstract)
