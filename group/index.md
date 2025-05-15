@@ -14,7 +14,7 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 <br> 欢迎对星系演化、观测天文学或数据分析感兴趣的同学加入我们团队。请通过电子邮件联系冯帅老师。
 
 
-# Current Members / 团队成员
+## Current Members / 团队成员
 
 Name <br> 姓名 | Grade <br> 年级 | Research Project <br> 研究项目
 -----------|--------|------
@@ -26,4 +26,4 @@ Shu-Hao Chen <br> 陈书豪 | BSc 2021 <br> 2021级本科 | Morphology of Galaxy
 Gui-Tao Xu <br> 许桂涛 | BSc 2022 <br> 2022级本科 | Multiple Galaxies
 Yi-Jin Niu <br> 牛艺瑾 | BSc 2023 <br> 2023级本科 | Post-merger Galaxies
 
-# Previous Members / 毕业成员
+## Previous Members / 毕业成员
