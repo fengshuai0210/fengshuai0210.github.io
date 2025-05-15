@@ -6,7 +6,7 @@ layout: default
 
 SEMESTER | COURSE | ROLE 
 ---------|--------|------
-2025 Fall   | **[Atomic Physics](/teaching/AtomicPhysics/)**<br>**原子物理学**<span style="background-color: #007acc; color: white>本</span> | **Lecturer** 
+2025 Fall   | **[Atomic Physics](/teaching/AtomicPhysics/)**<br>**原子物理学** | **Lecturer** 
 2025 Fall   | **[Data Analysis for Astronomy](/teaching/AstroData/)**<br>**天文数据处理方法** |  **co-Lecturer** <small><br><i>with</i> Prof. Wen-Yuan Cui
 2025 Spring | **[Galactic Astronomy](/teaching/Galaxy/)**<br>**星系天文学** |  **Lecturer**
 2025 Spring | **[Observational Astronomy](/teaching/ObsAstro/)**<br>**实测天体物理** | **co-Lecturer** <small><br><i>with</i> Prof. Ji Li & Prof. Jia-Wei Luo
