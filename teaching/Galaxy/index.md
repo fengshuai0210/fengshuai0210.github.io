@@ -54,7 +54,9 @@ layout: default
 * [Motte, Bontemps, Louvet, 2018, ARA&A, *High-Mass Star and Massive Cluster Formation in the Milky Way*, 56, 41](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56...41M/abstract)
 * [Heyer, & Dame, 2015, ARA&A, *Molecular Clouds in the Milky Way*, 53, 583](https://ui.adsabs.harvard.edu/abs/2015ARA%26A..53..583H/abstract)
 * [Bolatto et al. (2013)]()
-* [Draine (2003)]()
+
+* [Draine, 2003, *Interstellar Dust Grains*, Annual Review of Astronomy and Astrophysics, 41, 241–289. ](https://ui.adsabs.harvard.edu/abs/2003ARA%26A..41..241D/abstract)
+* [Bolatto, Wolfire, Leroy, 2013, *The CO-to-H2 Conversion Factor*, Annual Review of Astronomy and Astrophysics, 51, 207–268](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..207B/abstract)
 
 ## 银河系
 * [McClure-Griffiths, Stanimirovic, Rybarczyk, 2023, *Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies*，Annual Review of Astronomy and Astrophysics, 61, 19–63](https://ui.adsabs.harvard.edu/#abs/2023ARA%26A..61...19M/abstract)
@@ -64,7 +66,7 @@ layout: default
 
 * [Heyer & Dame (2015)]()
 
-
+* [Bland-Hawthorn & Gerhard, 2016, *The Galaxy in Context: Structural, Kinematic, and Integrated Properties*, Annual Review of Astronomy and Astrophysics, 54, 529–596](https://ui.adsabs.harvard.edu/abs/2016ARA%26A..54..529B/abstract)
 
 ## 旋涡星系
 * [Kormendy & Ho, 2004, *Secular Evolution and the Formation of Pseudobulges in Disk Galaxies*, Annual Review of Astronomy and Astrophysics, 42, 603–683](https://ui.adsabs.harvard.edu/abs/2004ARA%26A..42..603K/abstract)
@@ -82,13 +84,19 @@ layout: default
 * [Hunter, Elmegreen, Madden, 2024, *The Interstellar Medium in Dwarf Irregular Galaxies*, Annual Review of Astronomy and Astrophysics, 62, 113–155](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62..113H/abstract)
 
 ## 活动星系核
-
-* [Ho (2008)](https://ui.adsabs.harvard.edu/abs/2008ARA%26A..46..475H/abstract)
-* [Netzer (2015)]()
-* [Fabian (2012)]()
+* [Ho, 2008, *Nuclear activity in nearby galaxies*, Annual Review of Astronomy and Astrophysics, 46, 475–539](https://ui.adsabs.harvard.edu/abs/2008ARA%26A..46..475H/abstract)
+* [Netzer, 2015, *Revisiting the Unified Model of Active Galactic Nuclei*, Annual Review of Astronomy and Astrophysics, 53, 365–408](https://ui.adsabs.harvard.edu/abs/2015ARA%26A..53..365N/abstract)
+* [Fabian, 2012, *Observational Evidence of Active Galactic Nuclei Feedback*, Annual Review of Astronomy and Astrophysics, 50, 455–489](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..455F/abstract)
 
 ## 星系团
 
 * []
 
-## 
+## 星系的统计规律
+* [Kennicutt & Evans, 2012, *Star Formation in the Milky Way and Nearby Galaxies*, Annual Review of Astronomy and Astrophysics, 50, 531–608](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..531K/abstract)
+* [Conroy, 2013, *Modeling the Panchromatic Spectral Energy Distributions of Galaxies*, Annual Review of Astronomy and Astrophysics, 51, 393–455](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..393C/abstract)
+* []()
+
+## 星系形成与演化
+* [Somerville & Dave, 2015, *Physical Models of Galaxy Formation in a Cosmological Framework*, Annual Review of Astronomy and Astrophysics, 53, 51–113](https://ui.adsabs.harvard.edu/abs/2015ARA%26A..53...51S/abstract)
+* [Bullock & Boylan-Kolchin, 2017, *Small-Scale Challenges to the LCDM Paradigm*, Annual Review of Astronomy and Astrophysics, 55, 343–387](https://ui.adsabs.harvard.edu/abs/2017ARA%26A..55..343B/abstract)
