@@ -46,10 +46,9 @@ layout: default
 
 ### 恒星
 
-* [Hennebelle & Grudic, 2024, ARA&A, *The Physical Origin of the Stellar Initial Mass Function*, 62, 1, 63](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62...63H/abstract)
-* [Eldridge & Stanway, 2022, ARA&A, *New Insights into the Evolution of Massive Stars and Their Effects on Our Understanding of Early Galaxies*, 60, 455.](https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..455E/abstract)
-* [Serenelli, Weiss, Aerts et al., 2021, A&ARv, *Weighing stars from birth to death: mass determination methods across the HRD*, 29, 1, 4. ](https://ui.adsabs.harvard.edu/abs/2021A%26ARv..29....4S/abstract)
-* [Barklem, 2016, A&ARv, *Accurate abundance analysis of late-type stars: advances in atomic physics*, 24, 1, 9](https://ui.adsabs.harvard.edu/abs/2016A%26ARv..24....9B/abstract)
+* [Hennebelle & Grudic, 2024, *The Physical Origin of the Stellar Initial Mass Function*, Annual Review of Astronomy and Astrophysics, 62, 63–111](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62...63H/abstract)
+* [Eldridge & Stanway, 2022, *New Insights into the Evolution of Massive Stars and Their Effects on Our Understanding of Early Galaxies*, Annual Review of Astronomy and Astrophysics, 60, 455–494](https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60..455E/abstract)
+* [Portegies Zwart, McMillan, Gieles, 2010, *Young Massive Star Clusters*, Annual Review of Astronomy and Astrophysics, 48, 431–493](https://ui.adsabs.harvard.edu/abs/2010ARA%26A..48..431P/abstract)
 
 ## 星际介质
 * [Motte, Bontemps, Louvet, 2018, ARA&A, *High-Mass Star and Massive Cluster Formation in the Milky Way*, 56, 41](https://ui.adsabs.harvard.edu/abs/2018ARA%26A..56...41M/abstract)
