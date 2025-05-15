@@ -67,26 +67,23 @@ layout: default
 
 
 ## 旋涡星系
-
-* [Kormendy & Ho (2004)]()
-* [van der Kruit & Freeman (2011)]()
-* [Sellwood & Masters (2022)]()
-
+* [Kormendy & Ho, 2004, *Secular Evolution and the Formation of Pseudobulges in Disk Galaxies*, Annual Review of Astronomy and Astrophysics, 42, 603–683](https://ui.adsabs.harvard.edu/abs/2004ARA%26A..42..603K/abstract)
+* [van der Kruit & Freeman, 2011, *Galaxy Disks*, Annual Review of Astronomy and Astrophysics, 49, 301–371](https://ui.adsabs.harvard.edu/abs/2011ARA%26A..49..301V/abstract)
+* [Sellwood & Masters, 2022, *Spirals in Galaxies*, Annual Review of Astronomy and Astrophysics, 60, 73](https://ui.adsabs.harvard.edu/abs/2022ARA%26A..60...73S/abstract)
 
 ## 椭圆星系
-
-* [Mathews & Brighenti (2003)]()
-* [Renzini (2006)]()
-* [Cappellari (2016)]()
+* [Renzini, 2006, *Stellar Population Diagnostics of Elliptical Galaxy Formation*, Annual Review of Astronomy and Astrophysics, 44, 141–192](https://ui.adsabs.harvard.edu/abs/2006ARA%26A..44..141R/abstract)
+* [Cappellari, 2016, *Structure and Kinematics of Early-Type Galaxies from Integral Field Spectroscopy*, Annual Review of Astronomy and Astrophysics, 54, 597–665](https://ui.adsabs.harvard.edu/abs/2016ARA%26A..54..597C/abstract)
+* [Smith, 2020, *Evidence for Initial Mass Function Variation in Massive Early-Type Galaxies*, Annual Review of Astronomy and Astrophysics, 58, 577–615](https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..577S/abstract)
 
 ## 矮星系与不规则星系
-
-* [Tolstoy et al. (2009)]()
-* [Simon et al. (2019)]()
+* [Tolstoy, Hill, Tosi, 2009, *Star-Formation Histories, Abundances, and Kinematics of Dwarf Galaxies in the Local Group*, Annual Review of Astronomy and Astrophysics, 47, 371–425](https://ui.adsabs.harvard.edu/abs/2009ARA%26A..47..371T/abstract)
+* [Simon, 2019, *The Faintest Dwarf Galaxies*, Annual Review of Astronomy and Astrophysics, 57, 375–415](https://ui.adsabs.harvard.edu/abs/2019ARA%26A..57..375S/abstract)
+* [Hunter, Elmegreen, Madden, 2024, *The Interstellar Medium in Dwarf Irregular Galaxies*, Annual Review of Astronomy and Astrophysics, 62, 113–155](https://ui.adsabs.harvard.edu/abs/2024ARA%26A..62..113H/abstract)
 
 ## 活动星系核
 
-* [Ho (2008)]()
+* [Ho (2008)](https://ui.adsabs.harvard.edu/abs/2008ARA%26A..46..475H/abstract)
 * [Netzer (2015)]()
 * [Fabian (2012)]()
 
