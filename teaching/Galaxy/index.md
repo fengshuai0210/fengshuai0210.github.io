@@ -29,9 +29,9 @@ layout: default
 3.28 | 旋涡星系
 4.4  | <span style="color: gray;">清明节假期</span>
 4.11 | 椭圆星系
-4.18 | *校运动会*
+4.18 | <span style="color: gray;">校运动会</span>
 4.25 | 矮星系与不规则星系
-5.2  | *劳动节假期*
+5.2  | <span style="color: gray;">劳动节假期</span>
 5.9  | 星系动力学
 5.16 | 活动星系核
 5.23 | 星系群与星系团
