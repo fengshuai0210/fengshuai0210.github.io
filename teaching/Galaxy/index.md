@@ -19,8 +19,8 @@ layout: default
 
 ## 课程安排
 
-时间 | 内容 | 参考阅读
-----|----|----
+时间 | 内容 
+----|----
 2.21 | 绪论 | 
 2.28 | 恒星 | [Krumholz et al. (2018)](https://arxiv.org/abs/1812.01615); [Gratton et al. (2019)](https://arxiv.org/abs/1911.02835); [Hopkins (2018)](https://arxiv.org/abs/1807.09949)
 3.7  | 星际介质 | [Galliano et al. (2017)](https://arxiv.org/abs/1711.07434); [Saintonge & Catinella (2022)](https://arxiv.org/abs/2202.00690); 
@@ -57,10 +57,10 @@ layout: default
 * [Draine (2003)]()
 
 ## 银河系
-* [McClure-Griffiths, Stanimirovic, Rybarczyk, 2023, ARA&A, *Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies*, 61, 19](https://ui.adsabs.harvard.edu/#abs/2023ARA%26A..61...19M/abstract)
-* [Helmi, 2020, ARA&A, *Streams, Substructures, and the Early History of the Milky Way*, 58, 205](https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..205H/abstract)
-* [Rix & Bovy, 2013, A&ARv, *The Milky Way's stellar disk. Mapping and modeling the Galactic disk*, 21, 61](https://ui.adsabs.harvard.edu/#abs/2013A%26ARv..21...61R/abstract)
-* [Ivezic, Z., Beers, T. C., & Juric, M. 2012, ARA&A, Galactic Stellar Populations in the Era of the Sloan Digital Sky Survey and Other Large Surveys, 50, 251.](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..251I/exportcitation)
+* [McClure-Griffiths, Stanimirovic, Rybarczyk, 2023, *Atomic Hydrogen in the Milky Way: A Stepping Stone in the Evolution of Galaxies*，Annual Review of Astronomy and Astrophysics, 61, 19–63](https://ui.adsabs.harvard.edu/#abs/2023ARA%26A..61...19M/abstract)
+* [Helmi, 2020, ARA&A, *Streams, Substructures, and the Early History of the Milky Way*, Annual Review of Astronomy and Astrophysics, 58, 205–256](https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..205H/abstract)
+* [Rix & Bovy, 2013, A&ARv, *The Milky Way's stellar disk. Mapping and modeling the Galactic disk*, Annual Review of Astronomy and Astrophysics, 21, 61](https://ui.adsabs.harvard.edu/#abs/2013A%26ARv..21...61R/abstract)
+* [Ivezic, Z., Beers, T. C., & Juric, M. 2012, ARA&A, Galactic Stellar Populations in the Era of the Sloan Digital Sky Survey and Other Large Surveys, Annual Review of Astronomy and Astrophysics, 50, 251](https://ui.adsabs.harvard.edu/abs/2012ARA%26A..50..251I/exportcitation)
 
 * [Heyer & Dame (2015)]()
 
