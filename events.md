@@ -14,7 +14,7 @@ Sep 01, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bing-Xi Huo**!
 
 May 19, 2024\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy Conference**, Changchun, Jilin
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy**, Changchun, Jilin
 
 Apr 17, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **National Astronomical Observatories, Chinese Academy of Sciences**
