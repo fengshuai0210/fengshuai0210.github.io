@@ -14,10 +14,10 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 <br> 欢迎对星系演化、观测天文学或数据分析感兴趣的同学加入我们团队。请通过电子邮件联系冯帅老师。
 
 
-## Current Members / 团队成员
+## 👥 Current Members / 团队成员
 
-Name <br> 姓名 | Grade <br> 年级 | Research Project <br> 研究项目
------------|--------|------
+| Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
+|----------------|-------------------------------|-----------------------------|
 Cai-Lu Shi <br> 石彩璐 | MSc 2023 <br> 2023级硕士 | Spiral-Ellipical Galaxy Pairs in MaNGA
 Bing-Xi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs
 Shao-Ze Geng <br> 耿少泽 | BSc 2021 <br> 2021级本科 | Galaxy Merger Sequence revealed by Morphology
