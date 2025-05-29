@@ -13,8 +13,14 @@ layout: default
 Sep 01, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bing-Xi Huo**!
 
-May 19, 2024\
+May 26, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
+
+May 19, 2025\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy**, Changchun, Jilin
+
+May 15, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Faculty of College of Physics 2024**, Hebei Normal University
 
 Apr 17, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **National Astronomical Observatories, Chinese Academy of Sciences**
@@ -189,7 +195,7 @@ May 19, 2022\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Instructor for Undergraduate Professional Practice**, Hebei Normal University
 
 May 15, 2022\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Advanced Worker of School of Physics**, Hebei Normal University
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Faculty of College of Physics 2021**, Hebei Normal University
 
 May 12, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Bachelor thesis defenses** by Di Han, Ying-Fang Wang, Hong-Yang Zhao, Huihua College, Hebei Normal University

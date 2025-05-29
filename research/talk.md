@@ -18,7 +18,7 @@ layout: default
 ## Conference Talk
 
 ### 2025
-38. 
+38. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **2025 Guoshoujing Conference**, 2025.05, Changsha, Hunan
 
 ### 2024
 

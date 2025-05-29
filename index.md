@@ -43,13 +43,13 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
-May 19, 2024\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy Conference**, Changchun, Jilin
+May 26, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
 
-Apr 17, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **National Astronomical Observatories, Chinese Academy of Sciences**
+May 19, 2025\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy**, Changchun, Jilin
 
-Apr 01, 2025\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Yao-Tian Duan** has been admitted to the master's program at the **Dalian University of Technology**
+May 15, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Faculty of College of Physics 2024**, Hebei Normal University
 
 **[Previous Events](./events)**
