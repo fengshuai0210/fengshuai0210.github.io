@@ -35,7 +35,7 @@ Galaxy Formation and Evolution, including
 
 ## Our Group
 
-* Graduate Student: Cai-Lu Shi
+* Graduate Student: Cai-Lu Shi, Bing-Xi Huo
 * Undergraduate Student: Gui-Tao Xu, Yi-Jin Niu
 
 *[Join Our Group]()*
