@@ -20,9 +20,6 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 |----------------|-------------------------------|-----------------------------|
 Cai-Lu Shi <br> 石彩璐 | MSc 2023 <br> 2023级硕士 | Spiral-Ellipical Galaxy Pairs in MaNGA
 Bing-Xi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs
-Shao-Ze Geng <br> 耿少泽 | BSc 2021 <br> 2021级本科 | Galaxy Merger Sequence revealed by Morphology
-Yao-Tian Duan <br> 段耀天 | BSc 2021 <br> 2021级本科 | Gas-Phase Metallicity of Galaxy Pairs
-Shu-Hao Chen <br> 陈书豪 | BSc 2021 <br> 2021级本科 | Morphology of Galaxy Pairs in Legacy Survey
 Gui-Tao Xu <br> 许桂涛 | BSc 2022 <br> 2022级本科 | Multiple Galaxies
 Yi-Jin Niu <br> 牛艺瑾 | BSc 2023 <br> 2023级本科 | Post-merger Galaxies
 
