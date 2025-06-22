@@ -8,6 +8,11 @@ layout: default
 
 *2024-2025年春季学期*
 
+## 上课时间/地点
+
+* 周五6-8节
+* 理科群2号楼C320
+
 ## 参考教材
 
 * **Galaxies in the Universe: An Introduction**, *Linda S. Sparke & John S. Gallagher, III*
@@ -37,8 +42,6 @@ layout: default
 5.23 | 星系群与星系团
 5.30 | 星系的统计规律
 6.6  | 宇宙大尺度结构
-6.13 | 高红移星系与早期宇宙
-6.23 | 星系形成与演化
 
 ----
 

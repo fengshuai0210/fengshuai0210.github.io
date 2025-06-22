@@ -9,6 +9,11 @@ layout: default
 
 *2024-2025年春季学期*
 
+## 上课时间/地点
+
+* 周五3-5节
+* 公教楼C108
+
 ## 参考教材
 
 * **Observational Astrophysics**（3rd Edition）, *Pierre Lena, Daniel Rouan, Francois Lebrun, Francois Mignard, Didier Pelat*, Springer (2012)
