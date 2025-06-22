@@ -43,13 +43,13 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
-May 26, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
+Jul 04, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST Observer Training Workshop**, Hangzhou, Zhejiang
 
-May 19, 2025\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy**, Changchun, Jilin
+Jun 26, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Mergers and Interactions in the Era of Space Telescopes**, Suzhou, Jiangsu
 
-May 15, 2025\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Outstanding Faculty of College of Physics 2024**, Hebei Normal University
+Jun 21, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Award a General Program Grant by the Hebei Natural Science Foundation (A2025205037)
 
 **[Previous Events](./events)**

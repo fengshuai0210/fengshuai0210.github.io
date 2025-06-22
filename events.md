@@ -10,11 +10,17 @@ layout: default
 ----
 ## 2025
 
-Jun 26, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
-
 Sep 01, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bing-Xi Huo**!
+
+Jul 04, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST Observer Training Workshop**, Hangzhou, Zhejiang
+
+Jun 26, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Mergers and Interactions in the Era of Space Telescopes**, Suzhou, Jiangsu
+
+Jun 21, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Award a General Program Grant by the Hebei Natural Science Foundation (A2025205037)
 
 May 26, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
