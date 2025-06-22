@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2025
 
+Jun 26, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
+
 Sep 01, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bing-Xi Huo**!
 
