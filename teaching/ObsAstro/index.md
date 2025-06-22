@@ -5,7 +5,7 @@ layout: default
 # Observational Astronomy（实测天体物理）
 ## Multi-Wavelength Astronomy Part
 
-![](../image/obsastro.png)
+![](../../image/obsastro.png)
 
 *2024-2025年春季学期*
 
