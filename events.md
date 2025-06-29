@@ -16,7 +16,10 @@ Sep 01, 2025\
 Jul 04, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST Observer Training Workshop**, Hangzhou, Zhejiang
 
-Jun 26, 2025\
+Jun 29, 2025\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2025 Ground and Space Infrared Detection Workshop**, Suzhou, Jiangsu
+
+Jun 27, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Mergers and Interactions in the Era of Space Telescopes**, Suzhou, Jiangsu
 
 Jun 21, 2025\
