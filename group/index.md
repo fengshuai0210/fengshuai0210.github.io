@@ -36,8 +36,8 @@ Below is a list of selected honors, scholarships, and funding received by studen
 
 | Name <br> 姓名 | Year <br> 年份 | Award / Funding <br> 奖项 / 资助 | Organization <br> 颁发机构 |
 |----------------|----------------|---------------------------------|-----------------------------|
-| Cai-Lu Shi <br> 石彩璐 | 2024 | National Scholarship <br> 国家奖学金 | Ministry of Education <br> 教育部 |
-| Yi-Jin Niu <br> 牛艺瑾 | 2024 | Outstanding Undergraduate Award <br> 优秀本科生奖 | Hebei Normal University <br> 河北师范大学 |
+| Cai-Lu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
+| Cai-Lu Shi <br> 石彩璐 | 2024 | Graduate Innovation Grant <br> 研究生创新资助项目 | Hebei Normal University <br> 河北师范大学 |
 | Bing-Xi Huo <br> 霍柄锡 | 2025 | Graduate Research Grant <br> 研究生科研基金 | Hebei Province Science Fund <br> 河北省科技基金 |
 
 ---
