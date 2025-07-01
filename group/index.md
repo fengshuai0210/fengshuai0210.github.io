@@ -38,7 +38,7 @@ Below is a list of selected honors, scholarships, and funding received by studen
 |----------------|----------------|---------------------------------|-----------------------------|
 | Cai-Lu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Cai-Lu Shi <br> 石彩璐 | 2024 | Graduate Innovation Grant <br> 研究生创新资助项目 | Hebei Normal University <br> 河北师范大学 |
-| Bing-Xi Huo <br> 霍柄锡 | 2025 | Graduate Research Grant <br> 研究生科研基金 | Hebei Province Science Fund <br> 河北省科技基金 |
+| Shao-Ze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 研究生科研基金 | Hebei Province Science Fund <br> 河北省科技基金 |
 
 ---
 
