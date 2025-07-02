@@ -39,7 +39,7 @@ Below is a list of selected honors, scholarships, and funding received by studen
 | Cai-Lu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Cai-Lu Shi <br> 石彩璐 | 2024 | Graduate Innovation Grant <br> 研究生创新资助项目 | Hebei Normal University <br> 河北师范大学 |
 | Shao-Ze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
-| Shao-Ze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | hinese Astronomical Society <br> 中国天文学会 |
+| Shao-Ze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Shao-Ze Geng <br> 耿少泽 | 2024 | University-level College Student Innovation Project <br> 本科生创新项目校级资助 | Hebei Normal University <br> 河北师范大学 |
 
 ---
