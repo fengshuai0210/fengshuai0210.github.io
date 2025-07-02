@@ -16,6 +16,9 @@ Sep 01, 2025\
 Jul 04, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST Observer Training Workshop**, Hangzhou, Zhejiang
 
+Jul 02, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatories, Chinese Academy of Sciences**
+
 Jun 29, 2025\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2025 Ground and Space Infrared Detection Workshop**, Suzhou, Jiangsu
 
@@ -153,7 +156,7 @@ Jun 21, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2023 Conference of Education Research and Application Center, NADC**, Wuhan, Hubei
 
 Jun 14, 2023\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by undergraduate student menber Shao-Ze Geng
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** leaded by undergraduate student member Shao-Ze Geng
 
 May 08, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
