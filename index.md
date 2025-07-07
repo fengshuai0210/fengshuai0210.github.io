@@ -28,9 +28,9 @@ Galaxy Formation and Evolution, including
 * 2023.12 - Present, Associate Professor, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 * 2020.09 - 2022.12, Lecturer, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 
-## Teaching
+## [Teaching](./teaching/)
 
-* Undergraduate Course: Optics, Observational Astronomy
+* Undergraduate Course: Atomic Physics, Optics, Observational Astronomy
 * Graduate Course: Galactic Astronomy, Data Analysis for Astronomy
 
 ## Our Group
