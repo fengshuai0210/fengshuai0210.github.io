@@ -7,7 +7,9 @@ layout: default
 ## Seminar Talk
 
 ### 2025
-1. *From MaNGA to CSST: Morphology of Galaxy Gas Velocity Fields and Simulation of IFS Datacubes*, **National Astronomical Observatories, Chinese Academy of Sciences**, 2025.04
+1. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **Shanghai Astronomical Observatory, Chinese Academy of Sciences**, 2025.03
+2. *From MaNGA to CSST: Morphology of Galaxy Gas Velocity Fields and Simulation of IFS Datacubes*, **National Astronomical Observatories, Chinese Academy of Sciences**, 2025.04
+3. *Bar Structures in Galaxy Pairs*, **Shanghai Astronomical Observatory, Chinese Academy of Sciences**, 2025.07
 
 ### 2023
 
@@ -18,6 +20,8 @@ layout: default
 ## Conference Talk
 
 ### 2025
+40. *Observational Properties of Interacting Galaxies*, **2025 LAMOST Observer Training Workshop**, 2025.07, Hangzhou, Zhejiang
+39. *Observational Properties and Member Morphologies in Galaxy Pairs*, **Galaxy Mergers and Interactions in the Era of Space Telescopes**, 2025.06, Suzhou, Jiangsu
 38. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **2025 Guoshoujing Conference**, 2025.05, Changsha, Hunan
 
 ### 2024
