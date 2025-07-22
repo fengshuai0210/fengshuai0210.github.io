@@ -7,6 +7,8 @@ layout: default
 ## Peer Reviewed Papers
 
 ### First/Corresponding Author Paper
+8. Lin-Lin Li, **Shuai Feng**, Shi-Yin Shen, Qi-An Deng, Ying Zu, Wen-Yuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](), 2025, submitted to *ApJL*
+7. **Shuai Feng**, Shi-Yin Shen, Yan-Mei Chen, Y. Sophia Dai, Jun Yin, Wen-Yuan Cui, Meng-Ting Ju, Lin-Lin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Kinematic Asymmetry, Star Formation, and Metallicity in Regular Disk Galaxies](), 2025, submitted to *ApJ*
 6. **Shuai Feng**, Shi-Yin Shen, Wei Chen, Zhao-Jun Yan, Ren-Hao Ye, Jian-Jun Chen, Xue-Jie Dai, Jun-Qiang Ge, Lei Hao, Ran Li, Yu Liang, Lin Lin, Feng-Shan Liu, Jia-Feng Lu, Zheng-Yi Shao, Mao-Chun Wu, Yi-Fei Xiong, Chun Xu, Jun Yin, [Mock Observations for the CSST Mission: Integral Field Spectrograph – GEHONG: A Package for Generating Ideal Datacubes](), 2025, accepted by *RAA*
 5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024arXiv240309957F/abstract), 2024, *ApJ*, 965, 60
 4. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....6F/abstract), 2022, *ApJS*, 262, 6
@@ -15,6 +17,7 @@ layout: default
 1. **Shuai Feng**, Zheng-Yi Shao, Shi-Yin Shen, Maria Argudo-Fernandez, Hong Wu, Man-I Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *RAA*, 16, 5
 
 ### Collabarator Paper
+25. Yushan Xie, Xiao-Kai Chen, **Shuai Feng**, Zhao-Jun Yan, Nan Li, Huan-Yuan Shan, Yin Li, Cheng-Liang Wei, Wei-Wei Xu, Zhen-Ya Zheng, Ran Li, Wei Chen, Zhen-Lei Chen, Chun-Yan Jiang, De-Zi Liu, Lin Nie, Xi-Yan Peng, Lei Wang, Mao-Chun Wu, Chun Xu, Fang-Ting Yuan, Shen Zhang, and Jing Zhong, [Mock Observations for the CSST Mission: Multi-Channel Imager – The Cluster Field](), 2025, accepcted by *RAA*
 24. Mengting Ju, Xin Wang, Tucker Jones, Ivana Barišić, Themiya Nanayakkara, Kevin Bundy, Claude-André Faucher-Giguère, **Shuai Feng**, Karl Glazebrook, Alaina Henry, Matthew A. Malkan, Danail Obreschkow, Namrata Roy, Ryan L. Sanders, Xunda Sun, Tommaso Treu, [MSA-3D: Metallicity Gradients in Galaxies at z~1 with JWST/NIRSpec Slit-stepping Spectroscopy](https://ui.adsabs.harvard.edu/abs/2025ApJ...978L..39J/abstract), 2025, *ApJL*, 978, 39
 23. Yang Gao, Enci Wang, Qing-Hua Tan, Timothy A. Davis, Fu-Heng Liang, Xue-Jian Jiang, Ning Gai, Qian Jiao, DongDong Shi, **Shuai Feng**, Yanke Tang, Shijie Li, Yi-Fan Wang, [The first exploration of the correlations between WISE 12μm and CO emission in early-type galaxies](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..105G/abstract), 2025, *ApJ*, 979, 105
 22. Jia-Jie Qiu, Shi-Yin Shen, **Shuai Feng**, Yan-Mei Chen, Rui-Xiang Chang, Qian-Wen Zhao, Qi Zeng, [Double-peaked Narrow Emission-Line Galaxies in SDSS-IV MaNGA](https://ui.adsabs.harvard.edu/abs/2024ApJ...976...15Q/abstract), 2024, *ApJ*, 976, 11
