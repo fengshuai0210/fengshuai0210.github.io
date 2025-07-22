@@ -43,13 +43,13 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
+Jul 30, 2025\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 Annual Science Conference and Early Science Symposium of the China Space Station Telescope**, Kunming, Yunnan
+
 Jul 04, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST Observer Training Workshop**, Hangzhou, Zhejiang
 
 Jul 02, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatories, Chinese Academy of Sciences**
-
-Jun 29, 2025\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2025 Ground and Space Infrared Detection Workshop**, Suzhou, Jiangsu
 
 **[Previous Events](./events)**
