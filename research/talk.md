@@ -20,6 +20,7 @@ layout: default
 ## Conference Talk
 
 ### 2025
+41. *Morphology of Constituent Galaxies in Galaxy Pairs and CSST-IFS Scientific Imaging Simulation*, **2025 Annual Science Conference and Early Science Symposium of the China Space Station Telescope**, 2025.07, Kunming, Yunnan
 40. *Observational Properties of Interacting Galaxies*, **2025 LAMOST Observer Training Workshop**, 2025.07, Hangzhou, Zhejiang
 39. *Observational Properties and Member Morphologies in Galaxy Pairs*, **Galaxy Mergers and Interactions in the Era of Space Telescopes**, 2025.06, Suzhou, Jiangsu
 38. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **2025 Guoshoujing Conference**, 2025.05, Changsha, Hunan
