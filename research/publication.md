@@ -22,7 +22,7 @@ layout: default
 28. Ming-Tao Yang, Jia-Xin Han, Wen-Ting Wang, He-Kun Li, Cong Liu, Jun Zhang, **Shuai Feng**, Shi-Yin Shen, Zhen-Jie Liu, Xiao-Hu Yang, Yi Lu, Surhud More, [Dependence of halo properties on central-satellite magnitude gaps through weak lensing measurements](), 2025, submitted to *ApJ*
 27. Zhao-Jun Yan, Huan-Yuan Shan, Zhen-Ya Zheng, Xi-Yan Peng, Zhao-Xiang Qi, Chun Xu, Lin Lin, Xin-Rong Wen, Chun-Yan Jiang, Li-Xin Zheng, Jing Zhong, Fang-Ting Yuan,
 Zhen-Lei Chen, Wei Chen, Mao-Chun Wu, Zhen-Sen Fu, Ke-Xin Li, Lin Nie, Chao Liu,
-Nan Li, Qiao Wang, Zi-Huang Cao, Shuai Feng, Guo-Liang Li, Lei Wang, Cheng-Liang
+Nan Li, Qiao Wang, Zi-Huang Cao, **Shuai Feng**, Guo-Liang Li, Lei Wang, Cheng-Liang
 Wei, Xiao-Bo Li, Zhang Ban, Xun Yang, Yu-Xi Jiang, De-Zi Liu, Yong-He Chen, Xiao-Hua Liu, Fang Xu, Xue Cheng, Yue Su, Tong-Fang Duan, Chao Qi, Na Li, Geng
 Zheng, Chong Ma, [Mock Observations for the CSST Mission: Multi-Channel Imager--Instrument Simulation](), 2025, submitted to *RAA*
 26. Zhao-Jun Yan, Xiao-Kai Chen, **Shuai Feng**, Zhao-Jun Yan, Nan Li, Huan-Yuan Shan, Yin Li, Cheng-Liang Wei, Wei-Wei Xu, Zhen-Ya Zheng, Ran Li, Wei Chen, Zhen-Lei Chen, Chun-Yan Jiang, De-Zi Liu, Lin Nie, Xi-Yan Peng, Lei Wang, Mao-Chun Wu, Chun Xu, Fang-Ting Yuan, Shen Zhang, and Jing Zhong, [Mock Observations for the CSST Mission: Integral Field Spectrograph–Instrument Simulation](), 2025, submitted to *RAA*
