@@ -7,7 +7,7 @@ layout: default
 ## Peer Reviewed Papers
 
 ### First/Corresponding Author Paper
-8. Lin-Lin Li, **Shuai Feng**, Shi-Yin Shen, Qi-An Deng, Ying Zu, Wen-Yuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](), 2025, submitted to *ApJL*
+8. Lin-Lin Li, **Shuai Feng**, Shi-Yin Shen, Qi-An Deng, Ying Zu, Wen-Yuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](), 2025, submitted to *ApJ*
 7. **Shuai Feng**, Shi-Yin Shen, Yan-Mei Chen, Y. Sophia Dai, Jun Yin, Wen-Yuan Cui, Meng-Ting Ju, Lin-Lin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Kinematic Asymmetry, Star Formation, and Metallicity in Regular Disk Galaxies](), 2025, submitted to *ApJ*
 6. **Shuai Feng**, Shi-Yin Shen, Wei Chen, Zhao-Jun Yan, Ren-Hao Ye, Jian-Jun Chen, Xue-Jie Dai, Jun-Qiang Ge, Lei Hao, Ran Li, Yu Liang, Lin Lin, Feng-Shan Liu, Jia-Feng Lu, Zheng-Yi Shao, Mao-Chun Wu, Yi-Fei Xiong, Chun Xu, Jun Yin, [Mock Observations for the CSST Mission: Integral Field Spectrograph – GEHONG: A Package for Generating Ideal Datacubes](), 2025, accepted by *RAA*
 5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024arXiv240309957F/abstract), 2024, *ApJ*, 965, 60
