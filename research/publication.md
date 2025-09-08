@@ -17,6 +17,8 @@ layout: default
 1. **Shuai Feng**, Zheng-Yi Shao, Shi-Yin Shen, Maria Argudo-Fernandez, Hong Wu, Man-I Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *RAA*, 16, 5
 
 ### Collabarator Paper
+32. Zi-Hua Ho, Lihwai Lin, Hung-Yu Jian, Bau-Ching Hsieh ,Carlos Lopez-Coba ,Sebastian F. Sanchez ,Wen-Yen Wu ,**Shuai Feng**, Shi-Yin Shen, [Inside-Out vs. Outside-In Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment](), 2025, submitted to *ApJ*
+31. Hung-Yu Jian, Lihwai Lin ,Connor Bottrell ,Bau-Ching Hsieh ,Carlos Lopez-Coba ,Zi-Hua Ho ,**Shuai Feng**, Shi-Yin Shen, [Comparing Inside-out and Outside-in Quenching Modes in MaNGA Observation and MaNGIA Simulation](), 2025, submitted to *ApJ*
 30. Yu-Ren Zhou, Yan-Mei Chen, Yong Shi, G. Kauffmann, Jun-Feng Wang, Gao-Xiang Jin, Lan Wang, **Shuai Feng**, Min Bao, [Misaligned external gas acquisition boosts central black hole activities](), 2025, submitted to *ApJ*
 29. Jia-Feng Lu, Xi Kang, Shi-Yin Shen, **Shuai Feng**, Qi Zeng, [Non-Parametric Attenuation Curves in Local Star-Forming Galaxies: Geometry Effect, Dust Evolution, and ISS](), 2025, submitted to *MNRAS*
 28. Ming-Tao Yang, Jia-Xin Han, Wen-Ting Wang, He-Kun Li, Cong Liu, Jun Zhang, **Shuai Feng**, Shi-Yin Shen, Zhen-Jie Liu, Xiao-Hu Yang, Yi Lu, Surhud More, [Dependence of halo properties on central-satellite magnitude gaps through weak lensing measurements](), 2025, submitted to *ApJ*
