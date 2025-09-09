@@ -29,6 +29,14 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ---
 
+## 📚 Academic Activities / 学术活动
+
+### Journal Club
+- **Time / 时间**: Every Tuesday, 15:30 <br> 每周二下午15:30  
+- **Location / 地点**: Building 2, Room C320, Science Complex <br> 理科群2号楼C320  
+
+---
+
 ## 🏅 Awards & Funding / 荣誉与资助
 
 Below is a list of selected honors, scholarships, and funding received by students in our group.  
