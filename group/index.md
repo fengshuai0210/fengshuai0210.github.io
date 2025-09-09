@@ -22,7 +22,7 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
-| Cai-Lu Shi <br> 石彩璐  | MSc 2023 <br> 2023级硕士 | Spiral-Elliptical Galaxy Pairs in MaNGA |
+| Cai-Lu Shi <br> 石彩璐  | MSc 2023 <br> 2023级硕士 | Spiral-Elliptical Galaxy Pairs |
 | Bing-Xi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs |
 | Gui-Tao Xu <br> 许桂涛  | BSc 2022 <br> 2022级本科 | Multiple Galaxies |
 | Yi-Jin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Post-merger Galaxies |
