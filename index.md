@@ -30,13 +30,13 @@ Galaxy Formation and Evolution, including
 
 ## [Teaching](./teaching/)
 
-* Undergraduate Course: Atomic Physics, Optics, Observational Astronomy
-* Graduate Course: Galactic Astronomy, Data Analysis for Astronomy
+* Undergraduate Course: Atomic Physics (原子物理学), Optics (光学), Observational Astronomy (实测天体物理)
+* Graduate Course: Galactic Astronomy (星系天文学), Data Analysis for Astronomy (天文数据处理)
 
 ## Our Group
 
-* Graduate Student: Cai-Lu Shi, Bing-Xi Huo
-* Undergraduate Student: Gui-Tao Xu, Yi-Jin Niu
+* Graduate Student: Cai-Lu Shi (石彩璐), Bing-Xi Huo (霍柄锡)
+* Undergraduate Student: Gui-Tao Xu (许桂涛), Yi-Jin Niu (牛艺瑾)
 
 *[Join Our Group](./group/)*
 
