@@ -26,7 +26,7 @@ layout: default
 ### Selected Papers
 
 1. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies](), 2025, accepted by *ApJ*
-2. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Wen-Xin Zhong, Wen-Yuan Cui, Lin-Lin Li, [Suppression of Star Formaiton in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024arXiv240309957F/abstract), 2024, *ApJ*, 965, 60
-3. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022arXiv220706050F/abstract), 2022, *ApJS*, 262, 6
-4. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, Rogemar A. Riffel, Kaike Pan, [SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..20F/abstract), 2020, *ApJL*, 892, 20
-5. **Shuai Feng**, Shi-Yin Shen, Fang-Ting Yuan, A-Li Luo, Jian-Nan Zhang, Meng-Xin Wang, Xia Wang, Yin-Bi Li, [Bivariate Luminosity Function of Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract), 2019, *ApJ*, 880, 114
+2. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Wenxin Zhong, Wenyuan Cui, Linlin Li, [Suppression of Star Formation in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024arXiv240309957F/abstract), 2024, *ApJ*, 965, 60
+3. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....6F/abstract), 2022, *ApJS*, 262, 6
+4. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Rogemar A. Riffel, Kaike Pan, [SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..20F/abstract), 2020, *ApJL*, 892, 20
+5. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Ali Luo, Jiannan Zhang, Mengxin Wang, Xia Wang, Yinbi Li, [Bivariate Luminosity Function of Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract), 2019, *ApJ*, 880, 114
