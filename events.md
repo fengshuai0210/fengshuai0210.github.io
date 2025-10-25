@@ -14,7 +14,7 @@ Sep 15, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
 
 Sep 01, 2025\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bing-Xi Huo**!
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bingxi Huo (霍柄锡)**!
 
 Aug 04, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Dependence of halo properties on central-satellite magnitude gaps through weak lensing measurements** by Yang et al., [arXiv](https://arxiv.org/abs/2508.00667)
@@ -56,7 +56,7 @@ May 31, 2025\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Shao-Ze Geng** has been admitted to the master's program at the **National Astronomical Observatories, Chinese Academy of Sciences**
 
 May 10, 2025\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Yi-Jin Niu**!
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Yijin Niu (牛艺瑾)**!
 
 ## 2024
 
@@ -64,7 +64,7 @@ Dec 30, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Cai-Lu Shi won **The Graduate Student Innovation Project of Hebei Normal University in 2025**
 
 Dec 18, 2024\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Gui-Tao Xu**!
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Guitao Xu (许桂涛)**!
 
 Dec 11, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The first exploration of the correlations between WISE 12μm and CO emission in early-type galaxies** by Gao et al., [arXiv](https://arxiv.org/abs/2412.07176)
@@ -132,7 +132,7 @@ Sep 18, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **South-Western Institute For Astronomy Research, Yunnan University**
 
 Sep 10, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Cai-Lu Shi**!
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Cailu Shi (石彩璐)**!
 
 Sep 02, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Active Galactic Nuclei Feedback**, Wuhu, Anhui

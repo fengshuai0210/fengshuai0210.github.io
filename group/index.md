@@ -22,10 +22,10 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
-| Cai-Lu Shi <br> 石彩璐  | MSc 2023 <br> 2023级硕士 | Spiral-Elliptical Galaxy Pairs |
-| Bing-Xi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs |
-| Gui-Tao Xu <br> 许桂涛  | BSc 2022 <br> 2022级本科 | Multiple Galaxies |
-| Yi-Jin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Post-merger Galaxies |
+| Cailu Shi <br> 石彩璐  | MSc 2023 <br> 2023级硕士 | Spiral-Elliptical Galaxy Pairs |
+| Bingxu Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs |
+| Guitao Xu <br> 许桂涛  | BSc 2022 <br> 2022级本科 | Multiple Galaxies |
+| Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Post-merger Galaxies |
 
 ---
 
@@ -44,11 +44,11 @@ Below is a list of selected honors, scholarships, and funding received by studen
 
 | Name <br> 姓名 | Year <br> 年份 | Award / Funding <br> 奖项 / 资助 | Organization <br> 颁发机构 |
 |----------------|----------------|---------------------------------|-----------------------------|
-| Cai-Lu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
-| Cai-Lu Shi <br> 石彩璐 | 2024 | Graduate Innovation Grant <br> 研究生创新资助项目 | Hebei Normal University <br> 河北师范大学 |
-| Shao-Ze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
-| Shao-Ze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | Chinese Astronomical Society <br> 中国天文学会 |
-| Shao-Ze Geng <br> 耿少泽 | 2023 | University-level College Student Innovation Project <br> 本科生创新项目校级资助 | Hebei Normal University <br> 河北师范大学 |
+| Cailu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
+| Cailu Shi <br> 石彩璐 | 2024 | Graduate Innovation Grant <br> 研究生创新资助项目 | Hebei Normal University <br> 河北师范大学 |
+| Shaoze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
+| Shaoze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | Chinese Astronomical Society <br> 中国天文学会 |
+| Shaoze Geng <br> 耿少泽 | 2023 | University-level College Student Innovation Project <br> 本科生创新项目校级资助 | Hebei Normal University <br> 河北师范大学 |
 
 ---
 
@@ -59,6 +59,6 @@ Below is a list of students who have completed their undergraduate or master's t
 
 | Name <br> 姓名 | Degree <br> 学位 | Year <br> 毕业年份 | Research Topic <br> 研究课题 | Current Position <br> 目前去向 |
 |----------------|------------------|------------------------|-----------------------------|------------------------------|
-| Shao-Ze Geng <br> 耿少泽 | BSc | 2025 | Galaxy Merger Sequence revealed by Morphology | MSc @ NAOC <br> 中国科学院国家天文台 |
-| Yao-Tian Duan <br> 段耀天 | BSc | 2025 | Gas-Phase Metallicity of Galaxy Pairs | MSc @ DUT <br> 大连理工大学 |
-| Shu-Hao Chen <br> 陈书豪 | BSc | 2025 | Morphology of Galaxy Pairs in Legacy Survey | – |
+| Shaoze Geng <br> 耿少泽 | BSc | 2025 | Galaxy Merger Sequence revealed by Morphology | MSc @ NAOC <br> 中国科学院国家天文台 |
+| Yaotian Duan <br> 段耀天 | BSc | 2025 | Gas-Phase Metallicity of Galaxy Pairs | MSc @ DUT <br> 大连理工大学 |
+| Shuhao Chen <br> 陈书豪 | BSc | 2025 | Morphology of Galaxy Pairs in Legacy Survey | – |

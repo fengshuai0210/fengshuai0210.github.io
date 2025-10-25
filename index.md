@@ -47,7 +47,7 @@ Sep 15, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
 
 Sep 01, 2025\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bing-Xi Huo**!
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bingxi Huo (霍柄锡)**!
 
 Aug 04, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Dependence of halo properties on central-satellite magnitude gaps through weak lensing measurements** by Yang et al., [arXiv](https://arxiv.org/abs/2508.00667)
