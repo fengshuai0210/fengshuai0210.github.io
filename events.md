@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2025
 
+Oct 28, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Velocity Map Asymmetry of Ionized Gas in MaNGA II. Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies** by Feng et al., [arXiv](https://arxiv.org/abs/2510.22983)
+
 Sep 15, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
 
