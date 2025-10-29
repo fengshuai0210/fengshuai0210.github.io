@@ -44,11 +44,12 @@ Below is a list of selected honors, scholarships, and funding received by studen
 
 | Name <br> 姓名 | Year <br> 年份 | Award / Funding <br> 奖项 / 资助 | Organization <br> 颁发机构 |
 |----------------|----------------|---------------------------------|-----------------------------|
+| Guitao Xu <br> 许桂涛 | 2025 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Cailu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
-| Cailu Shi <br> 石彩璐 | 2024 | Graduate Innovation Grant <br> 研究生创新资助项目 | Hebei Normal University <br> 河北师范大学 |
+| Cailu Shi <br> 石彩璐 | 2024 | Graduate Student Innovation Grant <br> 研究生创新能力培养资助项目 | Hebei Normal University <br> 河北师范大学 |
 | Shaoze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
 | Shaoze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | Chinese Astronomical Society <br> 中国天文学会 |
-| Shaoze Geng <br> 耿少泽 | 2023 | University-level College Student Innovation Project <br> 本科生创新项目校级资助 | Hebei Normal University <br> 河北师范大学 |
+| Shaoze Geng <br> 耿少泽 | 2023 | College Student Innovation Program <br> 大学生创新创业训练项目, 国家级资助 | Hebei Normal University <br> 河北师范大学 |
 
 ---
 
