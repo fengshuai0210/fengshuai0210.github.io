@@ -19,7 +19,7 @@ layout: default
 
 ### Collaborator Paper
 32. Zihua Ho, Lihwai Lin, Hungyu Jian, Bauchng Hsieh, Carlos Lopez-Coba, Sebastian F. Sanchez, Wenyen Wu, **Shuai Feng**, Shiyin Shen, [Inside-Out vs. Outside-In Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment](), 2025, submitted to *ApJ*
-31. Hungyu Jian, Lihwai Lin, Connor Bottrell, Bauchng Hsieh, Carlos Lopez-Coba, Zihua Ho, **Shuai Feng**, Shiyin Shen, [Comparing Inside-Out and Outside-In Quenching Modes in MaNGA Observation and MaNGIA Simulation](), 2025, submitted to *ApJ*
+31. Hungyu Jian, Lihwai Lin, Connor Bottrell, Bauchng Hsieh, Carlos Lopez-Coba, Zihua Ho, **Shuai Feng**, Shiyin Shen, [Comparing Inside-Out and Outside-In Quenching Modes in MaNGA Observation and MaNGIA Simulation](), 2025, accepted by *ApJ*
 30. Yuren Zhou, Yanmei Chen, Yong Shi, G. Kauffmann, Junfeng Wang, Gaoxiang Jin, Lan Wang, **Shuai Feng**, Min Bao, [Misaligned External Gas Acquisition Boosts Central Black Hole Activities](https://ui.adsabs.harvard.edu/abs/2025arXiv250700627Z/abstract), 2025, accepted by *ApJ*
 29. Jiafeng Lu, Xi Kang, Shiyin Shen, **Shuai Feng**, Qi Zeng, [Non-Parametric Attenuation Curves in Local Star-Forming Galaxies: Geometry Effect, Dust Evolution, and ISS](), 2025, submitted to *MNRAS*
 28. Mingtao Yang, Jiaxin Han, Wenting Wang, Hekun Li, Cong Liu, Jun Zhang, **Shuai Feng**, Shiyin Shen, Zhenjie Liu, Xiaohu Yang, Yi Lu, Surhud More, [Dependence of Halo Properties on Central-Satellite Magnitude Gaps through Weak Lensing Measurements](), 2025, submitted to *ApJ*
