@@ -13,9 +13,6 @@ layout: default
 Oct 28, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Velocity Map Asymmetry of Ionized Gas in MaNGA II. Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies** by Feng et al., [arXiv](https://arxiv.org/abs/2510.22983)
 
-Sep 15, 2025\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
-
 Sep 01, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bingxi Huo (霍柄锡)**!
 
@@ -31,6 +28,9 @@ Jul 04, 2025\
 Jul 02, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatories, Chinese Academy of Sciences**
 
+Jul 01, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
+
 Jun 29, 2025\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2025 Ground and Space Infrared Detection Workshop**, Suzhou, Jiangsu
 
@@ -42,6 +42,9 @@ Jun 21, 2025\
 
 May 26, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2025**, Changsha, Hunan
+
+May 22, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Non-Parametric Attenuation Curves in Local Star-Forming Galaxies: Geometry Effect, Dust Evolution, and ISS** by Lu et al., [arXiv](https://arxiv.org/abs/2505.16858)
 
 May 19, 2025\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3th AI-Driven Astronomy**, Changchun, Jilin
