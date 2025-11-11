@@ -10,6 +10,12 @@ layout: default
 ----
 ## 2025
 
+Nov 11, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Integral Field Spectrograph -- GEHONG: A Package for Generating Ideal Datacubes** by Feng et al., [arXiv](https://arxiv.org/abs/2511.06927)
+
+Nov 11, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Multi-Channel Imager--The Cluster Field** by Xie et al., [arXiv](https://arxiv.org/abs/2511.06928)
+
 Oct 28, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Velocity Map Asymmetry of Ionized Gas in MaNGA II. Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies** by Feng et al., [arXiv](https://arxiv.org/abs/2510.22983)
 
@@ -64,6 +70,7 @@ May 31, 2025\
 May 10, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Yijin Niu (牛艺瑾)**!
 
+--
 ## 2024
 
 Dec 30, 2024\
@@ -120,6 +127,7 @@ Mar 18, 2024\
 Feb 28, 2024\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Lead Teachers of **38th On-post Teaching Practice** at Chengde
 
+--
 ## 2023
 
 Nov 28, 2023\
