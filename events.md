@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2025
 
+Nov 14, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Multi-Channel Imager--The Cluster Field** by Yan et al., [arXiv](https://arxiv.org/abs/2511.06928)
+
 Nov 11, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Integral Field Spectrograph -- GEHONG: A Package for Generating Ideal Datacubes** by Feng et al., [arXiv](https://arxiv.org/abs/2511.06927)
 
