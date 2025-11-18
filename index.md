@@ -43,6 +43,12 @@ Galaxy Formation and Evolution, including
 ----
 ## News
 
+Nov 18, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Multi-Channel Imager--Instrument Simulation** by Yan et al., [arXiv](https://arxiv.org/abs/2511.12481)
+
+Nov 18, 2025\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Integral Field Spectrograph--Instrument Simulation** by Yan et al., [arXiv](https://arxiv.org/abs/2511.12483)
+
 Nov 11, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Integral Field Spectrograph -- GEHONG: A Package for Generating Ideal Datacubes** by Feng et al., [arXiv](https://arxiv.org/abs/2511.06927)
 
@@ -52,6 +58,4 @@ Nov 11, 2025\
 Oct 28, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Velocity Map Asymmetry of Ionized Gas in MaNGA II. Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies** by Feng et al., [arXiv](https://arxiv.org/abs/2510.22983)
 
-Sep 01, 2025\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new graduate student member, **Bingxi Huo (霍柄锡)**!
 **[Previous Events](./events)**
