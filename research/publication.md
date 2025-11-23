@@ -7,7 +7,7 @@ layout: default
 ## Peer Reviewed Papers
 
 ### First/Corresponding Author Paper
-9. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2025, to be submitted
+9. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2025, submitted to *The Astrophysical Journal*
 8. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](), 2025, submitted to *The Astrophysical Journal*
 7. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies](https://arxiv.org/abs/2510.22983), 2025, accepted by *The Astrophysical Journal*
 6. **Shuai Feng**, Shiyin Shen, Wei Chen, Zhaojun Yan, Renhao Ye, Jianjun Chen, Xuejie Dai, Junqiang Ge, Lei Hao, Ran Li, Yu Liang, Lin Lin, Fengshan Liu, Jiafeng Lu, Zhengyi Shao, Maochun Wu, Yifei Xiong, Chun Xu, Jun Yin, [Mock Observations for the CSST Mission: Integral Field Spectrograph -- GEHONG: A Package for Generating Ideal Datacubes](https://arxiv.org/abs/2511.06927), 2025, accepted by *Research in Astronomy and Astrophysics*
