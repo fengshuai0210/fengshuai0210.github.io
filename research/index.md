@@ -53,23 +53,8 @@ In parallel, I develop numerical tools and simulation pipelines to generate and 
 [Full Publication List in ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
 
 ### Selected Papers
-
-1. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li,  
-   *The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies*,  
-   2025, **The Astrophysical Journal**, 995, 18  
-
-2. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Wenxin Zhong, Wenyuan Cui, Linlin Li,  
-   *Suppression of Star Formation in Galaxy Pairs*,  
-   2024, **The Astrophysical Journal**, 965, 60  
-
-3. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Y. Sophia Dai, Karen L. Masters,  
-   *The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties*,  
-   2022, **The Astrophysical Journal Supplement Series**, 262, 6  
-
-4. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Rogemar A. Riffel, Kaike Pan,  
-   *SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies*,  
-   2020, **The Astrophysical Journal Letters**, 892, 20  
-
-5. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Ali Luo, Jiannan Zhang, Mengxin Wang, Xia Wang, Yinbi Li,  
-   *Bivariate Luminosity Function of Galaxy Pairs*,  
-   2019, **The Astrophysical Journal**, 880, 114  
+1. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li, *The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies*, 2025, **The Astrophysical Journal**, 995, 18  
+2. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Wenxin Zhong, Wenyuan Cui, Linlin Li, *Suppression of Star Formation in Galaxy Pairs*, 2024, **The Astrophysical Journal**, 965, 60  
+3. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Y. Sophia Dai, Karen L. Masters, *The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties*, 2022, **The Astrophysical Journal Supplement Series**, 262, 6  
+4. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Rogemar A. Riffel, Kaike Pan, *SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies*, 2020, **The Astrophysical Journal Letters**, 892, 20  
+5. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Ali Luo, Jiannan Zhang, Mengxin Wang, Xia Wang, Yinbi Li, *Bivariate Luminosity Function of Galaxy Pairs*, 2019, **The Astrophysical Journal**, 880, 114  
