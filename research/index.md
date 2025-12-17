@@ -12,7 +12,7 @@ My work is organized around several closely related research directions:
 ---
 
 ## 🌌 SAMSARA（轮回）  
-### Sequential Analysis of Merging Systems and Assembly with Recurrent gAs cycling
+### Sequential Analysis of Merging galaxy Systems and Associated Recurrent gAs cycling
 
 ![](../image/MergerSequence.jpg)
 
