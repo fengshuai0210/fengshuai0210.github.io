@@ -59,7 +59,6 @@ Below is a list of selected honors, scholarships, and funding received by studen
 | Shaoze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
 | Shaoze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Shaoze Geng <br> 耿少泽 | 2023 | College Student Innovation Program <br> 大学生创新创业训练项目, 国家级资助 | Hebei Normal University <br> 河北师范大学 |
-
 ---
 
 ## 🎓 Alumni / 毕业成员

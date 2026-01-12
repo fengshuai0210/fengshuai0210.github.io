@@ -8,6 +8,12 @@ layout: default
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
 
 ----
+## 2026
+
+Jan 07, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Scientific Simulation Research Conference**, Beijing
+
+----
 ## 2025
 
 Nov 18, 2025\
