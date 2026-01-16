@@ -52,7 +52,7 @@ Below is a list of selected honors, scholarships, and funding received by studen
 以下是课题组学生获得的部分荣誉、奖学金和科研资助。
 
 | Name <br> 姓名 | Year <br> 年份 | Award / Funding <br> 奖项 / 资助 | Organization <br> 颁发机构 |
-|----------------|----------------|---------------------------------|-----------------------------|
+|---------------|---------------|---------------------------------|---------------------------|
 | Guitao Xu <br> 许桂涛 | 2025 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Cailu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Cailu Shi <br> 石彩璐 | 2024 | Graduate Student Innovation Grant <br> 研究生创新能力培养资助项目 | Hebei Normal University <br> 河北师范大学 |
