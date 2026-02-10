@@ -8,7 +8,7 @@ layout: default
 
 ### First/Corresponding Author Paper
 9. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2025, submitted to *The Astrophysical Journal*
-8. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](), 2025, submitted to *The Astrophysical Journal*
+8. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](), 2026, accepted by *The Astrophysical Journal*
 7. **Shuai Feng**, Shiyin Shen, Wei Chen, Zhaojun Yan, Renhao Ye, Jianjun Chen, Xuejie Dai, Junqiang Ge, Lei Hao, Ran Li, Yu Liang, Lin Lin, Fengshan Liu, Jiafeng Lu, Zhengyi Shao, Maochun Wu, Yifei Xiong, Chun Xu, Jun Yin, [Mock Observations for the CSST Mission: Integral Field Spectrograph -- GEHONG: A Package for Generating Ideal Datacubes](https://ui.adsabs.harvard.edu/abs/2026RAA....26b4009F/abstract), 2026, *Research in Astronomy and Astrophysics*, 26, 024009
 6. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies](https://ui.adsabs.harvard.edu/abs/2025ApJ...995...18F/abstract), 2025, *The Astrophysical Journal*, 995, 18
 5. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Wenxin Zhong, Wenyuan Cui, Linlin Li, [Suppression of Star Formation in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024ApJ...965...60F/abstract), 2024, *The Astrophysical Journal*, 965, 60
