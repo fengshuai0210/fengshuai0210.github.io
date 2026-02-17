@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2026
 
+Feb 17, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Reduction of bar fraction in paired galaxies in the SDSS** by Li et al., [arXiv](https://arxiv.org/abs/2602.14873)
+
 Jan 07, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Scientific Simulation Research Conference**, Beijing
 
