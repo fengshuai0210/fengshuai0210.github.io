@@ -53,7 +53,7 @@ In parallel, I develop numerical tools and simulation pipelines to generate and 
 [Full Publication List in ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
 
 ### Selected Papers
-1. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](https://arxiv.org/abs/2602.14873), 2026, *The Astrophysical Journal*, 1000, 128
+1. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..128L/abstract), 2026, *The Astrophysical Journal*, 1000, 128
 2. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II: Correlation between Velocity Map Morphology, Star Formation, and Metallicity in Regular Disk Galaxies](https://ui.adsabs.harvard.edu/abs/2025ApJ...995...18F/abstract), 2025, *The Astrophysical Journal*, 995, 18
 3. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Wenxin Zhong, Wenyuan Cui, Linlin Li, [Suppression of Star Formation in Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2024ApJ...965...60F/abstract), 2024, *The Astrophysical Journal*, 965, 60
 4. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....6F/abstract), 2022, *The Astrophysical Journal Supplement Series*, 262, 6
