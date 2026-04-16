@@ -10,6 +10,9 @@ layout: default
 ----
 ## 2026
 
+Apr 16, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Radial Distribution of Star Formation and Gas-phase Metallicity in Spiral-Elliptical Galaxy Pairs** by Shi et al., [arXiv](https://arxiv.org/abs/2604.14092)
+
 Feb 17, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Reduction of bar fraction in paired galaxies in the SDSS** by Li et al., [arXiv](https://arxiv.org/abs/2602.14873)
 

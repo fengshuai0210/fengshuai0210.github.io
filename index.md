@@ -45,16 +45,13 @@ Galaxy Formation and Evolution, including
 ----
 ## 📰 News
 
+Apr 16, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Radial Distribution of Star Formation and Gas-phase Metallicity in Spiral-Elliptical Galaxy Pairs** by Shi et al., [arXiv](https://arxiv.org/abs/2604.14092)
+
 Feb 17, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Reduction of bar fraction in paired galaxies in the SDSS** by Li et al., [arXiv](https://arxiv.org/abs/2602.14873)
 
 Jan 07, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Scientific Simulation Research Conference**, Beijing
-
-Nov 18, 2025\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Multi-Channel Imager--Instrument Simulation** by Yan et al., [arXiv](https://arxiv.org/abs/2511.12481)
-
-Nov 18, 2025\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Integral Field Spectrograph--Instrument Simulation** by Yan et al., [arXiv](https://arxiv.org/abs/2511.12483)
 
 👉 **[Previous Events](./events)**
