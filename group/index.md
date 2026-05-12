@@ -42,7 +42,8 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 Below is a list of selected refereed journal papers published by undergraduate and graduate students in our group.
 以下为课题组学生在导师指导下发表的部分国际同行评议期刊论文。
 
-1. **Cailu Shi**, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2025, submitted to *The Astrophysical Journal*
+1. **Shaoze Geng**, Shuai Feng, **Shuhao Chen**, **Yaotian Duan**, Shiyin Shen, **Cailu Shi**, **Yijin Niu**, **Bingxi Huo**, Linlin Li, Wenyuan Cui, Guozhen Hu, [Tracing Star Formation Evolution in Galaxy Pairs with Morphological Disturbances and Recent Star Formation Histories](), 2026, to be submitted
+2. **Cailu Shi**, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2026, accepted by *The Astrophysical Journal*
 
 ---
 
