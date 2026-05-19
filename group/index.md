@@ -73,3 +73,4 @@ Below is a list of students who have completed their undergraduate or master's t
 | Shaoze Geng <br> 耿少泽 | BSc | 2025 | Galaxy Merger Sequence revealed by Morphology | MSc @ NAOC <br> 中国科学院国家天文台 |
 | Yaotian Duan <br> 段耀天 | BSc | 2025 | Gas-Phase Metallicity of Galaxy Pairs | MSc @ DUT <br> 大连理工大学 |
 | Shuhao Chen <br> 陈书豪 | BSc | 2025 | Morphology of Galaxy Pairs in Legacy Survey | – |
+| Guitao Xu <br> 许桂涛 | BSc | 2026 | Multiple Galaxies | MSc @ YNU <br> 云南大学 |
