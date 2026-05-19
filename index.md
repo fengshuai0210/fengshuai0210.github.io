@@ -45,13 +45,19 @@ Galaxy Formation and Evolution, including
 ----
 ## 📰 News
 
+May 23, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2026**, Haikou, Hainan
+
+May 18, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Gui-Tao Xu successfully completed the **Undergraduate Thesis Defense**.
+
+May 17, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Cai-Lu Shi successfully completed the **Master Thesis Defense**.
+
+Apr 20, 2025\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Gui-Tao Xu** has been admitted to the master's program at the **Yunnan University**
+
 Apr 16, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Radial Distribution of Star Formation and Gas-phase Metallicity in Spiral-Elliptical Galaxy Pairs** by Shi et al., [arXiv](https://arxiv.org/abs/2604.14092)
-
-Feb 17, 2026\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Reduction of bar fraction in paired galaxies in the SDSS** by Li et al., [arXiv](https://arxiv.org/abs/2602.14873)
-
-Jan 07, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Scientific Simulation Research Conference**, Beijing
 
 👉 **[Previous Events](./events)**

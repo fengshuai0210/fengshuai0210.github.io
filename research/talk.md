@@ -19,6 +19,10 @@ layout: default
 
 ## Conference Talk
 
+### 2026
+
+42. *Star Formation Along the Galaxy Merger Sequence: The Roles of Tidal Interaction, Gas Inflow, and CGM Regulation*, **2026 Guoshoujing Conference**, 2026.05, Haikou, Hainan
+
 ### 2025
 41. *Morphology of Member Galaxies in Galaxy Pairs and CSST-IFS Scientific Imaging Simulation*, **2025 Annual Science Conference and Early Science Symposium of the China Space Station Telescope**, 2025.07, Kunming, Yunnan
 40. *Observational Properties of Interacting Galaxies*, **2025 LAMOST Observer Training Workshop**, 2025.07, Hangzhou, Zhejiang
