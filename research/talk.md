@@ -21,6 +21,7 @@ layout: default
 
 ### 2026
 
+43. *Suppression of Star Formation by Hot CGM in Galaxy Mergers*, **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, 2026.06, Suzhou, Jiangsu
 42. *Star Formation Along the Galaxy Merger Sequence: The Roles of Tidal Interaction, Gas Inflow, and CGM Regulation*, **2026 Guoshoujing Conference**, 2026.05, Haikou, Hainan
 
 ### 2025

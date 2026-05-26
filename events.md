@@ -10,8 +10,8 @@ layout: default
 ----
 ## 2026
 
-Jun 03, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Hot Gaseous Halo Workshop**, Suzhou, Jiangsu
+Jun 04, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, Suzhou, Jiangsu
 
 May 27, 2026\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **4th AI-Driven Astronomy**, Nanjing, Jiangsu
