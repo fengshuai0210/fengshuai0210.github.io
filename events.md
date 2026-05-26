@@ -13,8 +13,11 @@ layout: default
 Jun 03, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Hot Gaseous Halo Workshop**, Suzhou, Jiangsu
 
-May 27, 2025\
+May 27, 2026\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **4th AI-Driven Astronomy**, Nanjing, Jiangsu
+
+May 26, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Weiqi Fan (范炜奇)**!
 
 May 23, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2026**, Haikou, Hainan
