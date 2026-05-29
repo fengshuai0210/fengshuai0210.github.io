@@ -16,6 +16,8 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 欢迎对星系演化、观测天文学或数据分析感兴趣的同学加入我们团队。请通过电子邮件联系冯帅老师。
 
+[本科生研究课题](undergraduate_project.md)
+
 ---
 
 ## 👥 Current Members / 团队成员
