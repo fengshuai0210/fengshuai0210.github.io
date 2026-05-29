@@ -49,8 +49,7 @@ In parallel, I develop numerical tools and simulation pipelines to generate and 
 
 ## 📄 Publications
 
-<img src="../image/ads_logo.svg" alt="ADS" title="ADS" style="width:20px;height:20px;">
-[Full Publication List in ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
+[Full Publication List](publication.md)<img src="../image/ads_logo.svg" alt="ADS" title="ADS" style="width:20px;height:20px;">[ADS](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
 
 ### Selected Papers
 1. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](https://arxiv.org/abs/2604.14092), 2026, accepted by *The Astrophysical Journal*
