@@ -14,9 +14,9 @@ Our research group mainly focuses on the formation and evolution of galaxies, wi
 
 We welcome highly motivated undergraduate and graduate students to join our group. If you're interested in galaxy evolution, observational astronomy, or data analysis, feel free to reach out.
 
-欢迎对星系演化、观测天文学或数据分析感兴趣的同学加入我们团队。请通过电子邮件联系冯帅老师。
+欢迎对星系演化、观测天文学或数据分析感兴趣的同学加入我们团队。请通过电子邮件或钉钉联系冯帅老师。
 
-[本科生研究课题](undergraduate_project.md)
+📘 [本科生研究课题](undergraduate_project.md)
 
 ---
 
