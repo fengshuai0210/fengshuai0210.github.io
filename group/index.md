@@ -24,9 +24,8 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
-| Cailu Shi <br> 石彩璐  | MSc 2023 <br> 2023级硕士 | Spiral-Elliptical Galaxy Pairs |
+
 | Bingxu Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs |
-| Guitao Xu <br> 许桂涛  | BSc 2022 <br> 2022级本科 | Multiple Galaxies |
 | Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Post-merger Galaxies |
 | Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
 
@@ -57,6 +56,7 @@ Below is a list of selected honors, scholarships, and funding received by studen
 
 | Name <br> 姓名 | Year <br> 年份 | Award / Funding <br> 奖项 / 资助 | Organization <br> 颁发机构 |
 |---------------|---------------|---------------------------------|---------------------------|
+| Yijin Niu <br> 牛艺瑾 | 2026 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Guitao Xu <br> 许桂涛 | 2025 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Cailu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Cailu Shi <br> 石彩璐 | 2024 | Graduate Student Innovation Grant <br> 研究生创新能力培养资助项目 | Hebei Normal University <br> 河北师范大学 |
@@ -73,7 +73,8 @@ Below is a list of students who have completed their undergraduate or master's t
 
 | Name <br> 姓名 | Degree <br> 学位 | Year <br> 毕业年份 | Research Topic <br> 研究课题 | Current Position <br> 目前去向 |
 |----------------|------------------|------------------------|-----------------------------|------------------------------|
+| Cailu Shi <br> 石彩璐 | MSc | 2026 | Spiral-Elliptical Galaxy Pairs | Mancheng High School <br> 河北满城中学 |
+| Guitao Xu <br> 许桂涛 | BSc | 2026 | Multiple Galaxies | MSc @ YNU <br> 云南大学 |
 | Shaoze Geng <br> 耿少泽 | BSc | 2025 | Galaxy Merger Sequence revealed by Morphology | MSc @ NAOC <br> 中国科学院国家天文台 |
 | Yaotian Duan <br> 段耀天 | BSc | 2025 | Gas-Phase Metallicity of Galaxy Pairs | MSc @ DUT <br> 大连理工大学 |
 | Shuhao Chen <br> 陈书豪 | BSc | 2025 | Morphology of Galaxy Pairs in Legacy Survey | – |
-| Guitao Xu <br> 许桂涛 | BSc | 2026 | Multiple Galaxies | MSc @ YNU <br> 云南大学 |
