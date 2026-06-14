@@ -37,8 +37,8 @@ Galaxy Formation and Evolution, including
 
 ## 👥 Our Group
 
-* Graduate Student: Cailu Shi (石彩璐), Bingxi Huo (霍柄锡)
-* Undergraduate Student: Guitao Xu (许桂涛), Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇)
+* Graduate Student: Bingxi Huo (霍柄锡)
+* Undergraduate Student: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇)
 
 *[Join Our Group (加入我们)](./group/)*
 
