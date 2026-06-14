@@ -24,7 +24,6 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
-
 | Bingxu Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs |
 | Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Post-merger Galaxies |
 | Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
