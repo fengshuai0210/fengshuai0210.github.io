@@ -46,19 +46,13 @@ Galaxy Formation and Evolution, including
 ## 📰 News
 
 
+Jun 10, 2026\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Yijin Niu received university-level funding from the **College Student Innovation Program**
+
 Jun 04, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, Suzhou, Jiangsu
 
 Jun 02, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Inside-Out vs. Outside-In Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment** by Ho et al., [arXiv](https://arxiv.org/abs/2606.01297)
-
-May 27, 2026\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **4th AI-Driven Astronomy**, Nanjing, Jiangsu
-
-May 26, 2026\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome new undergraduate student member, **Weiqi Fan (范炜奇)**!
-
-May 23, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Guoshoujing Conference 2026**, Haikou, Hainan
 
 👉 **[Previous Events](./events)**
