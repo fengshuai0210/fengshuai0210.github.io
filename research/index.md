@@ -4,8 +4,7 @@ layout: default
 
 # Research
 
-My research focuses on the **formation and evolution of galaxies**, primarily from an **observational perspective**.  
-I study how galaxy interactions reshape the life cycle of gas: how gas is redistributed during encounters and mergers, how star formation is enhanced or suppressed, and how these processes leave observable signatures in galaxy morphology, chemistry, and kinematics.
+My research focuses on the **formation and evolution of galaxies**, primarily from an **observational perspective**. I study how galaxy interactions reshape the life cycle of gas: how gas is redistributed during encounters and mergers, how star formation is enhanced or suppressed, and how these processes leave observable signatures in galaxy morphology, chemistry, and kinematics.
 
 My work is organized around several closely related research directions:
 
