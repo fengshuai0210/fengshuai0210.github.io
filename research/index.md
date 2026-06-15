@@ -5,45 +5,40 @@ layout: default
 # Research
 
 My research focuses on the **formation and evolution of galaxies**, primarily from an **observational perspective**.  
-I study how galaxies interact and merge, how gas is redistributed during these processes, and how such dynamical events regulate star formation and chemical enrichment across cosmic time.
+I study how galaxy interactions reshape the life cycle of gas: how gas is redistributed during encounters and mergers, how star formation is enhanced or suppressed, and how these processes leave observable signatures in galaxy morphology, chemistry, and kinematics.
 
 My work is organized around several closely related research directions:
 
 ---
 
-## 🌌 SAMSARA（轮回）  
-### Sequential Analysis of Merging galaxy Systems and Associated Recurrent gAs cycling
+## Galaxy Interactions and Mergers
 
 ![](../image/MergerSequence.jpg)
 
-This project focuses on the **galaxy merger sequence**.  
-By studying galaxies at different stages of interaction and merging, I aim to reconstruct their **evolutionary history** and identify the physical processes responsible for:
+Galaxy interactions and mergers provide a natural laboratory for studying how galaxies transform.
+I use large samples of galaxy pairs and merging systems to build observational merger sequences and examine how galaxy properties change from early encounters to late-stage coalescence.
 
-- morphological transformation,  
-- gas inflow and redistribution,  
-- enhancement or suppression of star formation.  
+This work focuses on the physical links between tidal interaction, morphological disturbance, gas inflow, star formation, metallicity, and environment. A central goal is to identify when interactions trigger star formation, when they suppress it, and how these effects depend on merger stage and galaxy mass.
 
 Large statistical samples from galaxy surveys are used to trace how these properties evolve along the merger sequence.
 
 ---
 
-## 🌊 TUNA（吐纳）  
-### Tracing oUtflow and iNflow by Asymmetric velocity fields
+## Gas Kinematics and Gas Cycling
 
-This project investigates the **kinematics of ionized gas** in galaxies.  
-By analyzing asymmetric velocity fields from integral field spectroscopy, I study how gas inflow, outflow, and dynamical perturbations are connected to galaxy interactions and internal evolution.
+I investigate the **kinematics of ionized gas** using integral field spectroscopy.
+By analyzing asymmetric velocity fields, I study how gas inflow, outflow, and non-circular motions are connected to galaxy interactions, internal structures, and feedback processes.
 
-These studies provide insights into **gas cycling processes** and their role in regulating star formation and galaxy growth.
+These studies aim to connect spatially resolved gas motions with star formation and chemical enrichment, providing observational constraints on gas cycling and its role in regulating galaxy growth.
 
 ---
 
-## 🔭 GEHONG（葛洪）  
-### GEnerate tHe data Of iNtegral field spectrograph of Galaxy
+## Integral Field Spectroscopy and Mock Observations
 
-This project is dedicated to **integral field spectroscopic analysis and data modeling**.  
-I use IFS observations to explore spatially resolved galaxy properties, including star formation, metallicity, and kinematics.
+Integral field spectroscopy is central to my work because it allows galaxy properties to be studied in two spatial dimensions.
+I use IFS observations to explore spatially resolved star formation, gas-phase metallicity, and kinematics in nearby galaxies.
 
-In parallel, I develop numerical tools and simulation pipelines to generate and interpret mock IFS datacubes for large surveys and future missions, such as the **Chinese Space Station Telescope (CSST-IFS)**.
+In parallel, I develop numerical tools and simulation pipelines to generate and interpret mock IFS datacubes for large surveys and future missions, including the **Chinese Space Station Telescope Integral Field Spectrograph (CSST-IFS)**.
 
 ---
 
