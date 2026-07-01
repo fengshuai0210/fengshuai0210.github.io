@@ -1,8 +1,26 @@
 @import "vars";
 
 .content {
+    font-size: 17px;
+    line-height: 1.68;
+
     a:hover {
         text-decoration: underline;
+    }
+    p {
+        margin: 0 0 16px 0;
+    }
+    h1 {
+        line-height: 1.25;
+        margin: 0 0 22px 0;
+    }
+    h2 {
+        line-height: 1.3;
+        margin: 34px 0 14px 0;
+    }
+    h3 {
+        line-height: 1.35;
+        margin: 24px 0 10px 0;
     }
     ol {
         counter-reset: list;
@@ -11,11 +29,11 @@
         list-style-position: none;
         position: relative;
         list-style: none;
-        margin-top: 5px;
-        margin-bottom: 5px;
+        margin-top: 8px;
+        margin-bottom: 8px;
     }
     ul > li {
-        margin: 5px 0 5px 0;
+        margin: 8px 0 8px 0;
     }
     ul {
         padding: 0 20px 0 20px;;
