@@ -56,8 +56,12 @@ For education, positions, funding, honors, memberships, and collaborations, plea
 ----
 ## 📰 News
 
+### Upcoming
+
 Jul 09, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Upcoming contributed talk at the **2026 LAMOST Observer Training Workshop**, Suzhou, Jiangsu
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at the **2026 LAMOST User Training Workshop**, Suzhou, Jiangsu
+
+### Past
 
 Jun 10, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Yijin Niu received university-level funding from the **College Student Innovation Program**

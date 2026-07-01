@@ -11,7 +11,7 @@ layout: default
 ## 2026
 
 Jul 09, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 LAMOST Observer Training Workshop**, Suzhou, Jiangsu
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 LAMOST User Training Workshop**, Suzhou, Jiangsu
 
 Jun 10, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Yijin Niu received university-level funding from the **College Student Innovation Program**
@@ -77,7 +77,7 @@ Jul 30, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 Annual Science Conference and Early Science Symposium of the China Space Station Telescope**, Kunming, Yunnan
 
 Jul 04, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST Observer Training Workshop**, Hangzhou, Zhejiang
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST User Training Workshop**, Hangzhou, Zhejiang
 
 Jul 02, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatories, Chinese Academy of Sciences**

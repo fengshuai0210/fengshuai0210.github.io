@@ -21,13 +21,13 @@ layout: default
 
 ### 2026
 
-44. *Observational Properties of Multiple Interacting Systems*, **2026 LAMOST Observer Training Workshop**, 2026.07, Suzhou, Jiangsu
+44. *Observational Properties of Multiple Interacting Systems*, **2026 LAMOST User Training Workshop**, 2026.07, Suzhou, Jiangsu
 43. *Suppression of Star Formation by Hot CGM in Galaxy Mergers*, **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, 2026.06, Suzhou, Jiangsu
 42. *Star Formation Along the Galaxy Merger Sequence: The Roles of Tidal Interaction, Gas Inflow, and CGM Regulation*, **2026 Guoshoujing Conference**, 2026.05, Haikou, Hainan
 
 ### 2025
 41. *Morphology of Member Galaxies in Galaxy Pairs and CSST-IFS Scientific Imaging Simulation*, **2025 Annual Science Conference and Early Science Symposium of the China Space Station Telescope**, 2025.07, Kunming, Yunnan
-40. *Observational Properties of Interacting Galaxies*, **2025 LAMOST Observer Training Workshop**, 2025.07, Hangzhou, Zhejiang
+40. *Observational Properties of Interacting Galaxies*, **2025 LAMOST User Training Workshop**, 2025.07, Hangzhou, Zhejiang
 39. *Observational Properties and Member Morphologies in Galaxy Pairs*, **Galaxy Mergers and Interactions in the Era of Space Telescopes**, 2025.06, Suzhou, Jiangsu
 38. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **2025 Guoshoujing Conference**, 2025.05, Changsha, Hunan
 
