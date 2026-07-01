@@ -25,7 +25,7 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
 | Bingxu Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation of SDSS Galaxy Pairs |
-| Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Star Formationof Post-merger Galaxies |
+| Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Star Formation of Post-merger Galaxies |
 | Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
 
 ---
@@ -44,7 +44,7 @@ Below is a list of selected refereed journal papers published by undergraduate a
 以下为课题组学生在导师指导下发表的部分国际同行评议期刊论文。
 
 1. **Shaoze Geng**, Shuai Feng, **Shuhao Chen**, **Yaotian Duan**, Shiyin Shen, **Cailu Shi**, **Yijin Niu**, **Bingxi Huo**, Linlin Li, Wenyuan Cui, Guozhen Hu, [Tracing Star Formation Evolution in Galaxy Pairs with Morphological Disturbances and Recent Star Formation Histories](), 2026, to be submitted
-2. **Cailu Shi**, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2006, *The Astrophysical Journal*, 1004, 115
+2. **Cailu Shi**, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2026, *The Astrophysical Journal*, 1004, 115
 
 ---
 

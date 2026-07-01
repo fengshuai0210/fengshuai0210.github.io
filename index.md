@@ -2,57 +2,70 @@
 layout: default
 ---
 
-<img class="profile-picture" src="./image/sfeng.png">
+<section class="home-hero">
+  <div class="home-hero-text">
+    <p class="eyebrow">Galaxy evolution · Integral-field spectroscopy · Gas kinematics</p>
+    <h1>Shuai Feng <span>冯帅</span></h1>
+    <p class="hero-role">Associate Professor, College of Physics, Hebei Normal University</p>
+    <p class="hero-summary">I study how galaxy interactions reshape gas motion, star formation, and chemical evolution using large galaxy surveys, integral-field spectroscopy, and mock observation tools for future missions.</p>
+    <div class="profile-links">
+      <a href="https://orcid.org/0000-0002-9767-9237"><img src="/image/orcid.png" alt="ORCID">ORCID</a>
+      <a href="https://scholar.google.com/citations?user=2BSBFeQAAAAJ&hl=zh-CN"><img src="/image/Google_Scholar_logo.svg" alt="Google Scholar">Scholar</a>
+      <a href="https://github.com/fengshuai0210"><img src="/image/GitHub-Mark.png" alt="GitHub">GitHub</a>
+      <a href="https://phys.hebtu.edu.cn/a/2023/12/06/E9CCF3F55EAE4C1A9A01707EC828CBB9.html"><img src="/image/hebtu_logo.gif" alt="Hebei Normal University">HEBTU</a>
+    </div>
+  </div>
+  <img class="hero-portrait" src="./image/sfeng.png" alt="Shuai Feng">
+</section>
 
-# 👤 About Me
+## Research
 
-My name is Shuai Feng (冯帅). I'm currently an associate professor at the College of Physics in [Hebei Normal University](http://www.hebtu.edu.cn/), China. 
+My research focuses on the formation and evolution of galaxies from an observational perspective, with particular interest in how interactions and mergers regulate the life cycle of gas.
 
-[<img src="/image/orcid.png" alt="orcid" title="orcid" style="width:30px;height:30px;">](https://orcid.org/0000-0002-9767-9237) [<img src="/image/Google_Scholar_logo.svg" alt="google scholar" title="google scholar" style="width:30px;height:30px;">](https://scholar.google.com/citations?user=2BSBFeQAAAAJ&hl=zh-CN) [<img src="/image/GitHub-Mark.png" alt="GitHub" title="GitHub" style="width:30px;height:30px;">](https://github.com/fengshuai0210) [<img src="/image/hebtu_logo.gif" alt="Hebtu" title="Personal Page @ Hebei Normal University (学校个人页面)" style="width:30px;height:30px;">](https://phys.hebtu.edu.cn/a/2023/12/06/E9CCF3F55EAE4C1A9A01707EC828CBB9.html)
+<div class="research-grid">
+  <article>
+    <h3>Galaxy Interactions</h3>
+    <p>Building observational merger sequences to trace how tidal disturbance changes star formation, metallicity, morphology, and environment.</p>
+  </article>
+  <article>
+    <h3>Gas Kinematics</h3>
+    <p>Using velocity-field asymmetry and non-circular motions to connect gas inflow, outflow, feedback, and galaxy-scale transformation.</p>
+  </article>
+  <article>
+    <h3>IFS & Mock Observations</h3>
+    <p>Analyzing spatially resolved spectroscopy and developing mock datacube tools for surveys and missions such as CSST-IFS.</p>
+  </article>
+</div>
 
-## 🔬 Research Interests
+[Research Details](./research/) · [Publication List](./research/publication.md)
 
-Galaxy Formation and Evolution, including
-* Galaxy Merge and Interaction
-* Gas Kinematics
-* Gas Cycling of Galaxies
+## Selected Papers
 
-## 🎓 Education
+1. **Shuai Feng**, Shiyin Shen, Yanmei Chen, Y. Sophia Dai, Jun Yin, Wenyuan Cui, Mengting Ju, Linlin Li, [The Velocity Map Asymmetry of Ionized Gas in MaNGA II](https://ui.adsabs.harvard.edu/abs/2025ApJ...995...18F/abstract), 2025, *The Astrophysical Journal*, 995, 18
+2. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Y. Sophia Dai, Karen L. Masters, [The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties](https://ui.adsabs.harvard.edu/abs/2022ApJS..262....6F/abstract), 2022, *The Astrophysical Journal Supplement Series*, 262, 6
+3. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Rogemar A. Riffel, Kaike Pan, [SDSS-IV MaNGA: Kinematic Asymmetry as an Indicator of Galaxy Interaction in Paired Galaxies](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L..20F/abstract), 2020, *The Astrophysical Journal Letters*, 892, 20
 
-* 2013.09 - 2020.06, Ph.D of Astrophysics, [Shanghai Astronomical Observatory, Chinese Academy of Sciences](http://www.shao.ac.cn/)
-* 2013.09 - 2014.06, Visiting Student, [Department of Astronomy, University of Science and Technology of China](https://astro.ustc.edu.cn/)
-* 2007.09 - 2011.06, B.S of Physics, College of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
+## Group & Teaching
 
-## 🧪 Research Experience
+I teach undergraduate and graduate courses in physics, galactic astronomy, observational astronomy, and astronomical data analysis. Our group welcomes students interested in galaxy evolution, observational astronomy, and scientific data analysis.
+
+[Teaching](./teaching/) · [Research Group / 加入我们](./group/)
+
+## Education & Positions
 
 * 2023.12 - Present, Associate Professor, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 * 2020.09 - 2022.12, Lecturer, Department of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
+* 2013.09 - 2020.06, Ph.D. in Astrophysics, [Shanghai Astronomical Observatory, Chinese Academy of Sciences](http://www.shao.ac.cn/)
 
-## 📘 Teaching
+## News
 
-* Undergraduate Course: Atomic Physics (原子物理学), Optics (光学), Observational Astronomy (实测天体物理)
-* Graduate Course: Galactic Astronomy (星系天文学), Data Analysis for Astronomy (天文数据处理)
+**Upcoming**
 
-👉 [Teaching Details](./teaching/)
+* Jul 09, 2026: Contributed talk at **2026 LAMOST Observer Training Workshop**, Suzhou, Jiangsu
 
-## 👥 Our Group
+**Recent**
 
-* Graduate Student: Bingxi Huo (霍柄锡)
-* Undergraduate Student: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇)
+* Jun 10, 2026: Yijin Niu received university-level funding from the **College Student Innovation Program**
+* Jun 04, 2026: Contributed talk at **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, Suzhou, Jiangsu
 
-*[Join Our Group (加入我们)](./group/)*
-
-----
-## 📰 News
-
-Jul 09, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 LAMOST Observer Training Workshop**, Suzhou, Jiangsu
-
-Jun 10, 2026\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Yijin Niu received university-level funding from the **College Student Innovation Program**
-
-Jun 04, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, Suzhou, Jiangsu
-
-
-👉 **[Previous Events](./events)**
+[Previous Events](./events)
