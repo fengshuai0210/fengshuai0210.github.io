@@ -35,8 +35,8 @@ My research is centered on galaxy formation and evolution, especially:
 
 ## 📘 Teaching
 
-* Undergraduate Courses: Atomic Physics (原子物理学), Optics (光学), Observational Astronomy (实测天体物理)
-* Graduate Courses: Galactic Astronomy (星系天文学), Data Analysis for Astronomy (天文数据处理)
+* Undergraduate Courses: Atomic Physics (原子物理学), Optics (光学), Observational Astrophysics (实测天体物理), Experiments in General Physics 1 (普通物理实验一), 
+* Graduate Courses: Galactic Astronomy (星系天文学), Reduction Methods for Astronomical Data (天文数据处理)
 
 👉 [Teaching Details](./teaching/)
 
