@@ -4,7 +4,7 @@ layout: default
 
 # Research
 
-My research focuses on the **formation and evolution of galaxies** from an **observational perspective**. The central question is how galaxies exchange, redistribute, and consume gas during their evolution, especially when they are affected by interactions and mergers. This question is explored through large galaxy surveys, integral field spectroscopy, multi-wavelength gas observations, and mock observations for future facilities.
+My research focuses on the **formation and evolution of galaxies**, combining observational data, numerical simulations, and mock observations for future facilities. The central question is how interactions, gas dynamics, star formation, chemical enrichment, and environment shape galaxy evolution. This question is explored through large galaxy surveys, integral field spectroscopy, multi-wavelength gas observations, and simulation-based tools.
 
 The work is organized around three closely connected themes:
 
