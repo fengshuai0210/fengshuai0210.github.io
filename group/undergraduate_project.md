@@ -4,49 +4,138 @@ layout: default
 
 # 本科生科研课题 / Undergraduate Research Projects
 
-本页面列出了课题组为本科生设计的科研训练方向。每个方向均可作为毕业论文、创新项目或科研实习的选题，欢迎感兴趣的同学联系。
-This page outlines the research directions available for undergraduate students in our group. Each direction is suitable for bachelor's thesis, innovation programs, or research internships.
+本页面面向对科研训练感兴趣的本科生，尤其适合物理、天文及相关理科专业的同学。课题组的研究围绕星系形成与演化展开，使用国际一流巡天、空间望远镜、地面大型望远镜和数值模拟数据，包括 SDSS、DESI、Euclid、CSST、JWST、VLT-MUSE、ALMA、IllustrisTNG、EAGLE 等。即使此前没有系统学习过天文学，也可以根据自己的兴趣，从合适的方向开始。
+
+参与这些课题的目的不只是完成毕业论文或大学生创新项目，更重要的是接触真实的前沿科学问题，学习通用科研能力，并在这个过程中了解自己是否喜欢科研、适合哪类科研。只要有兴趣、有动力、愿意持续学习，就可以在训练中逐步掌握需要的知识和方法。
 
 ---
 
-## 📊 方向一：星系的统计性质
-### Direction 1: Statistical Properties of Galaxies
+## 🌌 课题方向 / Research Directions
 
-基于 **SDSS**、**DESI**、**Euclid** 及未来的 **CSST** 等大型巡天数据，开展大样本统计分析，探寻星系演化的共性问题。通过研究星系在不同环境下的形态、恒星形成、金属丰度、运动学等性质，揭示星系演化的普遍规律。
+### 1. 星系的统计性质
 
-Based on large survey data (SDSS, DESI, Euclid, and future CSST), conduct statistical analysis of large galaxy samples to explore universal aspects of galaxy evolution. Investigate morphology, star formation, metallicity, kinematics, and other properties across different environments to reveal the general laws of galaxy formation and evolution.
+这一方向使用大规模巡天数据研究星系群体的统计规律。可以把它理解为：从几十万到数百万个星系中寻找宏观规律，通过总结和归纳理解星系的质量、颜色、形态、恒星形成活动和环境之间的关系。
+
+常用数据包括 SDSS、DESI、Euclid 和未来 CSST 等国际大型巡天。这类研究的特点是从大样本中寻找共性，用统计证据回答科学问题；它既能训练科学归纳能力，也能训练具有很强拓展性的通用技术方法。
+
+可以开展的课题：
+
+* 星系颜色、质量和恒星形成活动的关系
+* 星系形态与环境的统计分析
+* 星系对、星系群或特殊星系样本构建
+* 大规模星系样本的可视化和数据质量检查
+
+通过这类课题，可以学习如何从复杂数据中提出问题、建立样本、识别规律并检验结论，同时训练数据检索、统计分析、程序设计和科学作图能力。这些能力不仅适用于天文学，也适用于数据科学、人工智能、物理实验和其他理科研究方向。
+
+### 2. 特殊星系的精细研究
+
+这一方向关注单个或少量特殊星系，利用高质量观测数据研究具体物理过程。可以把它理解为：用最强大的观测设备直接探测未知对象，像“解剖”一个星系一样，看它的图像、光谱、速度场和化学丰度，理解它为什么特殊。
+
+常用数据包括 JWST、VLT-MUSE、ALMA 以及大型地面望远镜和空间望远镜的高质量观测数据。这类课题不一定局限于空间分辨观测，也可以围绕高精度测光、光谱、速度场或多波段数据展开。它的特点是直观、具体，常常从一个特殊天体出发，以小见大地理解更普遍的物理过程。
+
+可以开展的课题：
+
+* 特殊星系的图像结构分析
+* 星系并合或相互作用个例研究
+* 星系气体速度场和恒星形成区域分析
+* JWST / MUSE / ALMA 数据的可视化与测量
+
+通过这类课题，可以学习如何从观测数据中提取物理信息，理解图像、光谱、速度场和多波段观测背后的物理过程，也能了解望远镜、光谱仪、探测器和观测策略如何决定我们能够看到什么。这种对天文仪器和观测数据的理解，是开展天文研究的重要基础。
+
+### 3. 数值模拟与观测比较
+
+这一方向使用宇宙学数值模拟研究星系如何在理论模型中形成和演化。可以把它理解为：在计算机中生成“模拟宇宙”，再把模拟星系和真实观测星系进行比较。
+
+常用数据包括 IllustrisTNG、EAGLE 等国际主流模拟项目。适合对理论物理、计算、数据分析和物理机制感兴趣的同学。
+
+可以开展的课题：
+
+* 模拟星系的质量、颜色、恒星形成率分析
+* 模拟星系与观测星系的比较
+* 模拟星系并合历史分析
+* 模拟数据的可视化和物理量提取
+
+通过这类课题，可以接触理论模型、计算数据和观测检验之间的联系，训练从物理问题到数据分析再到科学解释的完整思路。即使未来不从事天文学，这类训练也有助于理解数值模拟、科学计算和理论建模。
+
+### 4. AI 与自动化天文研究
+
+这一方向探索人工智能和自动化工具在天文研究中的应用。可以把它理解为：让计算机帮助我们识别星系、整理数据、阅读文献、生成分析流程。
+
+适合对机器学习、大语言模型、自动化工具或数据科学感兴趣的同学。相关的 Python 和算法工具都可以在具体课题中逐步学习；即使将来不做天文，这类训练也具有很强的通用价值。
+
+可以开展的课题：
+
+* 星系图像或光谱的自动分类
+* 基于机器学习的星系性质预测
+* 自动化天文数据库查询
+* 自动整理文献和生成数据分析脚本
+* 构建面向天文科研的小型 AI agent
+
+通过这类课题，可以训练机器学习、自动化流程、数据整理、文献处理和工具开发能力。这些能力具有很强的通用性，对未来从事科研、数据分析、软件开发或人工智能相关工作都有帮助。
+
+### 5. 天文教育与科普资源开发
+
+这一方向面向师范专业和对科学教育感兴趣的同学，围绕天文通识教育、科普教育和公众科学传播开展项目。可以把它理解为：把前沿天文学问题转化为不同年龄段学生和公众能够理解、愿意参与的课程、活动和科普内容。
+
+这类课题既可以结合真实天文数据，也可以结合课堂教学、科普讲座、互动演示和新媒体传播。适合希望未来从事教师职业、科学教育、科普传播或公众科学服务的同学。
+
+可以开展的课题：
+
+* 面向中小学生的天文通识课程设计
+* 基于真实天文图像和数据的课堂活动开发
+* 星系、黑洞、宇宙演化等主题的科普内容创作
+* 面向公众的天文观测活动或科普讲座设计
+* 利用 Python、网页或交互工具制作天文教学演示
+* AI 工具在天文教学和科普内容生成中的应用
+
+通过这类课题，可以训练科学表达、课程设计、公众沟通、内容创作和教育创新能力。它不限制专业背景，只要对天文教育、科学传播或公众科普有兴趣，都可以参与并逐步形成自己的特色。
 
 ---
 
-## 🔭 方向二：特殊星系的精测
-### Direction 2: Detailed Studies of Peculiar Galaxies
+## 🧰 可以获得的训练 / Training
 
-基于 **VLT-MUSE**、**JWST** 等大型望远镜的观测数据，对特殊星系进行深入的个例或小样本分析。这类研究更为直观，聚焦于具体天体的物理过程和结构。
+参与课题的同学将根据兴趣和课题需要逐步训练：
 
-Based on observational data from major telescopes (VLT-MUSE, JWST, etc.), conduct in-depth case studies or small-sample analysis of peculiar galaxies. This approach is more intuitive, focusing on the physical processes and structures of specific objects.
+* Python 编程与科学计算
+* 天文数据库查询和样本构建
+* 图像、光谱、表格和模拟数据分析
+* 统计分析、数据可视化和误差意识
+* 科研文献阅读和英文摘要写作
+* 科研汇报、结果展示和论文写作基础
+* 对科研流程、科研兴趣和个人发展方向的判断
 
----
-
-## 💻 方向三：数值模拟的分析
-### Direction 3: Analysis of Numerical Simulations
-
-基于 **IllustrisTNG**、**EAGLE** 等宇宙学数值模拟数据，研究星系在理论模型中的形成与演化过程。通过与观测结果的对比，获得对星系物理机制的深入理解，并为观测提供理论预测。
-
-Based on cosmological simulations (IllustrisTNG, EAGLE, etc.), study how galaxies form and evolve in theoretical models. Compare with observational results to gain insights into the physical mechanisms of galaxy evolution and provide theoretical predictions for observations.
+这些训练不只服务于天文学，也适合未来继续读研、从事数据分析、科学计算、人工智能、科学教育或其他理工科研究方向。
 
 ---
 
-## 🤖 方向四：基于 AI 的星系研究
-### Direction 4: AI-Driven Galaxy Research
+## ⏳ 时间安排 / Timeline
 
-利用人工智能技术推动星系天文学研究，包括两个主要方向：(1) 利用 **Agent** 构造智能天文学家，自动化完成数据查询、分析、推理等工作流程；(2) **模式识别**，利用机器学习和深度学习技术对星系形态、光谱等进行自动分类与特征提取。
-
-Leverage artificial intelligence to advance galaxy research, including two main thrusts: (1) building **intelligent agents** to automate data querying, analysis, and reasoning workflows; (2) **pattern recognition**, using machine learning and deep learning for automated classification and feature extraction of galaxy morphologies and spectra.
+* 入门阶段：1 学期，熟悉 Python、数据和基本分析方法
+* 科研训练：1 年左右，完成一个较完整的小课题
+* 毕业论文 / 创新项目：1-2 年，形成系统研究结果
 
 ---
 
-## 📝 说明 / Notes
+## ✅ 参与方式 / Expectations
 
-- **时间周期 / Duration:** 通常为 1–2 年（含毕业论文或创新项目）/ Typically 1–2 years (including thesis or innovation program)
-- **技能要求 / Prerequisites:** 基础天文知识、Python 编程基础 / Basic astronomy knowledge, basic Python programming
-- **联系 / Contact:** 欢迎通过电子邮件与冯帅老师联系讨论 / Feel free to reach out via email to discuss
+不要求一开始就具备完整科研经验，也不要求一开始就懂天文学。更重要的是：
+
+* 对科学问题有好奇心
+* 对某个方向有兴趣和动力
+* 愿意持续学习
+* 能投入稳定时间
+* 愿意阅读、讨论、写作和汇报
+* 愿意在真实课题中逐步积累能力
+
+科研训练本身就是学习过程。只要愿意开始、愿意坚持，就可以在具体课题中逐步获得知识、方法和信心。
+
+---
+
+## 📮 联系方式 / Contact
+
+欢迎感兴趣的同学通过邮件联系。来信时可以简单说明：
+
+* 年级和专业
+* 已学课程、兴趣方向或相关经历
+* 感兴趣的方向
+* 可投入的时间
