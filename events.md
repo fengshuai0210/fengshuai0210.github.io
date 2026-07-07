@@ -10,6 +10,12 @@ layout: default
 ----
 ## 2026
 
+Jul 28, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
+
+Jul 16, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Youth Astronomy Forum of the Chinese Astronomical Society**, Xichang, Sichuan
+
 Jul 09, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 LAMOST User Training Workshop**, Suzhou, Jiangsu
 
