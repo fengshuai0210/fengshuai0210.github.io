@@ -50,7 +50,7 @@ The same mock-observation framework also extends to CSST imaging. Simulations fo
 
 ## Publications
 
-[Full Publication List](publication.md) · [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ)
+[Full Publication List](publication.md) · [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ) · [Full Talk List](talk.md)
 
 ### Selected Papers
 
