@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Publication
+# 📄 Publication / 发表论文
 
-## Peer Reviewed Papers
+## 📝 Peer Reviewed Papers / 学术论文
 
-### First/Corresponding Author Paper
+### ⭐ First/Corresponding Author Paper / 第一/通讯作者论文
 10. Shaoze Geng, **Shuai Feng**, Shuhao Chen, Yaotian Duan, Shiyin Shen, Cailu Shi, Yijin Niu, Bingxi Huo, Linlin Li, Wenyuan Cui, Guozhen Hu, [Tracing Star Formation Evolution in Galaxy Pairs with Morphological Disturbances and Recent Star Formation Histories](), 2026, submitted to *The Astrophysical Journal*
 9. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..115S/abstract), 2026, *The Astrophysical Journal*, 1004, 115
 8. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..128L/abstract), 2026, *The Astrophysical Journal*, 1000, 128
@@ -18,7 +18,7 @@ layout: default
 2. **Shuai Feng**, Shiyin Shen, Fangting Yuan, Ali Luo, Jiannan Zhang, Mengxin Wang, Xia Wang, Yinbi Li, [Bivariate Luminosity Function of Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..114F/abstract), 2019, *The Astrophysical Journal*, 880, 114
 1. **Shuai Feng**, Zhengyi Shao, Shiyin Shen, Maria Argudo-Fernandez, Hong Wu, Mani Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *Research in Astronomy and Astrophysics*, 16, 5
 
-### Collaborator Paper
+### 🤝 Collaborator Paper / 合作论文
 33. Xiaopeng Liu, Guozhen Hu, Zhengyi Shao, Erbil Gügercinoğlu, **Shuai Feng**, Wenyuan Cui, [Chemical and Kinematic Decomposition of the Galactic Disk: Quantifying the Radial and Vertical Abundance Gradients and the Rotation-Metallicity Relation of the Thick and Thin Disks](), 2026, submitted to *The Astrophysical Journal*
 32. Zihua Ho, Lihwai Lin, Hungyu Jian, Bauchng Hsieh, Carlos Lopez-Coba, Sebastian F. Sanchez, Wenyen Wu, **Shuai Feng**, Shiyin Shen, [Inside-Out vs. Outside-In Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005...85H/abstract), 2026, *The Astrophysical Journal*, 1005, 85
 31. Mingtao Yang, Jiaxin Han, Wenting Wang, Hekun Li, Cong Liu, Jun Zhang, **Shuai Feng**, Shiyin Shen, Zhenjie Liu, Xiaohu Yang, Yi Lu, Surhud More, [Dependence of Halo Properties on Central-Satellite Magnitude Gaps through Weak Lensing Measurements](https://ui.adsabs.harvard.edu/abs/2026ApJ...998..291Y/abstract), 2026, *The Astrophysical Journal*, 998, 291
@@ -53,7 +53,7 @@ layout: default
 2. Shiyin Shen, Maria Argudo-Fernandez, Li Chen, Xiaoyan Chen, **Shuai Feng**, Jinliang Hou, Peng Jiang, Yipeng Jing, Xu Kong, Ali Luo, Zhijian Luo, Zhengyi Shao, Tinggui Wang, Wenting Wang, Yuefei Wang, Hong Wu, Xuebing Wu, Haifeng Yang, Ming Yang, Fangting Yuan, Hailong Yuan, Haotong Zhang, Jiannan Zhang, Yong Zhang, [A Sample of Galaxy Pairs Identified from the LAMOST Spectral Survey and the Sloan Digital Sky Survey](https://ui.adsabs.harvard.edu/abs/2016RAA....16...43S/abstract), 2016, *Research in Astronomy and Astrophysics*, 16, 43
 1. Maria Argudo-Fernandez, Fangting Yuan, Shiyin Shen, Jun Yin, Ruixiang Chang, **Shuai Feng**, [Isolated Galaxies versus Interacting Pairs with MaNGA](https://ui.adsabs.harvard.edu/abs/2015Galax...3..156A/abstract), 2015, *Galaxies*, 3, 156
 
-### Conference Proceeding
+### 📋 Conference Proceeding / 会议论文
 
 3. Qingzheng Yu, Taotao Fang, **Shuai Feng**, Bo Zhang, C. Kevin Xu, Yunting Wang, Lei Hao, [On the HI Content of MaNGA Major Merger Pairs](https://ui.adsabs.harvard.edu/abs/2023IAUS..373..186Y/abstract), 2023, *Proceedings of the International Astronomical Union*, 373, 186
 2. **Shuai Feng**, Shiyin Shen, Fangting Yuan, [Kinematic Asymmetry of Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2020IAUS..353..262F/abstract), 2020, *Proceedings of the International Astronomical Union*, 353, 262
