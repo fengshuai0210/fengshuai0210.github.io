@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 📄 Publication / 发表论文
+# Publication / 发表论文
 
 ## 📝 Peer Reviewed Papers / 学术论文
 

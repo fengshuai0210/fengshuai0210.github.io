@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 📰 News / 新闻动态
+# News / 新闻动态
 *Since Sep 01, 2020*
 
 <span style="white-space: nowrap;"><img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding / 奖项与基金**</span> <span style="white-space: nowrap;"><img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication / 论文发表**</span> <span style="white-space: nowrap;"><img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk / 学术报告**</span> <span style="white-space: nowrap;"><img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting / 学术会议**</span> <span style="white-space: nowrap;"><img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other / 其他动态**</span>

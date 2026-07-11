@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 📋 Curriculum Vitae / 个人简历
+# Curriculum Vitae / 个人简历
 
 ## 👤 Profile / 个人简介
 

@@ -3,7 +3,7 @@ layout: default
 is_links: true
 ---
 
-# 🔗 Useful Links
+# Useful Links
 
 > 天文与天体物理研究常用资源汇集
 

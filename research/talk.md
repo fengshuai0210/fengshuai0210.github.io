@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 🎤 Talk / 报告
+# Talk / 报告
 
 ## 🎓 Seminar Talk / 邀请报告
 

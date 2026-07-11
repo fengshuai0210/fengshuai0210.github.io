@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 🔬 Research / 研究
+# Research / 研究
 
 My research focuses on the **formation and evolution of galaxies**, combining observational data, numerical simulations, and mock observations for future facilities. The central question is how interactions, gas dynamics, star formation, chemical enrichment, and environment shape galaxy evolution. This question is explored through large galaxy surveys, integral field spectroscopy, multi-wavelength gas observations, and simulation-based tools.
 

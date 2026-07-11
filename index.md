@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="./image/sfeng.png">
 
-# 👤 About Me
+# About Me
 
 My name is Shuai Feng (冯帅). I am an associate professor at the College of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/), China.
 
