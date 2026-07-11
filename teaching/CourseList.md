@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Previous Courses
+# 📜 Previous Courses / 往期课程
 
 SEMESTER | COURSE | ROLE 
 ---------|--------|------
