@@ -63,4 +63,4 @@ Jun 04, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, Suzhou, Jiangsu
 
 
-👉 **[Previous Events](./events)**
+👉 **[Previous News](./news)**

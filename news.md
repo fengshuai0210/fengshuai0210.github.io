@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Events
+# 📰 News / 新闻动态
 *Since Sep 01, 2020*
 
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication**   <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk**  <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting**  <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other Events**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding / 奖项与基金** <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication / 论文发表** <img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk / 学术报告** <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting / 参会与交流** <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other / 其他动态**
 
 ----
 ## 2026
