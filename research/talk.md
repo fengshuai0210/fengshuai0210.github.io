@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Talk
+# 🎤 Talk / 报告
 
-## Seminar Talk
+## 🎓 Seminar Talk / 邀请报告
 
 ### 2025
 1. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **Shanghai Astronomical Observatory, Chinese Academy of Sciences**, 2025.03
@@ -17,7 +17,7 @@ layout: default
 
 ----
 
-## Conference Talk
+## 🏛 Conference Talk / 会议报告
 
 ### 2026
 
@@ -106,7 +106,7 @@ layout: default
 
 ----
 
-## Popular Science Talk
+## 🌟 Popular Science Talk / 科普报告
 
 ### 2024
 
