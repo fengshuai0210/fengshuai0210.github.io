@@ -2,18 +2,18 @@
 layout: default
 ---
 
-# Galactic Astronomy / 星系天文学
+## Galactic Astronomy / 星系天文学
 
 ![](../../image/Galaxy.jpg)
 
 *2025-2026年春季学期*
 
-## 上课时间/地点
+### 上课时间/地点
 
 * 周二晚11-13节
 * 裕华校区综合楼201
 
-## 参考教材
+### 参考教材
 
 * **Galaxies in the Universe: An Introduction**, *Linda S. Sparke & John S. Gallagher, III*
     * 中译本：**宇宙中的星系**, *邹振隆 译*, 中国科学技术出版社
@@ -22,7 +22,7 @@ layout: default
 * **Galaxy Formation and Evolution**, *Houjun Mo, Frank van den Bosch, Simon White*
 * **Extragalactic Astronomy and Cosmology: An Introduction**, *Peter Schneider*
 
-## 课程安排
+### 课程安排
 
 时间 | 内容 
 ----|----
