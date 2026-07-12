@@ -18,7 +18,7 @@ I received my Ph.D. in Astrophysics from the [Shanghai Astronomical Observatory,
 
 ## 🏛️ Appointments / 工作经历
 
-* 2023.12 - Present, Associate Professor, College of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
+* 2022.12 - Present, Associate Professor, College of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 * 2020.09 - 2022.12, Lecturer, College of Physics, [Hebei Normal University](http://www.hebtu.edu.cn/)
 
 ## 💰 Funding / 科研项目
