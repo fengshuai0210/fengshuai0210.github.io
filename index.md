@@ -31,7 +31,7 @@ Current work focuses on:
 
 👉 [Teaching Details](./teaching/)
 
-## 👥 Our Group / 研究小组
+## 👥 Our Group / 研究团队
 
 Our group welcomes students interested in galaxy evolution, observational astronomy, integral field spectroscopy, and astronomical data analysis.
 

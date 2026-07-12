@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Research Group
+# Research Group / 研究团队
 
 Our research group mainly focuses on the formation and evolution of galaxies, with particular attention to the physical mechanisms involved in galaxy interactions and mergers. By utilizing large-scale survey data and numerical simulations, we investigate the kinematics, morphological structures, and star formation histories of galaxies through statistical analysis of large samples and integral field spectroscopy techniques.
 
