@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Galactic Astronomy（星系天文学）
+# Galactic Astronomy / 星系天文学
 
 ![](../../image/Galaxy.jpg)
 

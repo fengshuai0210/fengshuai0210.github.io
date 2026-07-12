@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Optics（光学）
+# Optics / 光学
 
 ![](/image/optics.jpg)
 
-*2024-2025年秋季学期*
+*2023-2024年秋季学期*
 
 ## 上课时间/地点
 

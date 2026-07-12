@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# On-post Teaching Practice (顶岗实习)
+# On-post Teaching Practice / 顶岗实习
 
 ![](./image/On-Post-Teaching-Practice.png)
 

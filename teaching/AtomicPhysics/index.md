@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Atomic Physics（原子物理学）
+# Atomic Physics / 原子物理学
 
 ![](../../image/atomicphysics.png)
 

@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Observational Astronomy（实测天体物理）
+# Observational Astronomy / 实测天体物理
+
 ## Multi-Wavelength Astronomy Part
 
 ![](../../image/obsastro.png)

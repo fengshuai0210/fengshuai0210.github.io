@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Data Analysis for Astronomy (天文数据处理方法)
+# Data Analysis for Astronomy / 天文数据处理方法
 
 ![](/image/astrodata.jpg)
 
