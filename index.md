@@ -45,9 +45,6 @@ Our group welcomes students interested in galaxy evolution, observational astron
 
 #### ⏳ Upcoming / 近期预告
 
-Jul 28, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
-
 Jul 18, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Youth Astronomy Forum of the Chinese Astronomical Society**, Xichang, Sichuan
 
