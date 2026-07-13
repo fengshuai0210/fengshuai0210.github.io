@@ -26,7 +26,7 @@ layout: default
 45. *Observational Properties of Multiple Interacting Systems*, **2026 LAMOST User Training Workshop**, 2026.07, Suzhou, Jiangsu
 44. *Suppression of Star Formation by Hot CGM in Galaxy Mergers*, **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, 2026.06, Suzhou, Jiangsu
 43. *Star Formation Along the Galaxy Merger Sequence: The Roles of Tidal Interaction, Gas Inflow, and CGM Regulation*, **2026 Guoshoujing Conference**, 2026.05, Haikou, Hainan
-42. *Simulating the Scientific Image of Intergral Field Spectrograph in CSST*, **CSST Scientific Simulation Research Conference**, 2026.01, Beijing, China
+42. *Simulation of Scientific Image For Intergral Field Spectrograph in CSST*, **CSST Scientific Simulation Research Conference**, 2026.01, Beijing, China
 
 #### 2025
 41. *Morphology of Member Galaxies in Galaxy Pairs and CSST-IFS Scientific Imaging Simulation*, **2025 Annual Science Conference and Early Science Symposium of the China Space Station Telescope**, 2025.07, Kunming, Yunnan
