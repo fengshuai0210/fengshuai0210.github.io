@@ -8,6 +8,7 @@ SEMESTER | COURSE | ROLE
 ---------|--------|------
 2026 Spring | **[Galactic Astronomy](/teaching/Galaxy/)**<br>**星系天文学** |  **Lecturer**
 2026 Spring | **[Observational Astronomy](/teaching/ObsAstro/)**<br>**实测天体物理** | **Co-lecturer** <small><br><i>with</i> Prof. Ji Li & Prof. Jiawei Luo</small>
+2025 Fall   | **[Observational Astronomy Practice](/teaching/ObsAstroPractice/)**<br>**实测天体物理实习** | **Co-lecturer** <small><br><i>with</i> Prof. Ji Li & Prof. Jiawei Luo</small>
 2025 Fall   | **[Atomic Physics](/teaching/AtomicPhysics/)**<br>**原子物理学** | **Lecturer** 
 2025 Fall   | **[Data Analysis for Astronomy](/teaching/AstroData/)**<br>**天文数据处理方法** | **Co-lecturer** <small><br><i>with</i> Prof. Wenyuan Cui</small>
 2025 Spring | **[Galactic Astronomy](/teaching/Galaxy/)**<br>**星系天文学** |  **Lecturer**

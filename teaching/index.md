@@ -10,8 +10,9 @@ COURSE | TIME / LOCATION | ROLE
 -------|-----------------|------
 **[Atomic Physics](/teaching/AtomicPhysics/)**<br>**原子物理学** | 周二3-5节<br>公教楼A-306 | **Lecturer**
 **[Data Analysis for Astronomy](/teaching/AstroData/)**<br>**天文数据处理方法** | 周二6-8节<br>公教楼C-110 | **Co-lecturer** <small><br><i>with</i> Prof. Wenyuan Cui</small>
+**[Observational Astronomy Practice](/teaching/ObsAstroPractice/)**<br>**实测天体物理实习** | 国家天文台<br>兴隆观测站 | **Co-lecturer** <small><br><i>with</i> Prof. Jiawei Luo</small>
 
-### 🌸 2026 Spring Semester / 2026年春季学期
+###  2026 Spring Semester / 2026年春季学期
 
 COURSE | TIME / LOCATION | ROLE
 -------|-----------------|------
