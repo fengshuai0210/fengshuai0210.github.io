@@ -3,13 +3,13 @@ layout: default
 is_links: true
 ---
 
-# Useful Links
+## Useful Links
 
 > 天文与天体物理研究常用资源汇集
 
 ---
 
-## 📚 学术期刊 / Academic Journals
+### 📚 学术期刊 / Academic Journals
 
 | 缩写 | 全称 |
 |:---:|------|
@@ -30,7 +30,7 @@ is_links: true
 
 ---
 
-## 📡 天文数据中心 / Data Archives & Databases
+### 📡 天文数据中心 / Data Archives & Databases
 
 | 缩写 | 全称 |
 |:---:|------|
@@ -48,7 +48,7 @@ is_links: true
 
 ---
 
-## 🔭 主要天文台与设备 / Major Observatories & Facilities
+### 🔭 主要天文台与设备 / Major Observatories & Facilities
 
 | 缩写 | 全称 |
 |:---:|------|
@@ -67,7 +67,7 @@ is_links: true
 
 ---
 
-## 📄 预印本与文献检索 / Preprints & Literature
+### 📄 预印本与文献检索 / Preprints & Literature
 
 | 缩写 | 全称 |
 |:---:|------|
@@ -78,7 +78,7 @@ is_links: true
 
 ---
 
-## 🛠 常用软件与工具 / Software & Tools
+### 🛠 常用软件与工具 / Software & Tools
 
 | 缩写 | 全称 |
 |:---:|------|
@@ -95,7 +95,7 @@ is_links: true
 
 ---
 
-## 🏛 专业学会 / Professional Societies
+### 🏛 专业学会 / Professional Societies
 
 | 缩写 | 全称 |
 |:---:|------|

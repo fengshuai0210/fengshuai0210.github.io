@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Research Group
+## Research Group / 研究团队
 
 Our research group mainly focuses on the formation and evolution of galaxies, with particular attention to the physical mechanisms involved in galaxy interactions and mergers. By utilizing large-scale survey data and numerical simulations, we investigate the kinematics, morphological structures, and star formation histories of galaxies through statistical analysis of large samples and integral field spectroscopy techniques.
 
@@ -10,7 +10,7 @@ Our research group mainly focuses on the formation and evolution of galaxies, wi
 
 ---
 
-## 🚀 Join Us / 加入我们
+### 🚀 Join Us / 加入我们
 
 We welcome highly motivated undergraduate and graduate students to join our group. If you're interested in galaxy evolution, observational astronomy, or data analysis, feel free to reach out.
 
@@ -20,7 +20,7 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ---
 
-## 👥 Current Members / 团队成员
+### 👥 Current Members / 团队成员
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
@@ -30,15 +30,15 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ---
 
-## 📚 Academic Activities / 学术活动
+### 📚 Academic Activities / 学术活动
 
-### Journal Club
+#### Journal Club
 - **Time / 时间**: Every Tuesday, 15:30 <br> 每周二下午15:30  
 - **Location / 地点**: Building 2, Room C320, Science Complex <br> 理科群2号楼C320  
 
 ---
 
-## 📝 Publications / 论文发表
+### 📝 Publications / 论文发表
 
 Below is a list of selected refereed journal papers published by undergraduate and graduate students in our group.
 以下为课题组学生在导师指导下发表的部分国际同行评议期刊论文。
@@ -48,7 +48,7 @@ Below is a list of selected refereed journal papers published by undergraduate a
 
 ---
 
-## 🏅 Awards & Funding / 荣誉与资助
+### 🏅 Awards & Funding / 荣誉与资助
 
 Below is a list of selected honors, scholarships, and funding received by students in our group.  
 以下是课题组学生获得的部分荣誉、奖学金和科研资助。
@@ -65,7 +65,7 @@ Below is a list of selected honors, scholarships, and funding received by studen
 
 ---
 
-## 🎓 Alumni / 毕业成员
+### 🎓 Alumni / 毕业成员
 
 Below is a list of students who have completed their undergraduate or master's thesis research under my supervision.  
 以下是已完成本科或硕士毕业研究的学生名单。

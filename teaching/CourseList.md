@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 📜 Previous Courses / 往期课程
+## 📜 Previous Courses / 往期课程
 
 SEMESTER | COURSE | ROLE 
 ---------|--------|------
@@ -23,7 +23,7 @@ SEMESTER | COURSE | ROLE
 2022 Fall   | **[Data Analysis for Astronomy](/teaching/AstroData/)**<br>**天文数据处理方法** | **Co-lecturer** <small><br><i>with</i> Prof. Wenyuan Cui</small>
 2022 Spring | **[Galactic Astronomy](/teaching/Galaxy/)**<br>**星系天文学** |  **Lecturer**
 2022 Spring | **[Observational Astronomy](/teaching/ObsAstro/)**<br>**实测天体物理** | **Co-lecturer** <small><br><i>with</i> Prof. Ji Li</small>
-2021 Fall   | **[Optics](/teaching/Optics/index.md)**<br>**光学** | **Lecturer** 
+2021 Fall   | **[Optics](/teaching/Optics/)**<br>**光学** | **Lecturer** 
 2021 Fall   | **[Data Analysis for Astronomy](/teaching/AstroData/)**<br>**天文数据处理方法** | **Co-lecturer** <small><br><i>with</i> Prof. Wenyuan Cui</small>
 2021 Spring | **Graduation Practice**<br>**毕业实习** | **Co-lead teacher** <small><br><i>with</i> Prof. Ji Li</small>
 2021 Spring | **General Physics Expriment I**<br>**普通物理实验（一）** | **Co-lecturer** <small><br><i>with</i> Prof. Jing He</small>

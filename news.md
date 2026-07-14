@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# News / 新闻动态
+## News / 新闻动态
 *Since Sep 01, 2020*
 
 <span style="white-space: nowrap;"><img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Award/Funding / 奖项与基金**</span> <span style="white-space: nowrap;"><img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Publication / 论文发表**</span> <span style="white-space: nowrap;"><img src="/image/talk-icon.png" style="width:30px;height:30px;"> **Talk / 学术报告**</span> <span style="white-space: nowrap;"><img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Meeting / 学术会议**</span> <span style="white-space: nowrap;"><img src="/image/event-icon.png" style="width:30px;height:30px;"> **Other / 其他动态**</span>
 
 ----
-## 2026
+### 2026
 
 Jul 28, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
@@ -56,7 +56,7 @@ Jan 07, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Scientific Simulation Research Conference**, Beijing
 
 ----
-## 2025
+### 2025
 
 Nov 18, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Mock Observations for the CSST Mission: Multi-Channel Imager--Instrument Simulation** by Yan et al., [arXiv](https://arxiv.org/abs/2511.12481)
@@ -125,7 +125,7 @@ Apr 01, 2025\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Yaotian Duan** was admitted to the master's program at Dalian University of Technology
 
 ----
-## 2024
+### 2024
 
 Dec 30, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Cailu Shi was awarded a Graduate Student Innovation Project grant from Hebei Normal University (2025)
@@ -182,7 +182,7 @@ Feb 28, 2024\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the **38th On-post Teaching Practice** in Chengde
 
 ----
-## 2023
+### 2023
 
 Nov 28, 2023\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Identification of Blue Horizontal-Branch Stars From LAMOST DR5** by Ju et al., [arXiv](https://arxiv.org/abs/2311.16430)
@@ -263,7 +263,7 @@ Jan 01, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Master Tutor of Astronomy** at College of Physics, Hebei Normal University
 
 ----
-## 2022
+### 2022
 
 Dec 22, 2022\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> **Associate Professor** at College of Physics, Hebei Normal University
@@ -296,7 +296,7 @@ Jan 15, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope 2021**, Beijing
 
 ----
-## 2021
+### 2021
 
 Dec 15, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 Data** by SDSS-IV Collaboration Team, [arXiv](https://arxiv.org/abs/2112.02026)
@@ -335,7 +335,7 @@ Feb 01, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars** by Yu et al., [arXiv](https://arxiv.org/abs/2102.00731)
 
 ----
-## 2020
+### 2020
 Dec 05, 2020\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Star Formation and Nuclear Activity in Galaxies 2020**, Suzhou, Jiangsu
 

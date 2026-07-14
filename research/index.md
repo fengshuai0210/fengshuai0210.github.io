@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Research / 研究
+## Research / 研究
 
 My research focuses on the **formation and evolution of galaxies**, combining observational data, numerical simulations, and mock observations for future facilities. The central question is how interactions, gas dynamics, star formation, chemical enrichment, and environment shape galaxy evolution. This question is explored through large galaxy surveys, integral field spectroscopy, multi-wavelength gas observations, and simulation-based tools.
 
@@ -10,7 +10,7 @@ The work is organized around three closely connected themes:
 
 ---
 
-## 🌌 Galaxy Interactions and Mergers / 星系相互作用与并合
+### 🌌 Galaxy Interactions and Mergers / 星系相互作用与并合
 
 ![](../image/MergerSequence.jpg)
 
@@ -28,7 +28,7 @@ Beyond binary galaxy pairs, more complex environments extend the same questions 
 
 ---
 
-## 💫 Gas Kinematics and Gas Cycling / 气体运动学与气体循环
+### 💫 Gas Kinematics and Gas Cycling / 气体运动学与气体循环
 
 Gas kinematics provides a direct view of how galaxies redistribute baryons inside their disks. While morphology shows where a galaxy has been disturbed, velocity fields show how gas is actually moving, making integral-field spectroscopy a powerful tool for connecting gas inflow, star formation, and chemical enrichment.
 
@@ -38,7 +38,7 @@ Non-circular gas motions are not limited to visibly disturbed systems. In appare
 
 ---
 
-## 🔭 Integral Field Spectroscopy and Mock Observations / 积分场光谱与模拟观测
+### 🔭 Integral Field Spectroscopy and Mock Observations / 积分场光谱与模拟观测
 
 Integral field spectroscopy is central to this research because it connects galaxy structure with spatially resolved measurements of emission lines, gas kinematics, metallicity, and stellar populations. For questions involving gas redistribution, star formation, and chemical enrichment, IFS data make it possible to move beyond global galaxy properties and examine where the relevant physical processes take place inside galaxies.
 
@@ -48,11 +48,11 @@ The same mock-observation framework also extends to CSST imaging. Simulations fo
 
 ---
 
-## 📄 Publications / 发表论文
+### 📄 Publications / 发表论文
 
 [Full Publication List](publication.md) · [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/Q_B15QrhSuyevVM7sqkXPQ) · [Full Talk List](talk.md)
 
-### ⭐ Selected Papers / 代表性论文
+#### ⭐ Selected Papers / 代表性论文
 
 1. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..115S/abstract), 2026, *The Astrophysical Journal*, 1004, 115
 2. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..128L/abstract), 2026, *The Astrophysical Journal*, 1000, 128

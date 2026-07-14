@@ -8,7 +8,7 @@ is_contact: true
 
 ---
 
-## Mailing Address
+### Mailing Address
 Science Building 2-B601
 
 South Erhuan Road No. 20, Hebei Normal University
@@ -17,7 +17,7 @@ Shijiazhuang, Hebei Province, China
 
 ---
 
-## Social
+### Social
 
 [Facebook](#)
 

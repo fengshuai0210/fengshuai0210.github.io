@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# On-post Teaching Practice (顶岗实习)
+## On-post Teaching Practice / 顶岗实习
 
 ![](./image/On-Post-Teaching-Practice.png)
 
@@ -14,9 +14,9 @@ layout: default
 
 [河北师范大学顶岗支教指导中心](http://dgsxb.hebtu.edu.cn/)
 
-## 实习学校
+### 实习学校
 
-### 承德市承德县
+#### 承德市承德县
 
 ##### 承德县第二中学
 
@@ -30,7 +30,7 @@ layout: default
 
 ![](./image/chengde_zhijiao.jpg)
 
-### 承德市宽城满族自治县
+#### 承德市宽城满族自治县
 
 ##### 宽城满族自治县第二满族中学
 
