@@ -45,18 +45,21 @@ Our group welcomes students interested in galaxy evolution, observational astron
 
 #### ⏳ Upcoming / 近期预告
 
-Jul 18, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Youth Astronomy Forum of the Chinese Astronomical Society**, Xichang, Sichuan
+Aug 17, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Symposium on Molecular Clouds and Star Formation**
+
+Jul 28, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
 
 #### ⏮ Past / 往期动态
+
+Jul 18, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Youth Astronomy Forum of the Chinese Astronomical Society**, Xichang, Sichuan
 
 Jul 09, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 LAMOST User Training Workshop**, Suzhou, Jiangsu
 
 Jun 10, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Yijin Niu received university-level funding from the **College Student Innovation Program**
-
-Jun 04, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Diffuse Hot Gas and Space-Based X-Ray Telescopes**, Suzhou, Jiangsu
 
 👉 **[Previous News](./news)**

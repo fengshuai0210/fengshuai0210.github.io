@@ -21,6 +21,7 @@ layout: default
 
 #### 2026
 
+48. *Linking Gas Kinematics to Star Formation and the Baryon Cycle in Nearby Galaxies*, **2026 Symposium on Molecular Clouds and Star Formation**, 2026.08, Shijiazhuang, Hebei
 47. *Star Formation Along the Galaxy Merger Sequence*, **2026 Annual Science Conference of the China Space Station Telescope**, 2026.07, Kashgar, Xinjiang
 46. *Star Formation Evolution Along the Galaxy Merger Sequence*, **2026 Youth Astronomy Forum of the Chinese Astronomical Society**, 2026.07, Xichang, Sichuan
 45. *Observational Properties of Multiple Interacting Systems*, **2026 LAMOST User Training Workshop**, 2026.07, Suzhou, Jiangsu
