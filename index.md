@@ -48,7 +48,7 @@ Our group welcomes students interested in galaxy evolution, observational astron
 Aug 17, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Symposium on Molecular Clouds and Star Formation**
 
-Jul 28, 2026\
+Jul 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
 
 #### ⏮ Past / 往期动态
