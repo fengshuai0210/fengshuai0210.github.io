@@ -25,6 +25,9 @@ Jul 18, 2026\
 Jul 09, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 LAMOST User Training Workshop**, Suzhou, Jiangsu
 
+Jun 22, 2026\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Received the **Outstanding Teacher of Undergraduate Teaching Quality** award (2025), Hebei Normal University
+
 Jun 10, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Yijin Niu received university-level funding (No. X202610094074) from the **College Student Innovation Program**
 
@@ -281,7 +284,7 @@ Sep 07, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MaNGA 8313-1901: gas accretion observed in a blue compact dwarf galaxy?** by Ju et al., [arXiv](https://arxiv.org/abs/2209.03298)
 
 Aug 26, 2022\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Received the **Outstanding Teacher of Undergraduate Teaching Quality** award, Hebei Normal University
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Received the **Outstanding Teacher of Undergraduate Teaching Quality** award (2022), Hebei Normal University
 
 Jul 13, 2022\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Velocity Map Asymmetry of Ionized Gas in MaNGA. I. The Catalog and General Properties** by Feng et al., [arXiv](https://arxiv.org/abs/2207.06050)
