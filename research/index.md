@@ -71,4 +71,4 @@ The same mock-observation framework also extends to CSST imaging. Simulations fo
 
 [^people]: 《人民日报海外版》第01版报道：[中国在巡天空间望远镜科学仿真研究上取得进展](https://paper.people.com.cn/rmrbhwb/pc/content/202601/08/content_30130364.html) (2026-01-08)。
 
-[^cna]: 中国国家天文（Chinese National Astronomy）微信公众号科普文章：[星光未至，数据先行 | 中国空间站巡天空间望远镜](https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659394508&idx=1&sn=acb175fcaf2dbe72984599377e5a6da6&chksm=bc60e84e94fab4c23098f598126c3a7d54fa3953639981d599bb7e7f1fe2d45842579988a350&scene=27) (2026-05-14)，选自《中国国家天文》2026年第4期；其中“积分视场光谱仪的预演”一节由冯帅、颜召军撰写。
+[^cna]: 中国国家天文（Chinese National Astronomy）科普文章：[星光未至，数据先行 | 中国空间站巡天空间望远镜](https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659394508&idx=1&sn=acb175fcaf2dbe72984599377e5a6da6&chksm=bc60e84e94fab4c23098f598126c3a7d54fa3953639981d599bb7e7f1fe2d45842579988a350&scene=27) (2026-05-14)。
