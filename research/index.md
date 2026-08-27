@@ -67,7 +67,7 @@ The same mock-observation framework also extends to CSST imaging. Simulations fo
 
 [^cctv]: 央视《朝闻天下》报道：[中国空间站巡天空间望远镜 科学仿真研究系列成果发布](https://tv.cctv.com/2026/01/08/VIDE45iTnn8WhBIvDWdV6Fgq260108.shtml) (2026-01-08)。
 
-[^cas]: 中国科学院网站转载中国新闻网报道：[中国空间站巡天空间望远镜科学仿真研究获重要进展 发表系列成果](https://www.cas.cn/cm/202601/t20260108_5095577.shtml) (2026-01-08)。
+[^cas]: 中国新闻网 (China News Service) 报道：[中国空间站巡天空间望远镜科学仿真研究获重要进展 发表系列成果](https://www.chinanews.com.cn/gn/2026/01-07/10547637.shtml) (2026-01-07)。
 
 [^people]: 《人民日报海外版》第01版报道：[中国在巡天空间望远镜科学仿真研究上取得进展](https://paper.people.com.cn/rmrbhwb/pc/content/202601/08/content_30130364.html) (2026-01-08)。
 
