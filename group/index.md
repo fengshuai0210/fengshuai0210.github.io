@@ -43,8 +43,10 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 Below is a list of selected refereed journal papers published by undergraduate and graduate students in our group.
 以下为课题组学生在导师指导下发表的部分国际同行评议期刊论文。
 
-1. **Shaoze Geng**, Shuai Feng, **Shuhao Chen**, **Yaotian Duan**, Shiyin Shen, **Cailu Shi**, **Yijin Niu**, **Bingxi Huo**, Linlin Li, Wenyuan Cui, Guozhen Hu, [Tracing Star Formation Evolution in Galaxy Pairs with Morphological Disturbances and Recent Star Formation Histories](), 2026, submitted
-2. **Cailu Shi**, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2006, *The Astrophysical Journal*, 1004, 115
+<span style="background-color:#cce5ff">本科生 / Undergraduate</span> <span style="background-color:#ffe6cc; margin-left: 1.5em;">研究生 / Graduate</span>
+
+1. <span style="background-color:#cce5ff">Shaoze Geng</span>, Shuai Feng, <span style="background-color:#cce5ff">Shuhao Chen</span>, <span style="background-color:#cce5ff">Yaotian Duan</span>, Shiyin Shen, <span style="background-color:#ffe6cc">Cailu Shi</span>, <span style="background-color:#cce5ff">Yijin Niu</span>, <span style="background-color:#ffe6cc">Bingxi Huo</span>, Linlin Li, Wenyuan Cui, Guozhen Hu, [Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories](), 2026, accepted by *The Astrophysical Journal*
+2. <span style="background-color:#ffe6cc">Cailu Shi</span>, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2006, *The Astrophysical Journal*, 1004, 115
 
 ---
 
