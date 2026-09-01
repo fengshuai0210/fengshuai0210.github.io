@@ -147,7 +147,7 @@ layout: default
 
 ### 📮 参与方式 / How to Join
 
-欢迎感兴趣的同学优先通过钉钉联系冯帅老师，也可以发送邮件至 [sfeng\[at\]hebtu.edu.cn](mailto:sfeng@hebtu.edu.cn)。联系时请简单说明：
+欢迎感兴趣的同学优先通过钉钉联系冯帅老师，也可以发送邮件至 sfeng_at_hebtu.edu.cn。联系时请简单说明：
 
 * 年级和专业
 * 已学课程、兴趣方向或相关经历
