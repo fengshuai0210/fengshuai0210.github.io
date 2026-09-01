@@ -46,7 +46,7 @@ Below is a list of selected refereed journal papers published by undergraduate a
 <span style="background-color:#cce5ff">本科生 / Undergraduate</span> <span style="background-color:#ffe6cc; margin-left: 1.5em;">研究生 / Graduate</span>
 
 1. <span style="background-color:#cce5ff">Shaoze Geng</span>, Shuai Feng, <span style="background-color:#cce5ff">Shuhao Chen</span>, <span style="background-color:#cce5ff">Yaotian Duan</span>, Shiyin Shen, <span style="background-color:#ffe6cc">Cailu Shi</span>, <span style="background-color:#cce5ff">Yijin Niu</span>, <span style="background-color:#ffe6cc">Bingxi Huo</span>, Linlin Li, Wenyuan Cui, Guozhen Hu, [Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories](), 2026, accepted by *The Astrophysical Journal*
-2. <span style="background-color:#ffe6cc">Cailu Shi</span>, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](), 2006, *The Astrophysical Journal*, 1004, 115
+2. <span style="background-color:#ffe6cc">Cailu Shi</span>, Shuai Feng, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..115S/abstract), 2006, *The Astrophysical Journal*, 1004, 115
 
 ---
 
