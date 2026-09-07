@@ -10,6 +10,15 @@ layout: default
 ----
 ### 2026
 
+Sep 08, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the observational astrophysics practice at the **Xinglong Observatory**, National Astronomical Observatories, Chinese Academy of Sciences
+
+Sep 07, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories** by Geng et al., [arXiv](https://arxiv.org/abs/2609.04560)
+
+Sep 05, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a docent at the **National Science Popularization Month** activity at the Hebei Science and Technology Museum
+
 Aug 17, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Symposium on Molecular Clouds and Star Formation**
 
@@ -95,7 +104,7 @@ Jul 04, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST User Training Workshop**, Hangzhou, Zhejiang
 
 Jul 02, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatories, Chinese Academy of Sciences**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
 
 Jul 01, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
@@ -107,7 +116,7 @@ Jun 27, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Mergers and Interactions in the Era of Space Telescopes**, Suzhou, Jiangsu
 
 Jun 21, 2025\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Awarded a General Program Grant from the *Hebei Natural Science Foundation* (A2025205037)
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Awarded a General Program Grant from the **Hebei Natural Science Foundation** (A2025205037)
 
 May 31, 2025\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Shaoze Geng** was admitted to the master's program at the National Astronomical Observatories, Chinese Academy of Sciences
@@ -122,7 +131,7 @@ May 19, 2025\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **3rd AI-Driven Astronomy**, Changchun, Jilin
 
 May 15, 2025\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Received the Outstanding Faculty of the College of Physics award (2024), Hebei Normal University
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Received the **Outstanding Faculty of the College of Physics** award (2024), Hebei Normal University
 
 May 10, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcomed new undergraduate student member, **Yijin Niu (牛艺瑾)**!
@@ -155,7 +164,7 @@ Oct 10, 2024\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Symposium**, Yinchuan, Ningxia
 
 Sep 14, 2024\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shaoze Geng won the **Excellent Prize of the Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shaoze Geng won the **Excellent Prize in the Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
 
 Sep 04, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MSA-3D: Metallicity Gradients in Galaxies at z∼1 with JWST/NIRSpec Slit-stepping Spectroscopy** by Ju et al., [arXiv](https://arxiv.org/abs/2409.01616)
@@ -170,7 +179,7 @@ Jul 21, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shaoze Geng won **Third Prize in the 2024 Chinese Undergraduate Astronomical Innovation Contest**
 
 Jun 14, 2024\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Education and Sports Bureau of Chengde County**, Chengde, Hebei
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **the Education and Sports Bureau of Chengde County**, Chengde, Hebei
 
 May 26, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Identification of A-type supergiants from LAMOST DR5** by Huo et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1244H/abstract)
@@ -230,7 +239,7 @@ Jul 20, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Symposium on Multi-Wavelength Studies of Quasars and Active Galactic Nuclei**, Lijiang, Yunnan
 
 Jul 14, 2023\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Became a **member of the LAMOST User Committee**
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a **member of the LAMOST User Committee**
 
 Jun 28, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation Mini Workshop at Shanghai Astronomical Observatory**, Shanghai
@@ -298,6 +307,9 @@ May 19, 2022\
 May 15, 2022\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Received the **Outstanding Faculty of the College of Physics** award (2021), Hebei Normal University
 
+Feb 06, 2022\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, Beijing
+
 Jan 21, 2022\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **8th Interstellar Physics and Chemistry Symposium**, Zhuhai, Guangdong
 
@@ -336,9 +348,6 @@ Apr 24, 2021\
 
 Apr 12, 2021\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galactic Evolution and the Large Field of View Survey 2021**, Yixing, Jiangsu
-
-Feb 06, 2022\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk (online) at **2021 Annual Symposium on the Scientific Data Processing System of Chinese Space Station Telescope**, Beijing
 
 Feb 01, 2021\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The Flare and Warp of the Young Stellar Disk traced with LAMOST DR5 OB-type stars** by Yu et al., [arXiv](https://arxiv.org/abs/2102.00731)

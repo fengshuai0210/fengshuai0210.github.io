@@ -35,7 +35,7 @@ Current work focuses on:
 
 Our group welcomes students interested in galaxy evolution, observational astronomy, integral field spectroscopy, and astronomical data analysis.
 
-* Graduate Student: Bingxu Huo (霍柄锡)
+* Graduate Student: Bingxi Huo (霍柄锡)
 * Undergraduate Students: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇)
 
 *[Join Our Group (加入我们)](./group/)*
@@ -45,18 +45,24 @@ Our group welcomes students interested in galaxy evolution, observational astron
 
 #### ⏳ Upcoming / 近期预告
 
-Aug 17, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Symposium on Molecular Clouds and Star Formation**
+Sep 08, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the observational astrophysics practice at the **Xinglong Observatory**, National Astronomical Observatories, Chinese Academy of Sciences
 
 #### ⏮ Past / 往期动态
+
+Sep 07, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories** by Geng et al., [arXiv](https://arxiv.org/abs/2609.04560)
+
+Sep 05, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a docent at the **National Science Popularization Month** activity at the Hebei Science and Technology Museum
+
+Aug 17, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Symposium on Molecular Clouds and Star Formation**
 
 Jul 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
 
 Jul 28, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Challenge problem selected as **Excellent Topic** of the **CSST Scientific Data Challenge Competition**
-
-Jul 18, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Youth Astronomy Forum of the Chinese Astronomical Society**, Xichang, Sichuan
 
 👉 **[Previous News](./news)**

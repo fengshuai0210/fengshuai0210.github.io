@@ -7,7 +7,7 @@ layout: default
 ### 📝 Peer Reviewed Papers / 学术论文
 
 #### ⭐ First/Corresponding Author Paper / 第一/通讯作者论文
-10. Shaoze Geng, **Shuai Feng**, Shuhao Chen, Yaotian Duan, Shiyin Shen, Cailu Shi, Yijin Niu, Bingxi Huo, Linlin Li, Wenyuan Cui, Guozhen Hu, [Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories](), 2026, accepted by *The Astrophysical Journal*
+10. Shaoze Geng, **Shuai Feng**, Shuhao Chen, Yaotian Duan, Shiyin Shen, Cailu Shi, Yijin Niu, Bingxi Huo, Linlin Li, Wenyuan Cui, Guozhen Hu, [Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories](https://arxiv.org/abs/2609.04560), 2026, accepted by *The Astrophysical Journal*
 9. Cailu Shi, **Shuai Feng**, Shiyin Shen, Linlin Li, Wenyuan Cui, Guozhen Hu, [Radial Distribution of Star Formation and Metallicity in Spiral-Elliptical Galaxy Pairs](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..115S/abstract), 2026, *The Astrophysical Journal*, 1004, 115
 8. Linlin Li, **Shuai Feng**, Shiyin Shen, Qi'an Deng, Ying Zu, Wenyuan Cui, [Reduction of Bar Fraction in Paired Galaxies in the SDSS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000..128L/abstract), 2026, *The Astrophysical Journal*, 1000, 128
 7. **Shuai Feng**, Shiyin Shen, Wei Chen, Zhaojun Yan, Renhao Ye, Jianjun Chen, Xuejie Dai, Junqiang Ge, Lei Hao, Ran Li, Yu Liang, Lin Lin, Fengshan Liu, Jiafeng Lu, Zhengyi Shao, Maochun Wu, Yifei Xiong, Chun Xu, Jun Yin, [Mock Observations for the CSST Mission: Integral Field Spectrograph -- GEHONG: A Package for Generating Ideal Datacubes](https://ui.adsabs.harvard.edu/abs/2026RAA....26b4009F/abstract), 2026, *Research in Astronomy and Astrophysics*, 26, 024009
