@@ -12,7 +12,7 @@ COURSE | TIME / LOCATION | ROLE
 **[Data Analysis for Astronomy](/teaching/AstroData/)**<br>**天文数据处理方法** | 周二6-8节<br>综合楼-205 | **Co-lecturer** <small><br><i>with</i> Prof. Wenyuan Cui</small>
 **[Observational Astronomy Practice](/teaching/ObsAstroPractice/)**<br>**实测天体物理实习** | 国家天文台<br>兴隆观测站 | **Co-lecturer** <small><br><i>with</i> Prof. Jiawei Luo</small>
 
-###  2026 Spring Semester / 2026年春季学期
+### 🌸 2026 Spring Semester / 2026年春季学期
 
 COURSE | TIME / LOCATION | ROLE
 -------|-----------------|------
