@@ -62,7 +62,4 @@ Aug 17, 2026\
 Jul 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
 
-Jul 28, 2026\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Challenge problem selected as **Excellent Topic** of the **CSST Scientific Data Challenge Competition**
-
 👉 **[Previous News](./news)**
