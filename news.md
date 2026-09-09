@@ -11,10 +11,10 @@ layout: default
 ### 2026
 
 Sep 29, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Department of Astronomy, University of Science and Technology of China**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
 Sep 16, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
 
 Sep 08, 2026\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the observational astrophysics practice at the **Xinglong Observatory**, National Astronomical Observatories, Chinese Academy of Sciences
@@ -110,7 +110,7 @@ Jul 04, 2025\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2025 LAMOST User Training Workshop**, Hangzhou, Zhejiang
 
 Jul 02, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
 
 Jul 01, 2025\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Misaligned external gas acquisition boosts central black hole activities** by Zhou et al., [arXiv](https://arxiv.org/abs/2507.00627)
