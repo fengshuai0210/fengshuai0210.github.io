@@ -4,7 +4,7 @@ layout: default
 
 ## Talk / 报告
 
-### 🎓 Seminar Talk / 邀请报告
+### 🎓 Seminar Talk / 学术报告
 
 #### 2025
 1. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **Shanghai Astronomical Observatory, Chinese Academy of Sciences**, 2025.03
