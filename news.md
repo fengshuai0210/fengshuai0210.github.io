@@ -77,7 +77,7 @@ Feb 17, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Reduction of bar fraction in paired galaxies in the SDSS** by Li et al., [arXiv](https://arxiv.org/abs/2602.14873)
 
 Jan 07, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Scientific Simulation Research Conference**, Beijing
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **CSST Scientific Simulation Research Conference**, Beijing
 
 ----
 ### 2025
@@ -143,7 +143,7 @@ May 10, 2025\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcomed new undergraduate student member, **Yijin Niu (牛艺瑾)**!
 
 Apr 17, 2025\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **National Astronomical Observatories, Chinese Academy of Sciences**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **National Astronomical Observatories, Chinese Academy of Sciences**
 
 Apr 01, 2025\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **Yaotian Duan** was admitted to the master's program at Dalian University of Technology
@@ -185,7 +185,7 @@ Jul 21, 2024\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shaoze Geng won **Third Prize in the 2024 Chinese Undergraduate Astronomical Innovation Contest**
 
 Jun 14, 2024\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **the Education and Sports Bureau of Chengde County**, Chengde, Hebei
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Popular science talk at **the Education and Sports Bureau of Chengde County**, Chengde, Hebei
 
 May 26, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Identification of A-type supergiants from LAMOST DR5** by Huo et al., [arXiv](https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.1244H/abstract)
@@ -221,7 +221,7 @@ Oct 09, 2023\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **Galaxy Formation in Hangzhou: Observations and Physics of AGN Feedback**, Hangzhou, Zhejiang
 
 Sep 18, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **South-Western Institute for Astronomy Research, Yunnan University**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **South-Western Institute for Astronomy Research, Yunnan University**
 
 Sep 10, 2023\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcomed new graduate student member, **Cailu Shi (石彩璐)**!
@@ -260,7 +260,7 @@ Jun 14, 2023\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> **University-level college student innovation project** led by undergraduate student member Shaoze Geng
 
 May 08, 2023\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **CSST Workshop on Scientific Data Processing Systems and Science Teams**, Quanzhou, Fujian
 
 Apr 26, 2023\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **Zhangheng Conference 2023**, Wuhan, Hubei
