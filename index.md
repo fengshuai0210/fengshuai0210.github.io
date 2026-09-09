@@ -46,10 +46,10 @@ Our group welcomes students interested in galaxy evolution, observational astron
 #### ⏳ Upcoming / 近期预告
 
 Sep 29, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Department of Astronomy, University of Science and Technology of China**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
 Sep 16, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
 
 #### ⏮ Past / 往期动态
 
