@@ -48,6 +48,12 @@ Our group welcomes students interested in galaxy evolution, observational astron
 Sep 08, 2026\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the observational astrophysics practice at the **Xinglong Observatory**, National Astronomical Observatories, Chinese Academy of Sciences
 
+Sep 16, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
+
+Sep 29, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Invited talk at **Department of Astronomy, University of Science and Technology of China**
+
 #### ⏮ Past / 往期动态
 
 Sep 07, 2026\
