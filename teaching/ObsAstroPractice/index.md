@@ -2,44 +2,45 @@
 layout: default
 ---
 
-# Observational Astronomy Practice / 实测天体物理实习
+## Observational Astronomy Practice / 实测天体物理实习
 
-**2026 年秋季学期**
-**地点**: 国家天文台兴隆观测站 (Xinglong Observatory, NAOC)
-**指导教师**: 冯帅 · 罗佳伟
+*2026-2027 学年秋季学期*
 
-## 实习简介
+### 📅 实习信息
 
-实测天体物理实习带领学生走进国家天文台兴隆观测站,实地认识大型天文观测设备及其运行。实习期间,同学们参观了 **2.16 米望远镜**、**郭守敬望远镜(LAMOST)** 与 **施密特望远镜**,了解了望远镜的仪器构造、观测流程与数据处理环境,把课堂上的实测天体物理知识带到了观测一线。
+* 时间：2026 年 9 月 8–10 日
+* 地点：国家天文台兴隆观测站 (Xinglong Observatory, NAOC)
 
-## 现场图片 (2026 年 9 月)
+### 🧪 实习简介
 
-<figure>
-  <img src="images/ObsAstroPractice-01-202609.jpg" alt="参观 2.16 米望远镜仪器构造" style="width:100%">
-  <figcaption>参观 2.16 米望远镜仪器构造</figcaption>
-</figure>
+实测天体物理实习是面向本科生的实践教学环节，旨在让学生走出课堂、走进真实观测一线，把《实测天体物理》课堂上学到的望远镜、探测器与观测原理，与国内正在运行的大型天文设备对应起来。
 
-<figure>
-  <img src="images/ObsAstroPractice-02-202609.jpg" alt="2.16 米望远镜观测过程参观" style="width:100%">
-  <figcaption>2.16 米望远镜观测过程参观</figcaption>
-</figure>
+本次实习（2026 年 9 月 8–10 日）在国家天文台兴隆观测站进行。同学们先后参观了站内的 **2.16 米望远镜、1.26 米红外望远镜、80 厘米与施密特望远镜**等光学设备，以及 **郭守敬望远镜（LAMOST）** 等大型巡天装置：走进 2.16 米望远镜内部观摩其仪器构造与观测过程，参观 LAMOST 内部结构，了解大规模光谱巡天望远镜的运行方式。
 
-<figure>
-  <img src="images/ObsAstroPractice-03-202609.jpg" alt="与 2.16 米望远镜合影" style="width:100%">
-  <figcaption>与 2.16 米望远镜合影</figcaption>
-</figure>
+通过实地参观与现场讲解，希望同学们能够：认识望远镜与终端仪器的构造及实测观测的基本流程；走近 **LAMOST** 等大科学装置，感受天文实测一线，为后续科研训练打下基础。
 
-<figure>
-  <img src="images/ObsAstroPractice-04-202609.jpg" alt="施密特望远镜前合影" style="width:100%">
-  <figcaption>施密特望远镜前合影</figcaption>
-</figure>
+### 📸 现场图片（2026 年 9 月）
 
-<figure>
-  <img src="images/ObsAstroPractice-05-202609.jpg" alt="与郭守敬望远镜合影" style="width:100%">
-  <figcaption>与郭守敬望远镜(LAMOST)合影</figcaption>
-</figure>
+![参观 2.16 米望远镜仪器构造](images/ObsAstroPractice-01-202609.jpg)
 
-<figure>
-  <img src="images/ObsAstroPractice-06-202609.jpg" alt="参观郭守敬望远镜内部结构" style="width:100%">
-  <figcaption>参观郭守敬望远镜内部结构</figcaption>
-</figure>
+参观 2.16 米望远镜仪器构造
+
+![2.16 米望远镜观测过程参观](images/ObsAstroPractice-02-202609.jpg)
+
+2.16 米望远镜观测过程参观
+
+![与 2.16 米望远镜合影](images/ObsAstroPractice-03-202609.jpg)
+
+与 2.16 米望远镜合影
+
+![施密特望远镜前合影](images/ObsAstroPractice-04-202609.jpg)
+
+施密特望远镜前合影
+
+![与郭守敬望远镜（LAMOST）合影](images/ObsAstroPractice-05-202609.jpg)
+
+与郭守敬望远镜（LAMOST）合影
+
+![参观郭守敬望远镜内部结构](images/ObsAstroPractice-06-202609.jpg)
+
+参观郭守敬望远镜内部结构
