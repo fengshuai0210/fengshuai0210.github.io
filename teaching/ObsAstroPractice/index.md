@@ -9,7 +9,7 @@ layout: default
 ### 📅 实习信息
 
 * 时间：2026 年 9 月 8–10 日
-* 地点：国家天文台兴隆观测站 (Xinglong Observatory, NAOC)
+* 地点：中国科学院国家天文台兴隆观测站 (Xinglong Observatory, NAOC)
 
 ### 🧪 实习简介
 
