@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="./image/sfeng2026.png">
+<img class="profile-picture" src="./image/sfeng2026.jpg">
 
 ## About Me / 关于我
 
