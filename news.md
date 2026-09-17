@@ -10,6 +10,9 @@ layout: default
 ----
 ### 2026
 
+Oct 28, 2026\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
+
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
