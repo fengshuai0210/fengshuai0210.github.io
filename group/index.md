@@ -57,6 +57,7 @@ Below is a list of selected honors, scholarships, and funding received by studen
 
 | Name <br> 姓名 | Year <br> 年份 | Award / Funding <br> 奖项 / 资助 | Organization <br> 颁发机构 |
 |---------------|---------------|---------------------------------|---------------------------|
+| Bingxi Huo <br> 霍柄锡 | 2026 | Merit Award in the China International College Students' Innovation Competition (2026), University Round <br> 中国国际大学生创新大赛（2026）校赛优秀奖 | Hebei Normal University <br> 河北师范大学 |
 | Yijin Niu <br> 牛艺瑾 | 2026 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Guitao Xu <br> 许桂涛 | 2025 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Cailu Shi <br> 石彩璐 | 2024 | Best Poster Award of the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
