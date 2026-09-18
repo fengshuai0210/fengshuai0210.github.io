@@ -54,6 +54,7 @@ Sep 29, 2026\
 #### ⏮ Past / 往期动态
 
 Sep 16, 2026\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
 
 Sep 08, 2026\

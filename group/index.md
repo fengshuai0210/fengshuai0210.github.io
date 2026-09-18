@@ -59,9 +59,9 @@ Below is a list of selected honors, scholarships, and funding received by studen
 |---------------|---------------|---------------------------------|---------------------------|
 | Yijin Niu <br> 牛艺瑾 | 2026 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
 | Guitao Xu <br> 许桂涛 | 2025 | College Student Innovation Program <br> 大学生创新创业训练项目, 校级资助 | Hebei Normal University <br> 河北师范大学 |
-| Cailu Shi <br> 石彩璐 | 2024 | Excellent Poster Award at the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
+| Cailu Shi <br> 石彩璐 | 2024 | Best Poster Award of the Guo Shoujing Conference <br> 郭守敬会最佳海报奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Cailu Shi <br> 石彩璐 | 2024 | Graduate Student Innovation Grant <br> 研究生创新能力培养资助项目 | Hebei Normal University <br> 河北师范大学 |
-| Shaoze Geng <br> 耿少泽 | 2024 | Excellent Prize of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
+| Shaoze Geng <br> 耿少泽 | 2024 | Merit Award of Linbridge Prize <br> 林桥优秀奖 | Department of Astronomy, Peking University <br> 北京大学天文系 |
 | Shaoze Geng <br> 耿少泽 | 2024 | Third Prize in Chinese Undergraduate Astronomical Innovation Contest<br> 全国大学生天文创新作品竞赛三等奖 | Chinese Astronomical Society <br> 中国天文学会 |
 | Shaoze Geng <br> 耿少泽 | 2023 | College Student Innovation Program <br> 大学生创新创业训练项目, 国家级资助 | Hebei Normal University <br> 河北师范大学 |
 
