@@ -10,10 +10,14 @@ layout: default
 ----
 ### 2026
 
+Oct 28, 2026\
+<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
+
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
 Sep 16, 2026\
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
 
 Sep 08, 2026\
@@ -170,7 +174,7 @@ Oct 10, 2024\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **CSST Scientific Data Systems - Science Team 2024 Symposium**, Yinchuan, Ningxia
 
 Sep 14, 2024\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shaoze Geng won the **Excellent Prize in the Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> Shaoze Geng won the **Merit Award of the Linbridge Prize for Excellent Undergraduate Research Projects in Astronomy and Astrophysics, Peking University, 2024**
 
 Sep 04, 2024\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **MSA-3D: Metallicity Gradients in Galaxies at z∼1 with JWST/NIRSpec Slit-stepping Spectroscopy** by Ju et al., [arXiv](https://arxiv.org/abs/2409.01616)
