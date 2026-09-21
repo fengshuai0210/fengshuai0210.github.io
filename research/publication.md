@@ -19,6 +19,7 @@ layout: default
 1. **Shuai Feng**, Zhengyi Shao, Shiyin Shen, Maria Argudo-Fernandez, Hong Wu, Mani Lam, Ming Yang, [An Isolated Compact Galaxy Triplet](https://ui.adsabs.harvard.edu/abs/2016RAA....16...72F/abstract), 2016, *Research in Astronomy and Astrophysics*, 16, 5
 
 #### 🤝 Collaborator Paper / 合作论文
+35. Shuai Xu, Haibo Yuan, Maosheng Xiang, Bingqiu Chen, Yang Huang et al. (including **Shuai Feng**), [LAMOST III Low-resolution Spectroscopic Survey: Overview and Target Selection](), 2026, submitted to *Science China Physics, Mechanics & Astronomy*
 34. Shuai Zhang, Xiaolong Wang, Kai Xiao, Guozhen Hu, Wenyuan Cui, Ce Cai, **Shuai Feng**, Jie Ju, [Photometric Identification and Dynamical Purification of Blue Horizontal Branch Stars in DESI MWS DR1](), 2026, accepted by *The Astrophysical Journal Supplement Series*
 33. Xiaopeng Liu, Guozhen Hu, Zhengyi Shao, Erbil Gügercinoğlu, **Shuai Feng**, Wenyuan Cui, [Chemical and Kinematic Decomposition of the Galactic Disk: Quantifying the Radial and Vertical Abundance Gradients and the Rotation-Metallicity Relation of the Thick and Thin Disks](), 2026, submitted to *The Astrophysical Journal*
 32. Zihua Ho, Lihwai Lin, Hungyu Jian, Bauchng Hsieh, Carlos Lopez-Coba, Sebastian F. Sanchez, Wenyen Wu, **Shuai Feng**, Shiyin Shen, [Inside-Out vs. Outside-In Quenching of MaNGA Galaxies: Dependence on Stellar Mass and Environment](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005...85H/abstract), 2026, *The Astrophysical Journal*, 1005, 85
