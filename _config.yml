@@ -32,6 +32,8 @@ nav:
    link: "/teaching"
  - name: "Group"
    link: "/group"
+ - name: "Outreach / 科普"
+   link: "/outreach/"
 # - name: "Contact"
 #   link: "contact"
 # - name: "Links"

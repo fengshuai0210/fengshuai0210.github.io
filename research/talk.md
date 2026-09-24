@@ -109,6 +109,6 @@ layout: default
 
 ### 🌟 Popular Science Talk / 科普报告
 
-#### 2024
+科普报告已移至 [Outreach / 科普与社会服务](../outreach/) 页面，此处不再重复维护。
 
-1. *Astronomy Development and Astronomy Education in China*, **Education and Sports Bureau of Chengde County, Hebei**, 2024.06
+👉 [Outreach / 科普与社会服务](../outreach/)
