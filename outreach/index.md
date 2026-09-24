@@ -34,6 +34,7 @@ DATE <br> 时间 | EVENT <br> 活动 | PLACE <br> 地点 | ROLE <br> 角色
 ### 📰 Popular Science Writing & Media / 科普文章与媒体
 
 * **星光未至，数据先行——中国空间站巡天空间望远镜**，《中国国家天文》(Chinese National Astronomy)，2026.05 — [微信链接](https://mp.weixin.qq.com/s?__biz=MjM5NTYwODk3NA==&mid=2659394508&idx=1&sn=acb175fcaf2dbe72984599377e5a6da6&chksm=bc60e84e94fab4c23098f598126c3a7d54fa3953639981d599bb7e7f1fe2d45842579988a350&scene=27)
+* **《写给孩子的天文课》**，中国科学院科普图书，参与编写 — [豆瓣](https://book.douban.com/subject/35590819/)
 
 <!-- 可继续补充：其他科普文章、访谈、媒体报道、短视频或新媒体内容 -->
 
@@ -47,9 +48,7 @@ Astronomy education and outreach content development is one of the group's under
 
 DATE <br> 时间 | ACTIVITY <br> 活动 | ROLE <br> 角色
 -----|-------|------
-2010 | 上海市青少年科学创新实践工作站 · 天文工作站 | 指导教师
-
-<!-- 待核实：参与年份（本人回忆为 2010 年）与天文工作站的具体名称 -->
+2016–2020 | [上海市青少年科学创新实践项目 · 天文工作站](https://www.sohu.com/a/282547276_610697) | 课题指导教师
 
 📘 [本科生研究课题](../group/undergraduate_project.md)
 
@@ -57,9 +56,9 @@ DATE <br> 时间 | ACTIVITY <br> 活动 | ROLE <br> 角色
 
 ---
 
-### 🤝 Academic & Community Service / 学术与社会服务
+### 🤝 Community Service / 社会服务
 
-<!-- 可填写：期刊审稿、学会与专委会工作、会议组织、竞赛指导与评审、科普评审、院系与学科服务工作等 -->
+<!-- 可填写：科普评审、科技馆与中小学顾问、公众科学项目咨询等面向社会的服务 -->
 
 *待补充*
 

@@ -39,5 +39,7 @@ I received my Ph.D. in Astrophysics from the [Shanghai Astronomical Observatory,
 ### 👥 Professional Memberships and Service / 学术任职与服务
 
 * Peer Reviewer for Monthly Notices of the Royal Astronomical Society (MNRAS)
+* Reviewer, Undergraduate Thesis Sampling Review, Ministry of Education of China
+* External Reviewer of Master's Theses
 * 2023 - Present, LAMOST User Committee
 * 2022 - Present, Chinese Astronomical Society
