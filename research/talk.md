@@ -106,11 +106,3 @@ layout: default
 #### 2014
 
 1. *The Long-slit Observation of Galaxy Triplet J0848+1644*, **2014 Annual Meeting of the Chinese Astronomical Society**, 2014.10, Xi'an, Shaanxi
-
-----
-
-### 🌟 Popular Science Talk / 科普报告
-
-科普报告已移至 [Outreach / 科普与社会服务](../outreach/) 页面，此处不再重复维护。
-
-👉 [Outreach / 科普与社会服务](../outreach/)
