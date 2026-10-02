@@ -48,10 +48,10 @@ Our group welcomes students interested in galaxy evolution, observational astron
 Oct 28, 2026\
 <img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
 
+#### ⏮ Past / 往期动态
+
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
-
-#### ⏮ Past / 往期动态
 
 Sep 16, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**\
@@ -65,11 +65,5 @@ Sep 07, 2026\
 
 Sep 05, 2026\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a docent at the **National Science Popularization Month** activity at the Hebei Science and Technology Museum
-
-Aug 17, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Symposium on Molecular Clouds and Star Formation**
-
-Jul 29, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Science Conference of the China Space Station Telescope**, Kashgar, Xinjiang
 
 👉 **[Previous News](./news)**
