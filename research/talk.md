@@ -6,10 +6,12 @@ layout: default
 
 ### 🎓 Seminar Talk / 学术报告
 
+#### 2026
+1. *Evolution of Interacting Galaxies and Its Physical Drivers*, **Department of Astronomy, University of Science and Technology of China**, 2026.09
+
 #### 2025
 1. *Tracing Gas Inflow and Outflow through Asymmetric Velocity Fields*, **Shanghai Astronomical Observatory, Chinese Academy of Sciences**, 2025.03
 2. *From MaNGA to CSST: Morphology of Galaxy Gas Velocity Fields and Simulation of IFS Datacubes*, **National Astronomical Observatories, Chinese Academy of Sciences**, 2025.04
-3. *Bar Structures in Galaxy Pairs*, **Shanghai Astronomical Observatory, Chinese Academy of Sciences**, 2025.07
 
 #### 2023
 
