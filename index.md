@@ -50,11 +50,13 @@ Oct 28, 2026\
 
 #### ⏮ Past / 往期动态
 
+Oct 15, 2026\
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome our new undergraduate members from the 2025 cohort: **Qianyue Ma (马骞玥), Wanling Miao (苗婉灵), Wenshuo Guo (郭汶硕), Baoyi Chu (褚宝宜), Yan Zhang (张岩), Xin Wang (王鑫), Ruoxi Wang (王若羲), and Yongchang Hu (胡永畅)**! [Meet the Team](./group/)
+
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
 Sep 16, 2026\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**
 
 👉 **[Previous News](./news)**
