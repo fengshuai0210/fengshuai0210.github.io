@@ -31,8 +31,8 @@ Our group currently includes one master's student and ten undergraduate students
 | Bingxi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation Distribution of  Galaxy Pairs |
 | Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Star Formation of Post-merger Galaxies |
 | Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
-| Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Star Formation Histories and Chemical Enrichment in Galaxy Triplets |
-| Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger Statistics in IllustrisTNG |
+| Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Galaxy Interaction in Small Galaxy System |
+| Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger in IllustrisTNG |
 | Wenshuo Guo <br> 郭汶硕 | BSc 2025 <br> 2025级本科 | Classification of Simulated Gas Velocity Fields and Identification of Inflows and Outflows |
 | Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | Active Galactic Nuclei in Galaxy Pairs |
 | Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Redshift Evolution of Star Formation in COSMOS-Web Post-merger Galaxies |
