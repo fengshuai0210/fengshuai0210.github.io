@@ -22,9 +22,9 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ### 👥 Current Members / 团队成员
 
-Our group currently includes one master's student and ten undergraduate students. Undergraduate projects are at an early exploratory stage, spanning galaxy mergers, star formation, gas kinematics, active galactic nuclei, and the circumgalactic medium through observations and numerical simulations.
+Our group currently includes one master's student and ten undergraduate students. Their research topics are listed below.
 
-目前团队包括1名硕士研究生和10名本科生。本科生课题正处于起步与探索阶段，结合观测数据和数值模拟，围绕星系并合、恒星形成、气体运动学、活动星系核和星系周介质开展科研训练。下表列出各成员目前的研究方向。
+目前课题组包括1名硕士研究生和10名本科生，研究课题如下。
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|

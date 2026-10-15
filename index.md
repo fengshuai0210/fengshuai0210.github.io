@@ -36,7 +36,7 @@ Current work focuses on:
 Our group welcomes students interested in galaxy evolution, observational astronomy, integral field spectroscopy, and astronomical data analysis.
 
 * Graduate Student: Bingxi Huo (霍柄锡)
-* Undergraduate Students: Ten students from the 2023 and 2025 cohorts, exploring galaxy mergers, star formation, gas kinematics, and related topics. [Meet the Team](./group/)
+* Undergraduate Students: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇), Qianyue Ma (马骞玥), Wanling Miao (苗婉灵), Wenshuo Guo (郭汶硕), Baoyi Chu (褚宝宜), Yan Zhang (张岩), Xin Wang (王鑫), Ruoxi Wang (王若羲), Yongchang Hu (胡永畅)
 
 *[Join Our Group (加入我们)](./group/)*
 
@@ -51,7 +51,7 @@ Oct 28, 2026\
 #### ⏮ Past / 往期动态
 
 Oct 15, 2026\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcome our new undergraduate members from the 2025 cohort: **Qianyue Ma (马骞玥), Wanling Miao (苗婉灵), Wenshuo Guo (郭汶硕), Baoyi Chu (褚宝宜), Yan Zhang (张岩), Xin Wang (王鑫), Ruoxi Wang (王若羲), and Yongchang Hu (胡永畅)**! [Meet the Team](./group/)
+<img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcomed new undergraduate student members, **Qianyue Ma (马骞玥), Wanling Miao (苗婉灵), Wenshuo Guo (郭汶硕), Baoyi Chu (褚宝宜), Yan Zhang (张岩), Xin Wang (王鑫), Ruoxi Wang (王若羲), and Yongchang Hu (胡永畅)**!
 
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
