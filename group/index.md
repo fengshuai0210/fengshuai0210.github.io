@@ -35,10 +35,10 @@ Our group currently includes one master's student and ten undergraduate students
 | Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger in IllustrisTNG |
 | Wenshuo Guo <br> 郭汶硕 | BSc 2025 <br> 2025级本科 | Machine Learning Classification of Gas Velocity-field Morphology |
 | Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | Active Galactic Nuclei in Galaxy Pairs |
-| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Redshift Evolution of Star Formation in COSMOS-Web Post-merger Galaxies |
+| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Post-merger Galaxies in COSMOS-Web |
 | Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Medium of Merging Galaxies |
 | Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry and Star Formation in MaNGA Galaxies |
-| Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Non-circular Gas Motions and Radial Flows in MaNGA Disk Galaxies |
+| Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Signatures of Gas Inflows in MaNGA Disk Galaxies |
 
 ---
 
