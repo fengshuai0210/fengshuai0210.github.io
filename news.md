@@ -10,8 +10,8 @@ layout: default
 ----
 ### 2026
 
-Oct 28, 2026\
-<img src="/image/meeting-icon.png" style="width:30px;height:30px;"> **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
+Oct 29, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
 
 Oct 15, 2026\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Welcomed new undergraduate student members, **Qianyue Ma (马骞玥), Wanling Miao (苗婉灵), Wenshuo Guo (郭汶硕), Baoyi Chu (褚宝宜), Yan Zhang (张岩), Xin Wang (王鑫), Ruoxi Wang (王若羲), and Yongchang Hu (胡永畅)**!
@@ -20,8 +20,7 @@ Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
 Sep 16, 2026\
-<img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
+<img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**
 
 Sep 08, 2026\
 <img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the observational astrophysics practice at the **Xinglong Observatory**, National Astronomical Observatories, Chinese Academy of Sciences
