@@ -22,11 +22,23 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ### 👥 Current Members / 团队成员
 
+Our group currently includes one master's student and ten undergraduate students. Undergraduate projects are at an early exploratory stage, spanning galaxy mergers, star formation, gas kinematics, active galactic nuclei, and the circumgalactic medium through observations and numerical simulations.
+
+目前团队包括1名硕士研究生和10名本科生。本科生课题正处于起步与探索阶段，结合观测数据和数值模拟，围绕星系并合、恒星形成、气体运动学、活动星系核和星系周介质开展科研训练。下表列出各成员目前的研究方向。
+
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
 | Bingxi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation Distribution of  Galaxy Pairs |
 | Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Star Formation of Post-merger Galaxies |
 | Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
+| Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Star Formation Histories and Chemical Enrichment in Galaxy Triplets |
+| Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger Statistics in IllustrisTNG |
+| Wenshuo Guo <br> 郭汶硕 | BSc 2025 <br> 2025级本科 | Classification of Simulated Gas Velocity Fields and Identification of Inflows and Outflows |
+| Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | Active Galactic Nuclei in Galaxy Pairs |
+| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Redshift Evolution of Star Formation in COSMOS-Web Post-merger Galaxies |
+| Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Medium of Merging Galaxies |
+| Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry and Star Formation in MaNGA Galaxies |
+| Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Non-circular Gas Motions and Radial Flows in MaNGA Disk Galaxies |
 
 ---
 

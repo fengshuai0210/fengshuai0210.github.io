@@ -36,7 +36,7 @@ Current work focuses on:
 Our group welcomes students interested in galaxy evolution, observational astronomy, integral field spectroscopy, and astronomical data analysis.
 
 * Graduate Student: Bingxi Huo (霍柄锡)
-* Undergraduate Students: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇)
+* Undergraduate Students: Ten students from the 2023 and 2025 cohorts, exploring galaxy mergers, star formation, gas kinematics, and related topics. [Meet the Team](./group/)
 
 *[Join Our Group (加入我们)](./group/)*
 
@@ -56,14 +56,5 @@ Sep 29, 2026\
 Sep 16, 2026\
 <img src="/image/prize-icon.png" style="width:30px;height:30px;"> The innovation project led by **Bingxi Huo** received the **Merit Award** in the **Hebei Normal University round of the China International College Students' Innovation Competition (2026)**\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Shanghai Astronomical Observatory, Chinese Academy of Sciences**
-
-Sep 08, 2026\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a lead teacher for the observational astrophysics practice at the **Xinglong Observatory**, National Astronomical Observatories, Chinese Academy of Sciences
-
-Sep 07, 2026\
-<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Star Formation Evolution in Galaxy Pairs: Constraints from Morphological Disturbances and Recent Star Formation Histories** by Geng et al., [arXiv](https://arxiv.org/abs/2609.04560)
-
-Sep 05, 2026\
-<img src="/image/event-icon.png" style="width:30px;height:30px;"> Served as a docent at the **National Science Popularization Month** activity at the Hebei Science and Technology Museum
 
 👉 **[Previous News](./news)**
