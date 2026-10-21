@@ -50,6 +50,9 @@ Oct 29, 2026\
 
 #### ⏮ Past / 往期动态
 
+Oct 10, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Photometric Identification and Dynamical Purification of Blue Horizontal-branch Stars in DESI MWS DR1** by Zhang et al., [arXiv](https://arxiv.org/abs/2610.15031)
+
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
