@@ -13,6 +13,9 @@ layout: default
 Oct 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
 
+Oct 21, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Photometric Identification and Dynamical Purification of Blue Horizontal-branch Stars in DESI MWS DR1** by Zhang et al., [ApJS](https://ui.adsabs.harvard.edu/abs/2026ApJS..286...62Z/abstract)
+
 Sep 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Seminar talk at **Department of Astronomy, University of Science and Technology of China**
 
