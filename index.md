@@ -46,7 +46,7 @@ Our group welcomes students interested in galaxy evolution, observational astron
 #### ⏳ Upcoming / 近期预告
 
 Oct 29, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk *Star Formation Evolution along Galaxy Merger Sequence* at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
 
 #### ⏮ Past / 往期动态
 
