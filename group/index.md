@@ -22,15 +22,22 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ### 👥 Current Members / 团队成员
 
-Our group currently includes one master's student and two undergraduate students. Their research topics are listed below.
+Our group currently includes one master's student and nine undergraduate students. Their research topics are listed below.
 
-目前课题组包括1名硕士研究生和2名本科生，研究课题如下。
+目前课题组包括1名硕士研究生和9名本科生，研究课题如下。
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
 | Bingxi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation Distribution of  Galaxy Pairs |
 | Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Star Formation of Post-merger Galaxies |
 | Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
+| Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Galaxy Interaction in Small Galaxy System |
+| Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger in IllustrisTNG |
+| Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | Active Galactic Nuclei in Galaxy Pairs |
+| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Post-merger Galaxies in COSMOS-Web |
+| Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Medium of Merging Galaxies |
+| Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry in MaNGA Galaxies |
+| Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Signatures of Gas Inflows in MaNGA Disk Galaxies |
 
 ---
 
