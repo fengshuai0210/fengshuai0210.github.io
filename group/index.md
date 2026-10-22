@@ -34,7 +34,7 @@ Our group currently includes one master's student and nine undergraduate student
 | Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Galaxy Interaction in Small Galaxy System |
 | Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger in IllustrisTNG |
 | Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | Active Galactic Nuclei in Galaxy Pairs |
-| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Post-merger Galaxies in COSMOS-Web |
+| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Merging Galaxies in COSMOS-Web |
 | Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Medium of Merging Galaxies |
 | Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry in MaNGA Galaxies |
 | Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Signatures of Gas Inflows in MaNGA Disk Galaxies |
