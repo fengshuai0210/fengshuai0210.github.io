@@ -36,7 +36,7 @@ Current work focuses on:
 Our group welcomes students interested in galaxy evolution, observational astronomy, integral field spectroscopy, and astronomical data analysis.
 
 * Graduate Student: Bingxi Huo (霍柄锡)
-* Undergraduate Students: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇)
+* Undergraduate Students: Yijin Niu (牛艺瑾), Weiqi Fan (范炜奇), Qianyue Ma (马骞玥), Wanling Miao (苗婉灵), Baoyi Chu (褚宝宜), Yan Zhang (张岩), Xin Wang (王鑫), Ruoxi Wang (王若羲), Yongchang Hu (胡永畅)
 
 *[Join Our Group (加入我们)](./group/)*
 
