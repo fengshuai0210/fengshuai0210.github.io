@@ -39,7 +39,7 @@ Our group currently includes one master's student and eleven undergraduate stude
 | Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry in MaNGA Galaxies |
 | Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Signatures of Gas Inflows in MaNGA Disk Galaxies |
 | Jiaying Qu <br> 渠佳颖 | BSc 2025 <br> 2025级本科 | Gas-phase Metallicity of Interacting Galaxies |
-| Tianyuan Deng <br> 邓天元 | BSc 2025 <br> 2025级本科 | Topic to be determined |
+| Tianyuan Deng <br> 邓天元 | BSc 2025 <br> 2025级本科 | Galaxy Interactions |
 
 ---
 
