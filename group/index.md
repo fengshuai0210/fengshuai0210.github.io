@@ -22,9 +22,9 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ### 👥 Current Members / 团队成员
 
-Our group currently includes one master's student and nine undergraduate students. Their research topics are listed below.
+Our group currently includes one master's student and eleven undergraduate students. Their research topics are listed below.
 
-目前课题组包括1名硕士研究生和9名本科生，研究课题如下。
+目前课题组包括1名硕士研究生和11名本科生，研究课题如下。
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
@@ -38,6 +38,8 @@ Our group currently includes one master's student and nine undergraduate student
 | Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Medium of Merging Galaxies |
 | Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry in MaNGA Galaxies |
 | Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Signatures of Gas Inflows in MaNGA Disk Galaxies |
+| Jiaying Qu <br> 渠佳颖 | BSc 2025 <br> 2025级本科 | Gas-phase Metallicity of Interacting Galaxies |
+| Tianyuan Deng <br> 邓天元 | BSc 2025 <br> 2025级本科 | Topic to be determined |
 
 ---
 
