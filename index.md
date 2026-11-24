@@ -49,6 +49,12 @@ Our group welcomes students interested in galaxy evolution, observational astron
 
 #### ⏮ Past / 往期动态
 
+Nov 16, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **The LAMOST Galaxy Parameter Catalog (LAGC): Stellar Populations, Kinematics, and Emission Lines of Galaxies in the LAMOST Spectroscopic Survey** by Lu et al., [arXiv](https://arxiv.org/abs/2611.20917)
+
+Nov 16, 2026\
+<img src="/image/paper-icon.png" style="width:30px;height:30px;"> **LAMOST III Low-resolution Spectroscopic Survey: Overview and Target Selection** by Xu et al., [arXiv](https://arxiv.org/abs/2611.20828)
+
 Oct 29, 2026\
 <img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk ***Star Formation Evolution along the Galaxy Merger Sequence*** at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
 
