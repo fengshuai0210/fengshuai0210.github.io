@@ -17,7 +17,7 @@ Nov 16, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **LAMOST III Low-resolution Spectroscopic Survey: Overview and Target Selection** by Xu et al., [arXiv](https://arxiv.org/abs/2611.20828)
 
 Oct 29, 2026\
-<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk ***Star Formation Evolution along the Galaxy Merger Sequence*** at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk at **2026 Annual Meeting of the Chinese Astronomical Society**, Shijiazhuang, Hebei
 
 Oct 10, 2026\
 <img src="/image/paper-icon.png" style="width:30px;height:30px;"> **Photometric Identification and Dynamical Purification of Blue Horizontal-branch Stars in DESI MWS DR1** by Zhang et al., [arXiv](https://arxiv.org/abs/2610.15031)
