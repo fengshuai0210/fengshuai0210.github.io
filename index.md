@@ -45,7 +45,8 @@ Our group welcomes students interested in galaxy evolution, observational astron
 
 #### ⏳ Upcoming / 近期预告
 
-*To be announced / 待定*
+Nov 30, 2026\
+<img src="/image/talk-icon.png" style="width:30px;height:30px;"> Contributed talk ***Star Formation Evolution along the Galaxy Merger Sequence*** at **Galaxy Mergers and Interactions in the Era of Space Telescopes**, Changzhou, Jiangsu (conference Nov 29 – Dec 2)
 
 #### ⏮ Past / 往期动态
 
