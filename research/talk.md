@@ -22,7 +22,7 @@ layout: default
 
 #### 2026
 
-50. *Star Formation Evolution along the Galaxy Merger Sequence*, **Galaxy Mergers and Interactions in the Era of Space Telescopes**, 2026.11.30, Changzhou, Jiangsu
+50. *Star Formation Evolution along the Galaxy Merger Sequence*, **Galaxy Mergers and Interactions in the Era of Space Telescopes**, 2026.12.01, Changzhou, Jiangsu
 49. *Star Formation Evolution along Galaxy Merger Sequence*, **2026 Annual Meeting of the Chinese Astronomical Society**, 2026.10, Shijiazhuang, Hebei
 48. *Linking Gas Kinematics to Star Formation and the Baryon Cycle in Nearby Galaxies*, **2026 Symposium on Molecular Clouds and Star Formation**, 2026.08, Shijiazhuang, Hebei
 47. *Star Formation Along the Galaxy Merger Sequence*, **2026 Annual Science Conference of the China Space Station Telescope**, 2026.07, Kashgar, Xinjiang
