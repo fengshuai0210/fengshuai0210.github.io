@@ -22,25 +22,29 @@ We welcome highly motivated undergraduate and graduate students to join our grou
 
 ### 👥 Current Members / 团队成员
 
-Our group currently includes one master's student and twelve undergraduate students. Their research topics are listed below.
+Our group currently includes one master's student and sixteen undergraduate students. Their research topics are listed below.
 
-目前课题组包括1名硕士研究生和12名本科生，研究课题如下。
+目前课题组包括1名硕士研究生和16名本科生，研究课题如下。
 
 | Name <br> 姓名 | Degree & Year <br> 学位与入学年份 | Research Topic <br> 研究课题 |
 |----------------|-------------------------------|-----------------------------|
-| Bingxi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation Distribution of  Galaxy Pairs |
-| Yijin Niu <br> 牛艺瑾  | BSc 2023 <br> 2023级本科 | Star Formation of Post-merger Galaxies |
-| Weiqi Fan <br> 范炜奇  | BSc 2023 <br> 2023级本科 | Merging Galaxies in VLT-MUSE |
-| Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Galaxy Interaction in Small Galaxy System |
-| Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Merger in IllustrisTNG |
-| Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | Active Galactic Nuclei in Galaxy Pairs |
-| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | Merging Galaxies in COSMOS-Web |
-| Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Medium of Merging Galaxies |
-| Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Velocity-field Asymmetry in MaNGA Galaxies |
-| Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Signatures of Gas Inflows in MaNGA Disk Galaxies |
-| Jiaying Qu <br> 渠佳颖 | BSc 2025 <br> 2025级本科 | Gas-phase Metallicity of Interacting Galaxies |
-| Tianyuan Deng <br> 邓天元 | BSc 2025 <br> 2025级本科 | Galaxy Interactions |
-| Jianxiang Huang <br> 黄健翔 | BSc 2025 <br> 2025级本科 | Cold Gas in Galaxy Pairs |
+| Bingxi Huo <br> 霍柄锡 | MSc 2025 <br> 2025级硕士 | Star Formation in Galaxy Systems |
+| Yijin Niu <br> 牛艺瑾 | BSc 2023 <br> 2023级本科 | Structure and Star Formation of Post-merger Galaxies |
+| Weiqi Fan <br> 范炜奇 | BSc 2023 <br> 2023级本科 | Interacting Galaxies with Integral-Field Spectroscopy |
+| Qianyue Ma <br> 马骞玥 | BSc 2025 <br> 2025级本科 | Star Formation in Multiple Galaxy Systems |
+| Wanling Miao <br> 苗婉灵 | BSc 2025 <br> 2025级本科 | Galaxy Pairs in Cosmological Simulations |
+| Baoyi Chu <br> 褚宝宜 | BSc 2025 <br> 2025级本科 | AGN in Interacting Galaxies |
+| Yan Zhang <br> 张岩 | BSc 2025 <br> 2025级本科 | High-redshift Galaxies: Morphology and Star Formation |
+| Xin Wang <br> 王鑫 | BSc 2025 <br> 2025级本科 | Circumgalactic Gas around Galaxies |
+| Ruoxi Wang <br> 王若羲 | BSc 2025 <br> 2025级本科 | Gas Kinematics of Interacting Galaxies |
+| Yongchang Hu <br> 胡永畅 | BSc 2025 <br> 2025级本科 | Gas Inflows and Star Formation in Disk Galaxies |
+| Jiaying Qu <br> 渠佳颖 | BSc 2025 <br> 2025级本科 | Chemical Properties of Interacting Galaxies |
+| Tianyuan Deng <br> 邓天元 | BSc 2025 <br> 2025级本科 | Machine Learning for Galaxy Morphology |
+| Jianxiang Huang <br> 黄健翔 | BSc 2025 <br> 2025级本科 | Cold Gas and Star Formation in Interacting Galaxies |
+| Yushuo Bai <br> 白雨硕 | BSc 2025 <br> 2025级本科 | Structural Effects on Star Formation in Interacting Galaxies |
+| Boyu Yang <br> 杨博宇 | BSc 2025 <br> 2025级本科 | AGN Activity and Host Galaxies |
+| Shuocheng Wang <br> 王烁程 | BSc 2025 <br> 2025级本科 | Stellar Populations and Star Formation Histories |
+| Yehang Niu <br> 牛晔航 | BSc 2025 <br> 2025级本科 | Galaxy Quenching across Environments |
 
 ---
 
